@@ -1,6 +1,6 @@
 # Plan: Claude Asistent za Mahira - Svakodnevna Podrška IT/Administracija
 
-**Verzija:** 1.1
+**Verzija:** 1.8
 **Datum:** 26.10.2025
 **Status:** U Implementaciji
 
@@ -344,6 +344,159 @@ Slike (`.md`):
 
 ---
 
+### 2. `chat-integrator` Skill ✅
+
+**Što radi:**
+- Automatski integriše procesirane medije u chat.md fajlove
+- Izvlači timestamp iz naziva fajla ili file mtime
+- Ubacuje sadržaj na hronološki pravom mjestu u chat.md
+- Kreira backup prije modifikacije
+
+**Kako funkcioniše:**
+1. Pronalazi sve `.json` audio transkripcije i `.md` image summaries
+2. Ekstraktuje timestamp iz naziva fajla (svi WhatsApp formati):
+   - Format 1: `WhatsApp [Audio/Image/Video] YYYY-MM-DD at HH.MM.SS`
+   - Format 2: `[AUDIO/PHOTO/IMAGE/VIDEO/PTT]-YYYY-MM-DD-HH-MM-SS`
+   - Fallback na file modification time
+3. Parsira postojeći chat.md sa timestamp-ovima
+4. Merge-uje i sortira sve entrije hronološki
+5. Upisuje ažurirani chat.md
+
+**Entry formati:**
+
+Audio:
+```markdown
+[24. 10. 2025., 16:36:50] [AUDIO] Sender: Full transcribed text...
+```
+
+Slike:
+```markdown
+[26. 10. 2025., 14:59:32] [IMAGE] Mahir Kadic:
+
+Natural language summary of image content...
+```
+
+**Usage:**
+```bash
+# Integrate for today (default)
+python .claude/skills/chat-integrator/scripts/integrate_media.py
+
+# Integrate for specific date (all departments)
+python .claude/skills/chat-integrator/scripts/integrate_media.py --scan-date 24.10
+
+# Integrate for specific folder
+python .claude/skills/chat-integrator/scripts/integrate_media.py --folder "gastrohem whatsapp/administracija/20.10 - 27.10/24.10"
+
+# Dry run (preview changes)
+python .claude/skills/chat-integrator/scripts/integrate_media.py --dry-run
+```
+
+**Performance:**
+- Integration: ~1-2 sec po folderu
+- Auto backup: chat.md.backup kreiran prije izmjene
+
+**Lokacija:** `.claude/skills/chat-integrator/`
+
+---
+
+### 3. `media-workflow` Skill ✅
+
+**Što radi:**
+- Kompletan end-to-end workflow u jednom koraku
+- Kombinuje `gastrohem-media-processor` + `chat-integrator`
+- Automatizuje cijeli proces dnevne obrade medija
+
+**Workflow:**
+1. **Step 1:** Procesira media (audio + slike)
+   - Parallel audio transkripcija → `.json`
+   - Batch image OCR → `.md`
+2. **Step 2:** Integriše u chat.md
+   - Timestamp extraction
+   - Chronological merge
+   - Auto backup
+3. **Step 3:** Report rezultata
+
+**Usage:**
+```bash
+# Complete workflow for today
+python .claude/skills/media-workflow/scripts/run_workflow.py
+
+# Complete workflow for specific date
+python .claude/skills/media-workflow/scripts/run_workflow.py --scan-date 24.10
+
+# Dry run
+python .claude/skills/media-workflow/scripts/run_workflow.py --dry-run
+```
+
+**Performance:**
+- Total time: ~10-15 sec za típican dnevni folder
+- Media processing: ~5-8 sec (paralelno)
+- Integration: ~2-3 sec
+- Reporting: instant
+
+**Output:**
+- `.json` audio transkripcije
+- `.md` image summaries
+- Ažuriran `chat.md` sa svim medijima
+- `chat.md.backup` prije izmjena
+- Workflow report (opciono JSON)
+
+**Lokacija:** `.claude/skills/media-workflow/`
+
+---
+
+### 4. `dnevni-summary` Skill ✅
+
+**Što radi:**
+- Analizira sve chat.md fajlove iz određenog datuma
+- Agreguje poruke iz svih odjela
+- Parsira poruke po osobama
+- Kreira strukturiran dnevni izvještaj
+
+**Workflow:**
+1. Pronalazi sve chat.md fajlove za datum
+2. Čita i parsira poruke (timestamp + sender + content)
+3. Agreguje po osobama
+4. Generiše markdown summary
+
+**Output format:**
+```markdown
+# Dnevni Summary - DD.MM
+
+## Pregled Aktivnosti
+- Odjeli aktivni: lista
+- Ukupno poruka: broj
+- Aktivnih osoba: broj
+
+## **Ime Prezime**
+**Broj poruka:** X
+**Poruke:**
+- [timestamp] poruka tekst
+```
+
+**Usage:**
+```bash
+# Summary for today
+python .claude/skills/dnevni-summary/scripts/generate_summary.py
+
+# Summary for specific date
+python .claude/skills/dnevni-summary/scripts/generate_summary.py --date 24.10
+
+# Custom output file
+python .claude/skills/dnevni-summary/scripts/generate_summary.py --date 24.10 --output my-summary.md
+```
+
+**Performance:**
+- Processing: ~2-5 sec za típican dan
+- Output: Markdown fajl
+
+**Testiran:**
+- 24.10: 61 poruka iz 3 odjela, 7 osoba ✅
+
+**Lokacija:** `.claude/skills/dnevni-summary/`
+
+---
+
 ## 📋 IMPLEMENTACIONI PLAN
 
 ### **Korak 1**: Kreirati `mahir/` folder strukturu
@@ -430,6 +583,63 @@ Nakon implementacije:
 ---
 
 ## 📝 Version History
+
+### v1.8 (26.10.2025)
+- ✅ Refaktorisani skill.md fajlovi za `dnevni-summary` i `sedmicni-summary`
+- Ažurirani da prate standardnu strukturu kao `gastrohem-media-processor`
+- Dodati YAML frontmatter sa name i description
+- Organizovane sekcije: Overview, When to Use, Workflow, Format, Script Reference, Best Practices, Examples
+- Jasne instrukcije kako Claude treba da koristi skillove
+- Poboljšana dokumentacija za Claude-driven workflow (dnevni-summary)
+
+### v1.7 (26.10.2025)
+- ✅ Implementiran `sedmicni-summary` skill
+- Agregira sve dnevne summaries iz sedmičnog foldera
+- Detektuje završene taskove (checkboxes, ključne riječi)
+- Generiše plan za narednu sedmicu baziran na aktivnostima
+- Kreira `sedmicni-summary.md` u root-u sedmičnog foldera
+- Testirano na 20.10-27.10: 3 sedmična summary-ja kreirana ✅
+- ✅ Refaktorisan `dnevni-summary` workflow
+- Kreiran novi `read_daily_data.py` script koji samo učitava podatke
+- **Claude-driven approach**: Script čita, Claude analizira i generiše summaries
+- Uklonjena automatska generacija summary-ja iz Python scripta
+- Dodato učitavanje prethodnih taskova (iz sedmičnih i dnevnih summaries)
+
+### v1.6 (26.10.2025)
+- ✅ Refaktorisan `dnevni-summary` skill (početna verzija per-folder)
+- Promijenjen sa agregiranog na per-folder summaries
+- Svaki odjel kreira svoj `summary.md` u svom folderu
+- Duplicate detection dodan u `chat-integrator`
+- Testirano na 24.10: 3 summary.md fajla kreirana ✅
+
+### v1.5 (26.10.2025)
+- ✅ Implementiran `dnevni-summary` skill (inicijalna verzija)
+- Agregacija chat.md fajlova iz svih odjela
+- Parsiranje poruka po osobama sa timestamp-ovima
+- Generisanje strukturiranog markdown summary-ja
+
+### v1.4 (26.10.2025)
+- ✅ Implementiran `media-workflow` skill
+- End-to-end automatizacija: process media + integrate u jedan korak
+- Kombinuje `gastrohem-media-processor` + `chat-integrator`
+- Workflow reporting sa optional JSON output
+- Performance: ~10-15 sec za kompletan dnevni folder
+
+### v1.3 (26.10.2025)
+- ✅ Proširena timestamp extraction podrška
+- Dodati SVI WhatsApp formati naziva fajlova:
+  - Format 1: `WhatsApp [Audio/Image/Video] YYYY-MM-DD at HH.MM.SS`
+  - Format 2: `[AUDIO/PHOTO/IMAGE/VIDEO/PTT]-YYYY-MM-DD-HH-MM-SS`
+  - Testirana sva varijanta (7 različitih formata) ✅
+- Ažurirana dokumentacija za oba skilla
+
+### v1.2 (26.10.2025)
+- ✅ Implementiran `chat-integrator` skill
+- Automatska integracija audio/image medija u chat.md fajlove
+- Timestamp extraction iz WhatsApp formata ili file mtime
+- Hronološko sortiranje i merge postojećih + novih entrija
+- Auto backup prije modifikacije
+- Sender extraction iz .md fajlova
 
 ### v1.1 (26.10.2025)
 - ✅ Implementiran `gastrohem-media-processor` skill
