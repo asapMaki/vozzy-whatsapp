@@ -125,26 +125,9 @@ Gastrohem je kompanija koja nudi **sve iz jedne ruke** za gastronomiju i hotelja
    - Šta bi ko trebao da uradi
    - Ključne odluke i akcije
 
-### Planirana Automatizacija (TODO)
+### Planirana Automatizacija
 
-- [ ] Napraviti skillove za Claude:
-  - [ ] Skill da pretvori audio/sliku u md ili json
-  - [ ] Skill da analizira folder sa današnjim danom, ubaci sve transkripcije u chat.md
-  - [ ] Skill da napravi summary.md od chat.md
-  - [ ] Skill da napravi summary od svih foldera sa istim datumom (za slanje u WhatsApp grupe)
-  - [ ] Skill za sedmični summary (nedjelja)
-  - [ ] Skill za mjesečni summary (kraj mjeseca)
-  - [ ] Evidencija taskova iz razgovora
-  - [ ] Evidencija kontakata (klijenti, partneri)
-
-- [ ] Evidentirati u gastrohem kompanija:
-  - [ ] Kompletna ideja firme i šta sve nudimo
-  - [ ] Ko su menadžeri
-  - [ ] Ko su radnici
-  - [ ] Ko su klijenti
-  - [ ] Ko su partneri
-  - [ ] Ko su konkurenti
-  - [ ] Gdje su lokacije
+Za detaljan tracking operativnih taskova, vidi **[TASKOVI.md](TASKOVI.md)**
 
 ## Format Summary Fajlova
 
