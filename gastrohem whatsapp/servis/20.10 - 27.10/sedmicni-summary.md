@@ -1,50 +1,122 @@
 # Sedmični Summary - Servis (20.10 - 27.10)
 
-**Period:** 20.10 - 27.10  
-**Broj dana:** 1  
-**Aktivnih osoba:** 1
+**Period:** 20.10 - 27.10 | **Dana:** 1 | **Teme:** 3
+
+## Učesnici
+
+- **Adis Kadric** - Dao zadatak za servis kod Hivzibega, preporučio DPS za štampu i grafiku
+- **Haris** - Kontaktirao Hivzibega za servis mašine, analiza cijena štamparija
+- **Mahir** - Kontaktirao Kenan Design za ponudu, razgovor sa grafičkim dizajnerom za saradnju
+- **Muhamed** - Koristi omeksivač za vodu (ne otkriti Hivzibegu)
+
+## Šta je Urađeno
+
+**Glavne aktivnosti:**
+- ✅ Kontaktiran Hivzibeg za servis mašine u Tuzli, identifikovan problem: voda, potreban omeksivač (Servis)
+- ✅ Dobivene ponude za štampanje letaka: DPS 640 KM/2000 kom, Kenan Design 270 KM/2000 kom (Štampanje)
+- ✅ Identifikovan grafički dizajner za eventualnu saradnju (radi za Fokus) (Grafički Dizajn)
+- ✅ Analiza cijena: Kenan Design skoro 60% jeftiniji od DPS-a (Štampanje)
+
+**Ključne Odluke:**
+1. **Kenan Design preporučen za štampanje** - Duplo niža cijena od DPS-a (270 KM vs 640 KM za 2000 komada) (Haris/Mahir)
+2. **Strategija za grafiku i štampanje** - Možda grafiku raditi sa Behadirom (DPS), štampanje kod Kenana (Zenica)
+3. **Prioritet na omeksivač** - Kupiti omeksivač za vodu, naučiti ugradnju, prezentovati Hivzibegu (Adis/Haris)
+
+## Šta Treba za Narednu Sedmicu
+
+**Prioriteti:**
+1. **Riješiti problem sa mašinom kod Hivzibega** - Omeksivač, testiranje nove hemije
+2. **Odabrati dobavljača za letke** - Finalizovati Kenan Design ili DPS
+
+**Naredni Koraci po Osobama:**
+- **Haris:**
+  - [ ] Kupiti omeksivače za vodu
+  - [ ] Naučiti kako se ugrađuje (pitati djeda)
+  - [ ] Ponedjeljak - Prezentovati Hivzibegu kako mašina pere sa omeksivačem
+  - [ ] Ako Elma završi bolju hemiju, testirati i tu
+- **Mahir:**
+  - [ ] Organizovati sastanak sa grafičkim dizajnerom (Mahir + kolega + dizajner)
+  - [ ] Finalizovati odabir štamparije (Kenan vs DPS)
+- **Adis:**
+  - [ ] Odobriti finalnu odluku za štampariju
+  - [ ] Pratiti napredak sa Hivzibeg servisom
+
+**Otvorena Pitanja:**
+- ❓ Da li ići sa DPS-om za grafiku a Kenana za štampanje ili sve kod Kenana?
+- ❓ Koliki tiraz letaka je potreban (1000 ili 2000)?
+- ❓ Da li je nova Elmina hemija spremna za testiranje?
 
 ---
 
-## **Servis i Stampanje Letaka za Gastrohem**
+## Detalji po Temama
 
-### Aktivnosti u sedmici:
-- [25.10] Kontaktirati Hivzibega (klijent u Tuzli) oko masine
-- [25.10] Problem: Seperi rade dobro, ali solice imaju problema
-- [25.10] Muhamed vec koristi omeksivac (ne govoriti Hivzibegu da je Muhamed to prenio)
-- [25.10] Kontaktiran Hivzibeg ✓
-- [25.10] Sve dogovoreno, nema problema
-- [25.10] Masinu nije palio, upalice u ponedjeljak
-- [25.10] Firma DPS - stamparija
-- [25.10] Kontakt: Behadir u grupi "grafika"
-- [25.10] Moze se dogovoriti graficki dizajn i stampanje
-- [25.10] Digitalna stampa A4 obostrano + obrezivanje + savijanje na A5
-- [25.10] Bolja cijena za vece tiraze
-- [25.10] Ekspresno rade preko vikenda
-- [25.10] Kenan Design ima **duplo nizu cijenu** od DPS-a
-- [25.10] 2000 komada kod Kenana: 270 KM
-- [25.10] 2000 komada kod Ismeta (DPS): 640 KM
-- [25.10] Poslovna ponuda
-- [25.10] Pausalno 50 sati dostupnosti
-- [25.10] Kolega radi za Fokus (grafike i letke)
-- [25.10] Zainteresovan je za saradnju
-- [25.10] Ne radi po satnici (nezahvalno)
-- [25.10] Preferira dogovor po projektu
-- [25.10] Otvoren za fin projektic
-- [25.10] Poznanstva iz branse su dobrodosla
-- [25.10] Organizovati sastanak (Mahir + kolega + dizajner)
-- [25.10] Mozda grafiku raditi sa Behadirom (DPS)
-- [25.10] Stampanje kod Kenana (Zenica)
+## 1. Servis Mašine - Hivzibeg (Tuzla)
 
-### Završeni taskovi:
-- *(Nema eksplicitno označenih završenih taskova)*
+**Kontekst:** Hivzibeg (klijent u Tuzli) ima problem sa mašinom. Šeperi rade dobro, ali solice imaju problema. Root cause: voda - potreban omeksivač. Muhamed već koristi omeksivač (ne govoriti Hivzibegu da je Muhamed to prenio). Haris kontaktirao Hivzibega, sve dogovoreno. Mašinu će upaliti u ponedjeljak.
 
-### Plan za narednu sedmicu:
-Nastaviti sa nedovršenim zadacima:
-  - Kupiti omeksivace za vodu
-  - Nauciti kako se ugraduje (pitati djeda)
-  - Prezentovati Hivzibegu kako masina pere sa omeksivacem
-  - Ako Elma zavrsi bolju hemiju, testirati i tu
-- Planirati sljedeće sastanke
-- Follow-up sa klijentima
+**Status:**
+- ✅ Kontaktiran Hivzibeg
+- ✅ Sve dogovoreno, nema problema
+- ⏳ Mašinu će upaliti u ponedjeljak
 
+**Nova želja:** Hivzibeg traži letke za svoju ponudu (da dijeli po gradu)
+
+**Naredni Koraci:**
+- [ ] Kupiti omeksivače za vodu
+- [ ] Naučiti kako se ugrađuje
+- [ ] Ponedjeljak - Prezentovati kako mašina pere sa omeksivačem
+- [ ] Testirati novu Elminu hemiju (ako je spremna)
+
+## 2. Štampanje Letaka - Poređenje Ponuda
+
+**Kontekst:** Hivzibeg traži letke za promociju. Dobivene ponude od dva provajdera. Kenan Design (Zenica) ima skoro duplo nižu cijenu od DPS-a. Razmatranje strategije: grafiku možda raditi sa Behadirom (DPS), štampanje kod Kenana.
+
+**Ponude:**
+
+| Tiraz | DPS (Ismet) | Kenan Design | Ušteda |
+|-------|-------------|--------------|--------|
+| 1000 komada | 320 KM | 200 KM | **120 KM** |
+| 2000 komada | 640 KM | 270 KM | **370 KM** |
+
+**Opcije:**
+- **DPS (Ismet Babić)**: Može grafički dizajn + štampanje, ali skuplje (0,32 KM/komad)
+- **Kenan Design (Zenica)**: Bolja cijena za veće tiraže, ekspresno rade preko vikenda
+
+**Strategija:**
+- Možda grafiku raditi sa Behadirom (DPS)
+- Štampanje kod Kenana (Zenica)
+
+**Naredni Koraci:**
+- [ ] Finalizovati odabir štamparije
+- [ ] Odlučiti o tiraži (1000 ili 2000 komada)
+- [ ] Ako DPS za grafiku, kontaktirati Behadira
+
+## 3. Grafički Dizajn i Poslovna Saradnja
+
+**Kontekst:** Mahir razgovarao sa grafičkim dizajnerom (radi za Fokus - grafike i letke). Dizajner otvoren za projektnu saradnju, ne radi po satnici već preferira dogovor po projektu. Poznanstva iz branše su dobrodošla.
+
+**Mahir ponudio:**
+- Poslovna ponuda
+- Pausalno 50 sati dostupnosti
+
+**Dizajner:**
+- Ne radi po satnici (nezahvalno)
+- Preferira dogovor po projektu
+- Otvoren za fin projekat
+- Poznanstva su dobrodošla
+
+**Naredni Koraci:**
+- [ ] Organizovati sastanak (Mahir + kolega + dizajner)
+- [ ] Donijeti konkretan projekat za saradnju
+
+---
+
+## Kontakti i Partneri
+
+| Kontakt | Firma/Uloga | Info |
+|---------|-------------|------|
+| Hivzibeg | Klijent u Tuzli | Mašina za pranje, traži letke za promociju |
+| Ismet Babić | DPS - Štamparija | 640 KM/2000 kom, može grafički dizajn |
+| Kenan Design | Štamparija (Zenica) | 270 KM/2000 kom, ekspresno preko vikenda |
+| Behadir | Grafika (DPS) | U grupi "grafika" |
+| Grafički dizajner | Fokus - Grafike/Letke | +387 64 45 83 833, preferira projektnu saradnju |

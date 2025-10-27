@@ -1,61 +1,95 @@
 # Sedmični Summary - Finansije (20.10 - 27.10)
 
-**Period:** 20.10 - 27.10  
-**Broj dana:** 2  
-**Aktivnih osoba:** 2
+**Period:** 20.10 - 27.10 | **Dana:** 2 | **Teme:** 2
+
+## Učesnici
+
+- **Mahir** - Istraživanje hosting/email opcija, kontakt sa Nerminom, procjena kapaciteta internog tima za web razvoj
+- **Nermin Bošnjak (Zenica)** - Ponuda za hosting, email i web razvoj
+- **Adis Kadric** - Odluke o budžetu, prioritet na internom razvoju i brzini
+
+## Šta je Urađeno
+
+**Glavne aktivnosti:**
+- ✅ Dobivena ponuda od Nermina: Shared hosting + 3 business email adrese za 100 KM godišnje (Email & Hosting)
+- ✅ Dobivena ponuda za web: WordPress template landing page min. 1000 KM, WooCommerce zavisi od zahtjeva (Web Razvoj)
+- ✅ Identifikovane opcije: Google Workspace (~31 KM/osoba godišnje) vs Shared Hosting (100 KM godišnje) (Email & Hosting)
+- ✅ Razmatrane opcije razvoja: Interni tim (Mahir + 2 kolege) vs eksterni developer (Nermin ili drugi) (Web Razvoj)
+- ✅ Potvrđena platforma za shop: Shopify (iskustvo sa Mixbox i FreshButik) (Web Razvoj)
+
+**Ključne Odluke:**
+1. **Interni razvoj preferiran** - Minimizirati eksterne troškove dok Gastrohem ne krene sa profitom (Adis)
+2. **Shopify za shopove** - Već postoji iskustvo, dovoljan za početak (Mahir/Adis)
+3. **Prioritet na brzini** - Ne čekati 2 mjeseca za spoljne developere (Adis)
+4. **1000 KM za template je skupo** - Radite vi to, koristiti interne resurse (Adis)
+
+## Šta Treba za Narednu Sedmicu
+
+**Prioriteti:**
+1. **Donijeti odluku o email rješenju** - Google Workspace vs Shared Hosting, konkretne cifre
+2. **Definisati web razvoj plan** - Specifikacije, procjena kapaciteta internog tima
+
+**Naredni Koraci po Osobama:**
+- **Mahir:**
+  - [ ] Detaljnije definisati specifikacije sa Nerminom
+  - [ ] Uporediti Google Workspace vs. Shared Hosting sa svim alatima (AI alati, storage)
+  - [ ] Dobiti konkretne cijene za sve opcije
+  - [ ] Procijeni kapacitete tima (on + 2 kolege) za web razvoj
+  - [ ] Kreirati specifikaciju šta sve treba za shop
+- **Adis:**
+  - [ ] Pregledati finalne ponude i donijeti odluku
+  - [ ] Odobriti budžet za izabranu opciju
+
+**Otvorena Pitanja:**
+- ❓ Google Workspace vs. Shared Hosting - koja opcija bolja za potrebe?
+- ❓ Koliko storage-a treba i da li će biti dovoljno?
+- ❓ Da li interni tim može kvalitetno uraditi web razvoj?
+- ❓ Timeline za razvoj web stranice i shopa?
 
 ---
 
-## **Hosting i Email za Gastrohem**
+## Detalji po Temama
 
-### Aktivnosti u sedmici:
-- [24.10] Jeftinija opcija za hosting i email adrese
-- [24.10] Potrebno kontaktirati za ponudu
-- [24.10] Razmotriti količinu storage-a i mogućnost naknadne kupovine
-- [24.10] Domena već postoji: gastrohem.ba
-- [24.10] Web stranica aktivna na https://gastrohem.ba/
+## 1. Email i Hosting Rješenje
 
-### Završeni taskovi:
-- *(Nema eksplicitno označenih završenih taskova)*
+**Kontekst:** Istraživane opcije za hosting i business email adrese. Nermin ponudio shared hosting sa 3 email adrese za 100 KM godišnje. Google Workspace opcija ~31 KM/osoba godišnje ali nudi AI alate (Gemini). Domena gastrohem.ba već postoji i aktivna je stranica.
 
-### Plan za narednu sedmicu:
-Nastaviti sa nedovršenim zadacima:
-  - Kontaktirati Nermina Bošnjaka za ponudu
-  - Uporediti cijene (Google vs. lokalni hosting)
-  - Donijeti odluku na osnovu storage potreba i cijene
-  - Objaviti finalne informacije u Financije chat
+**Opcije:**
+- **Google Workspace**: ~31 KM/osoba godišnje, AI alati (Gemini), više storage opcija
+- **Shared Hosting (Nermin)**: 100 KM godišnje za hosting + 3 email adrese, email provideri: Zoho, Microsoft, Gmail
 
-## **Hosting, Email i Web Razvoj za Gastrohem**
+**Naredni Koraci:**
+- [ ] Uporediti konkretne cijene i features (Google vs Shared Hosting)
+- [ ] Razmotriti storage potrebe
+- [ ] Donijeti finalnu odluku
 
-### Aktivnosti u sedmici:
-- [25.10] Shared hosting sa 3 business email adrese: **100 KM godišnje**
-- [25.10] Ne preporučuje Google Business Mail
-- [25.10] Email provideri: Zoho, Microsoft, Gmail
-- [25.10] Postavljanje business emaila na hostingu
-- [25.10] WordPress template landing page: **min. 1000 KM**
-- [25.10] Custom React stranica: drugačija cijena (skuplje)
-- [25.10] WooCommerce shop: zavisi od zahtjeva (multilanguage, custom funkcionalnosti)
-- [25.10] Shopify: ne može dati ponudu (nepoznanica za njega)
-- [25.10] Cijene na tržištu su 1000+ KM za template stranicu (bez dizajna)
-- [25.10] Google Workspace nudi dodatne AI alate (Gemini) za svaki mail account
-- [25.10] Nerminova ponuda: ~100-200 KM godišnje
-- [25.10] Dilema: Google Workspace vs. Shared Hosting
-- [25.10] Dvije opcije za razvoj:
-- [25.10] Može raditi Shopify shopove (iskustvo sa Mixbox i FreshButik)
-- [25.10] Brine ga gdje ulagati energiju (radi i Uredu i posebno)
-- [25.10] Shopify dovoljan za početak
-- [25.10] Sve ulaganje (trud, finansije) će biti evidentirano i isplaćeno kada Gastrohem krene
-- [25.10] Ne čekati 2 mjeseca za developera
-- [25.10] Potrebne **konkretne cifre**, ne samo priče
+## 2. Web Razvoj i Shop Platforma
 
-### Završeni taskovi:
-- *(Nema eksplicitno označenih završenih taskova)*
+**Kontekst:** Nermin ponudio WordPress template landing page za min. 1000 KM. Adis smatra da je skupo i preferira interni razvoj. Mahir ima tim (on + 2 kolege) sa iskustvom u mobilnim app, ali ne web. Shopify preferiran za shop jer već postoji iskustvo (Mixbox, FreshButik).
 
-### Plan za narednu sedmicu:
-Nastaviti sa nedovršenim zadacima:
-  - Mahir i Nermin detaljnije definisati specifikacije
-  - Uporediti Google Workspace vs. Shared Hosting sa svim alatima
-  - Dobiti konkretne cijene za sve opcije
-  - Odluka: interni tim vs. angažovanje Nermina
-  - Mahir procijeni kapacitete tima (on + 2 kolege)
+**Opcije za razvoj:**
+- **Interni tim (Mahir + 2 kolege)**: Minimizira troškove, brže, ali nema web iskustva
+- **Eksterni developer (Nermin)**: WordPress template 1000+ KM, custom React skuplje, WooCommerce zavisi od zahtjeva
 
+**Odluka:** Interni razvoj preferiran, Shopify za shop
+
+**Ponuda od Nermina:**
+- WordPress template landing page: min. 1000 KM
+- Custom React stranica: skuplje
+- WooCommerce shop: zavisi od zahtjeva (multilanguage, custom funkcionalnosti)
+- Shopify: ne može dati ponudu (nepoznanica za njega)
+
+**Naredni Koraci:**
+- [ ] Mahir procijeni kapacitete tima
+- [ ] Kreirati detaljnu specifikaciju za shop
+- [ ] Definisati timeline za razvoj
+- [ ] Odluka: interni vs eksterni (finalno)
+
+---
+
+## Kontakti i Partneri
+
+| Kontakt | Firma/Uloga | Info |
+|---------|-------------|------|
+| Nermin Bošnjak | Web Hosting & Development (Zenica) | Hosting: 100 KM/god, Web: 1000+ KM, Email provideri: Zoho/Microsoft/Gmail |
+| Google Workspace | Email & Collaboration | ~31 KM/osoba godišnje, AI alati (Gemini) |

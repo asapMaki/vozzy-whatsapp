@@ -7,25 +7,30 @@ description: Create weekly summaries by aggregating daily summaries for Gastrohe
 
 ## Overview
 
-Kreira sedmične summaries agregacijom svih dnevnih summaries iz sedmice - analizira aktivnosti i generiše planove.
+Kreira sedmične summaries agregacijom svih dnevnih summaries iz sedmice - analizira aktivnosti i generiše strukturirane tematske summaries.
 
-**Što radi:**
+**Workflow u dva koraka:**
+
+### Korak 1: Automatska agregacija (Script)
 - Pronalazi sve dnevne `summary.md` fajlove u sedmičnom folderu
 - **Podrška za dva tipa summaries:**
   - **Person-based** (po osobama) - Administracija, Svaštara
   - **Topic-based** (po temama) - Finansije, Servis
 - Agregira aktivnosti po osobama ili temama kroz cijelu sedmicu
 - Detektuje završene taskove (checkboxes, ključne riječi)
-- **Generiše plan za narednu sedmicu** baziran na aktivnostima
-- Kreira `sedmicni-summary.md` u root-u sedmičnog foldera
+- Kreira bazični `sedmicni-summary.md` u root-u sedmičnog foldera
+
+### Korak 2: Tematska analiza (Claude)
+Nakon što script generiše bazični summary, Claude može restrukturirati u bogatiji format:
+- **Glavni tok razgovora** - grupiranje po temama/projektima
+- **Ključne odluke i akcije** - ekstrakcija važnih zaključaka
+- **Kontakti** - lista firmi, osoba, brojeva telefona
+- **Tabele** - poređenja, opcije, cijene
+- **Action items** - konkretni sljedeći koraci sa checkboxima
 
 **Performance:**
-- Procesira sve dnevne summaries za sedmicu
-- Automatski detektuje format (person-based vs topic-based)
-- Agregira po osobama ili temama
-- Generiše planova pomoću pattern matching
-
-**Note:** Script radi kompletnu agregaciju i generisanje - Claude može dodatno analizirati ako je potrebno.
+- Script: Brza agregacija svih dnevnih podataka
+- Claude: Dubinska analiza i tematska restrukturacija
 
 ## When to Use This Skill
 
@@ -225,6 +230,140 @@ python scripts/generate_weekly_summary.py --week "20.10 - 27.10" --dept "finansi
 - **Plan generation:** Analyzes patterns to suggest next steps
 - **Date format:** Weekly folders use `DD.MM - DD.MM` format
 - **Daily folders:** Daily summaries in `DD.MM/summary.md` format
+
+## Tematska Restrukturacija (Claude Workflow)
+
+Nakon što script generiše bazični sedmični summary, Claude može ga restrukturirati u bogatiji tematski format sličan dnevnim summaries.
+
+### Kada koristiti tematsku restrukturaciju
+
+Koristi kada:
+- Sedmica ima kompleksne projekte sa više učesnika
+- Potreban je jasniji pregled glavnog toka događaja
+- Treba ekstraktovati ključne odluke i kontakte
+- Korisnik traži "detaljniji sedmični summary" ili "tematski organizovan summary"
+
+### Proces restrukturacije
+
+**Input:** Bazični sedmični summary (generiše script)
+```markdown
+## **Osoba X**
+### Aktivnosti u sedmici:
+- [24.10] Aktivnost 1
+- [25.10] Aktivnost 2
+...
+```
+
+**Output:** Kompaktni tematski summary (~180 linija)
+```markdown
+# Sedmični Summary - {Odjel} ({Sedmica})
+
+**Period:** DD.MM - DD.MM | **Dana:** X | **Teme:** X
+
+## Učesnici
+
+- **Ime Prezime** - Kratki opis glavne aktivnosti u sedmici
+- **Drugo Ime** - Fokus na X i Y
+
+## Šta je Urađeno
+
+**Glavne aktivnosti:**
+- ✅ Ključna aktivnost 1 (Tema A)
+- ✅ Ključna aktivnost 2 (Tema B)
+- ✅ Ključna aktivnost 3 (Tema C)
+
+**Ključne Odluke:**
+1. **Odluka 1** - Kontekst i ko je donio
+2. **Odluka 2** - Kontekst i obrazloženje
+
+## Šta Treba za Narednu Sedmicu
+
+**Prioriteti:**
+1. **Prioritet 1** - Kratki opis zašto je prioritet
+2. **Prioritet 2** - Kratki opis
+
+**Naredni Koraci po Osobama:**
+- **Osoba X:**
+  - [ ] Konkretan task 1
+  - [ ] Konkretan task 2
+- **Osoba Y:**
+  - [ ] Task
+
+**Otvorena Pitanja:**
+- ❓ Pitanje koje treba riješiti
+- ❓ Drugo otvoreno pitanje
+
+---
+
+## Detalji po Temama
+
+## 1. Naziv Teme
+
+**Kontekst:** [1-2 rečenice o čemu se radilo]
+
+**Naredni Koraci:**
+- [ ] Konkretan task
+- [ ] Drugi task
+
+## 2. Druga Tema
+
+**Kontekst:** [Opis]
+
+**Naredni Koraci:**
+- [ ] Task
+
+---
+
+## Kontakti i Partneri
+
+| Kontakt | Firma/Uloga | Info |
+|---------|-------------|------|
+| Ime Osobe | Firma XYZ | +387 XX XXX XXX |
+| Drugo Ime | Partner/Dobavljač | email@example.com |
+```
+
+### Kako Claude restrukturira
+
+Claude koristi sljedeće tehnike za kompaktni format:
+
+1. **Executive Summary:**
+   - **Učesnici:** Lista svih učesnika sa kratkim opisom (1 linija po osobi)
+   - **Šta je Urađeno:** Top 5-7 ključnih aktivnosti (sa temom u zagradi) + Ključne odluke (2-3)
+   - **Šta Treba:** Prioriteti (top 2-3), Naredni koraci po osobama (sa checkboxima), Otvorena pitanja
+
+2. **Ekstrakcija ključnih informacija:**
+   - **Odluke:** Rečenice sa "dogovorio", "odlučio", "zaključio", "ide se sa"
+   - **Kontakti:** Nazivi firmi, imena osoba, brojevi telefona
+   - **Prioriteti:** Riječi "prioritet", "hitno", "važno"
+   - **Aktivnosti:** Samo najvažnije akcije, grupisane po temama
+
+3. **Kompaktno strukturiranje:**
+   - Izbjegava ponavljanje informacija
+   - Fokus na akcije i odluke, ne na svaki razgovor
+   - Detaljne teme samo ako ima značajnu aktivnost
+   - Tabela kontakata (ne liste)
+   - Checkboxovi za sve naredne korake
+
+4. **Generisanje planova:**
+   - Top 2-3 prioriteta za narednu sedmicu
+   - Konkretni taskovi sa checkboxima po osobama
+   - Otvorena pitanja koja blokiraju progres
+
+### Claude prompt za restrukturaciju
+
+Analiziraj bazični sedmični summary i kreiraj kompaktni tematski format:
+
+**Koraci:**
+1. Identifikuj SVE učesnike i njihove glavne fokuse
+2. Ekstraktuj top 5-7 najvažnijih aktivnosti (koje su dovele do rezultata)
+3. Identifikuj 2-3 ključne odluke
+4. Grupiši po glavnim temama/projektima (samo ako ima značajan sadržaj)
+5. Ekstraktuj sve kontakte za tabelu
+6. Generiši top 2-3 prioriteta za narednu sedmicu
+7. Kreiraj konkretne taskove sa checkboxima po osobama
+8. Identifikuj otvorena pitanja
+
+**Cilj:** Maksimalna informacijska gustina, minimalan broj linija (~180 max)
 
 ## Best Practices
 
