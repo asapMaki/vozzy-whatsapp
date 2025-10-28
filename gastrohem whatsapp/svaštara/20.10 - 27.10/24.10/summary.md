@@ -7,10 +7,12 @@ Razgovor se vrti oko pronalaska novog poslovnog prostora i razvoja biznis prilik
 ## **Adnan Erović**
 
 ### Što je uradio:
+
 - Pokazao novi prostor sa velikim parkingom (ispred i iza zgrade)
 - Objasnio da ima prilaz za šlepere sa desne strane
 
 ### Što bi trebao da uradi:
+
 - Nastaviti koordinaciju oko novog prostora
 
 ---
@@ -18,6 +20,7 @@ Razgovor se vrti oko pronalaska novog poslovnog prostora i razvoja biznis prilik
 ## **Adis Kadric**
 
 ### Što je uradio:
+
 - Obavio sastanak u Salzburgu sa lokalnim gazdaricama - istražio tržište hemije
 - Saznao cijene konkurencije (75€ za 10L vs naših 23L za manje para)
 - Identifikovao potrebe: deterdžent, sjaj, sredstvo za staklo, šampon za ruke
@@ -26,6 +29,7 @@ Razgovor se vrti oko pronalaska novog poslovnog prostora i razvoja biznis prilik
 - Utvrdio specifikacije: duboke kante (8-15L), tamne boje (brown/crna)
 
 ### Što bi trebao da uradi:
+
 - Kontaktirati tuning firmu za tačan kapacitet njihovih kanti
 - Pratiti sa Harisom i Sevalom istraživanje dobavljača plastičnih kanti
 - Finalizovati dizajn i branding za kante (kontrast boja sa vuk logom)
@@ -33,9 +37,10 @@ Razgovor se vrti oko pronalaska novog poslovnog prostora i razvoja biznis prilik
 
 ---
 
-## **Haris Grupacija**
+## **Haris BiH**
 
 ### Što je uradio:
+
 - Identifikovao dobavljača: **Lifeplast** u Jelahu (fabrika gdje je uzimao boce za hemiju)
 - Pronašao kontakt informacije i menadžera (Haris Belif +387 62 341 658)
 - Planirao poziv Elmi za kontakt broj
@@ -43,6 +48,7 @@ Razgovor se vrti oko pronalaska novog poslovnog prostora i razvoja biznis prilik
 - Identifikovao potrebu za HDPE kantama zbog izvoza
 
 ### Što bi trebao da uradi:
+
 - Sutra (25.10) zvati Elmu za kontakt broj
 - Zvati Harisa Belifa (menadžer Lifeplast) - predstaviti se kao Aladinovi partneri za bolju cijenu (Damir povlači dosta robe)
 - Provjeriti sa Elmom da li obične kante mogu ili moraju biti HDPE za izvoz
@@ -54,12 +60,14 @@ Razgovor se vrti oko pronalaska novog poslovnog prostora i razvoja biznis prilik
 ## **Seval Grupacija**
 
 ### Što je uradio:
+
 - Istraživao dobavljače plastike u BiH
 - Identifikovao 3 firme: VIS d.o.o. (Banja Luka), Lifeplast d.o.o., Borplastika Eko d.o.o. (Tuzla)
 - Pronašao kontakt za Lifeplast: +387 32 663 633
 - Potvrdio da Lifeplast proizvodi kante do 30L i preporučio 15L kao idealan kapacitet
 
 ### Što bi trebao da uradi:
+
 - Kontaktirati preostale dobavljače (VIS, Borplastika Eko) za komparativnu ponudu
 - Pomoći Harisu oko tehničkih specifikacija (materijal, boje, branding opcije)
 - Pratiti cijene i uslove za custom branding
