@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "created_at": "2025-10-28T00:00:00Z",
+    "last_updated": "2025-10-28T00:00:00Z",
+    "assigned_person": "Mahir",
+    "total_summaries_processed": 10,
+    "total_tasks_extracted": 19,
+    "version": "1.0"
+  },
+  "processed_summaries": [
+    {
+      "file_path": "gastrohem whatsapp/administracija/20.10 - 27.10/24.10/summary.md",
+      "processed_date": "2025-10-28",
+      "summary_date": "24.10.2025",
+      "channel": "administracija",
+      "tasks_extracted": 2,
+      "content_hash": "# Summary - Administrativni Setup Prostora (24.10.2025)\n\n## **Adis Kadric**\n\n### Što je uradio:\n- De",
+      "task_ids": [4, 5]
+    },
+    {
+      "file_path": "gastrohem whatsapp/administracija/20.10 - 27.10/sedmicni-summary.md",
+      "processed_date": "2025-10-28",
+      "summary_date": "20.10-27.10.2025",
+      "channel": "administracija",
+      "tasks_extracted": 3,
+      "content_hash": "# Sedmični Summary - Administracija (20.10 - 27.10)\n\n**Period:** 20.10 - 27.10 | **Dana:** 1 | **Teme:",
+      "task_ids": [1, 2, 3]
+    },
+    {
+      "file_path": "gastrohem whatsapp/finansije/20.10 - 27.10/24.10/summary.md",
+      "processed_date": "2025-10-28",
+      "summary_date": "24.10.2025",
+      "channel": "finansije",
+      "tasks_extracted": 3,
+      "content_hash": "# Summary - Platni Promet & Finansijska Administracija (24.10.2025)\n\n## **Muhamed Nukić**\n\n### Što je",
+      "task_ids": [7, 8, 9]
+    },
+    {
+      "file_path": "gastrohem whatsapp/finansije/20.10 - 27.10/25.10/summary.md",
+      "processed_date": "2025-10-28",
+      "summary_date": "25.10.2025",
+      "channel": "finansije",
+      "tasks_extracted": 1,
+      "content_hash": "# Summary - Web Hosting & Email Setup (25.10.2025)\n\n## **Mahir**\n\n### Što je uradio:\n- Kontaktirao Ner",
+      "task_ids": [11]
+    },
+    {
+      "file_path": "gastrohem whatsapp/finansije/20.10 - 27.10/sedmicni-summary.md",
+      "processed_date": "2025-10-28",
+      "summary_date": "20.10-27.10.2025",
+      "channel": "finansije",
+      "tasks_extracted": 2,
+      "content_hash": "# Sedmični Summary - Finansije (20.10 - 27.10)\n\n**Period:** 20.10 - 27.10 | **Dana:** 2 | **Teme:** 2\n",
+      "task_ids": [6, 10]
+    },
+    {
+      "file_path": "gastrohem whatsapp/servis/20.10 - 27.10/25.10/summary.md",
+      "processed_date": "2025-10-28",
+      "summary_date": "25.10.2025",
+      "channel": "servis",
+      "tasks_extracted": 0,
+      "content_hash": "# Summary - Servis Planning & Strategija (25.10.2025)\n\n## **Haris BiH**\n\n### Što je uradio:\n- Razgovar",
+      "task_ids": []
+    },
+    {
+      "file_path": "gastrohem whatsapp/servis/20.10 - 27.10/sedmicni-summary.md",
+      "processed_date": "2025-10-28",
+      "summary_date": "20.10-27.10.2025",
+      "channel": "servis",
+      "tasks_extracted": 0,
+      "content_hash": "# Sedmični Summary - Servis (20.10 - 27.10)\n\n**Period:** 20.10 - 27.10 | **Dana:** 1 | **Teme:** 1\n\n#",
+      "task_ids": []
+    },
+    {
+      "file_path": "gastrohem whatsapp/svaštara/20.10 - 27.10/24.10/summary.md",
+      "processed_date": "2025-10-28",
+      "summary_date": "24.10.2025",
+      "channel": "svaštara",
+      "tasks_extracted": 0,
+      "content_hash": "# Summary - Logistika & Termini (24.10.2025)\n\n## **Muhamed Nukić**\n\n### Što je uradio:\n- Najavio dolaz",
+      "task_ids": []
+    },
+    {
+      "file_path": "gastrohem whatsapp/svaštara/20.10 - 27.10/25.10/summary.md",
+      "processed_date": "2025-10-28",
+      "summary_date": "25.10.2025",
+      "channel": "svaštara",
+      "tasks_extracted": 0,
+      "content_hash": "# Summary - Mahir New Laptop & Office365 (25.10.2025)\n\n## **Mahir**\n\n### Što je uradio:\n- Dobio novi lap",
+      "task_ids": []
+    },
+    {
+      "file_path": "gastrohem whatsapp/svaštara/20.10 - 27.10/sedmicni-summary.md",
+      "processed_date": "2025-10-28",
+      "summary_date": "20.10-27.10.2025",
+      "channel": "svaštara",
+      "tasks_extracted": 8,
+      "content_hash": "# Sedmični Summary - Svaštara (20.10 - 27.10)\n\n**Period:** 20.10 - 27.10 | **Dana:** 2 | **Teme:** 2\n\n#",
+      "task_ids": [12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  ],
+  "statistics": {
+    "by_channel": {
+      "administracija": {
+        "summaries": 2,
+        "tasks": 5
+      },
+      "finansije": {
+        "summaries": 3,
+        "tasks": 6
+      },
+      "servis": {
+        "summaries": 2,
+        "tasks": 0
+      },
+      "svaštara": {
+        "summaries": 3,
+        "tasks": 8
+      }
+    },
+    "by_priority": {
+      "HIGH": 7,
+      "MEDIUM": 10,
+      "LOW": 2
+    },
+    "by_category": {
+      "operativni": 5,
+      "finansijski": 6,
+      "it_digitalni": 5,
+      "strateski": 3
+    },
+    "with_deadlines": 8,
+    "without_deadlines": 11
+  },
+  "notes": [
+    "Većina taskova sa rokom vezana za otvaranje lokacija (01.12.2025)",
+    "Potrebna koordinacija sa Adisom, Muhamedom, Adnanom i Kenanom/Ketom za većinu taskova",
+    "Fokus na IT/digital infrastrukturi, finansijama i administraciji",
+    "Preporučuje se prioritizacija HIGH priority taskova sa rokom 01.12.2025"
+  ]
+}
