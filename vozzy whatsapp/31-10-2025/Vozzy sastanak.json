@@ -1,0 +1,1663 @@
+{
+  "speakers": [],
+  "chunks": [
+    { "timestamp": [0.0, 2.0], "text": " Državam, onaj..." },
+    {
+      "timestamp": [2.0, 6.0],
+      "text": " Mi smo imali, ne znam, vjerovatno Timure ti si prenosio..."
+    },
+    {
+      "timestamp": [7.0, 12.0],
+      "text": " Malo samo sam nešto spomenuo, koje ono čekali smo da smo svi ovde,"
+    },
+    {
+      "timestamp": [12.0, 15.0],
+      "text": " ali manje više smo i u grupi, onaj..."
+    },
+    {
+      "timestamp": [15.0, 18.0],
+      "text": "...nadjeli šta se dešavalo, najbitnije, onaj promjene."
+    },
+    {
+      "timestamp": [18.0, 67.96],
+      "text": " Jeste. A hoćeš ti malo, onaj, pošto si ti više svi neš funkcijao pa je samo dobijala s njima. Ja sam vode nešto ispisao, dosta nekih stvari pa ću i ja svoj dio, pa ću vam malo podiskutovati šta kako čisto da neke male izmjenice. Dobili smo konačni rok koji tuta mislite, da li možemo ispoštovati njih"
+    },
+    {
+      "timestamp": [67.96, 73.18],
+      "text": " od prilike dotli, da oni imaju tu neku tesnu probnu verziju, neće biti bro,"
+    },
+    { "timestamp": [73.42, 75.34], "text": " da li je, eto, počeli bi tad." },
+    { "timestamp": [78.04, 78.94], "text": " Pogledat ćemo da..." },
+    { "timestamp": [78.94, 79.38], "text": " Šta sam?" },
+    { "timestamp": [80.1, 80.82], "text": " Ja, rec pa." },
+    { "timestamp": [81.04, 81.68], "text": " Izvijem da rec pa." },
+    { "timestamp": [81.76, 82.38], "text": " Reći, rec ti." },
+    {
+      "timestamp": [83.58, 91.0],
+      "text": " A ovo daš kako, Simona, šta sam sebi na interno ovdje postave cijelj da do 10.12. uradimo sve što možemo."
+    },
+    {
+      "timestamp": [91.0, 96.0],
+      "text": " Tako bi ja, znači, sebi uglav da postavimo taj 10 i 5 dana prije kao cijelj."
+    },
+    {
+      "timestamp": [96.0, 108.7],
+      "text": " Da odredimo sljedećih, ako možemo, sjestovi dana da se nekonimo na stavljica svake FTE i kaštav trebamo od rada bi do desetog se završili i probat, dat sve ocene."
+    },
+    {
+      "timestamp": [109.02, 117.34],
+      "text": " Pa ako ne ste gdje do desetog, eto imamo pijet dana lufta, jel, petnešt i tako da ne bi puno ja, onaj, da li možemo, ne možemo,"
+    },
+    {
+      "timestamp": [117.98, 121.02],
+      "text": " hajmo sebi postaviti u glavu, da možemo i hajmo to napast, pa ćemo vidjeti."
+    },
+    {
+      "timestamp": [121.82, 129.2],
+      "text": " Slažem se i aj, mada sam ja već s Timurom pričao, on on mi je prenio informaciju da je s tobom razgovar uvezano za rok."
+    },
+    {
+      "timestamp": [129.36, 135.48],
+      "text": " Tako da sam ja potvrdio klijentu da je to 15. decembar."
+    },
+    {
+      "timestamp": [136.04, 146.84],
+      "text": " Ova verzija je jedan, pričamo o verziji jedan i pričavamo o nekim stvarima koje su oni već korigovali i gdje smo mi njih ishandlaili da ne idemo u neke stvari. Tako da, o tome ćemo sad razgovarati."
+    },
+    {
+      "timestamp": [147.64, 151.78],
+      "text": " To će nam dodatno pomoći da dobijemo na vreme."
+    },
+    { "timestamp": [153.42, 153.94], "text": " Vađi?" },
+    {
+      "timestamp": [155.12, 158.42],
+      "text": " Ništa nema da je tako taj nok."
+    },
+    {
+      "timestamp": [158.86, 160.74],
+      "text": " Tako ćemo se držati, ja sam isto ozao,"
+    },
+    {
+      "timestamp": [160.82, 163.32],
+      "text": " da bude 10. december pa da imamo tu pijet dana,"
+    },
+    { "timestamp": [163.54, 166.0], "text": " ali sad u novembru nekad," },
+    {
+      "timestamp": [166.0, 187.68],
+      "text": " predpostavljam da ćemo imati makre neki APK file, za neki 15-20 dana, jer ja ne bih dizo njihove aplikacije na moj nalog. Već smo mi je to i registraciju, i admin donosi, i vazače, i onaj SMS, svakako login, jedina je sad opcija."
+    },
+    {
+      "timestamp": [188.96, 209.2],
+      "text": " Spremno? Malo mi da se još, kako se zove, uvježemo sa Faratom Mirzaom, ali to je to. Znane što ostaje, što smo se mi medisomno dogovorili, Mirza Fars i ja,"
+    },
+    {
+      "timestamp": [209.2, 219.6],
+      "text": " je te rute, znači da se može naručiti auto i da se odredi cijena, hajmo reći, važnije."
+    },
+    {
+      "timestamp": [219.6, 228.56],
+      "text": " I to ćemo gledati da je sljedeći cilj, a šta sve bude do tog nekog roka spremno."
+    },
+    { "timestamp": [228.56, 230.56], "text": " Ja mislim da je uglavno..." },
+    {
+      "timestamp": [232.16, 237.52],
+      "text": " Znači, imamo sad autentikat preko SMS-a, user se mogu logovat,"
+    },
+    {
+      "timestamp": [237.52, 241.84],
+      "text": " i spašavam kod se dolao u aplikaciji i to je to."
+    },
+    {
+      "timestamp": [241.84, 254.0],
+      "text": " Sad sljedeći korak, pa men bi bio,, znači hajmo naprav neki screen da bi user da beri lokacije, odredište i da pošalje zahtjev za request ride."
+    },
+    {
+      "timestamp": [254.0, 269.28],
+      "text": " Sljedeći korak. Treći korak su priklatanje te vožnje i prikaz svega toga userui gdje mu je vozač i live lokacija, gdje smo reći live lokaciju, aj točno vidjeti, vozača i usera."
+    },
+    {
+      "timestamp": [269.28, 273.76],
+      "text": " I nakon toga nam trebaju sve opaze kod vozača,"
+    },
+    {
+      "timestamp": [273.76, 278.64],
+      "text": " privat je uvoženju, završio, odnosno pokupio čovjeka, odbacio čovjeka."
+    },
+    {
+      "timestamp": [278.64, 284.4],
+      "text": " I još jedna bitna stvar, Timur, ti smo se sad počuli,"
+    },
+    {
+      "timestamp": [284.4, 286.7],
+      "text": " da smo meni osmrana ugovora i pisali ste stvari."
+    },
+    {
+      "timestamp": [286.7, 294.3],
+      "text": " Da, da, da, ugovor je u sljedeća. Najbitnija stavka tu, pošto se sve vrti oko toga. To je najbitnije da je tu."
+    },
+    {
+      "timestamp": [294.3, 298.7],
+      "text": " Tako je, to da im bude legalno čisto da ide da stavljaju."
+    },
+    {
+      "timestamp": [298.7, 305.62],
+      "text": " Znači to, najmreći, ako se nema dobro skonu to chat flow, to smo četiri te neke segmenta, tako da kažem,"
+    },
+    {
+      "timestamp": [305.62, 308.58],
+      "text": " hajmo se na to fokusirati. A onda sve ostalo ćemo kasnije."
+    },
+    {
+      "timestamp": [308.58, 314.8],
+      "text": " Biranje tipa auta, ne znam, surge pricing cijena, čatovi, dopisivanje,"
+    },
+    {
+      "timestamp": [314.8, 317.24],
+      "text": " neam pojma, znači hajmo samo to naprav."
+    },
+    {
+      "timestamp": [317.24, 322.88],
+      "text": " Mogu samo dobro rekvertat vožnju, vozač me pokupi i promjenih se neki state,"
+    },
+    { "timestamp": [322.88, 324.3], "text": " vozač me dobi..." },
+    {
+      "timestamp": [324.3, 326.48],
+      "text": " Poslaći, oni neke tarife, je li tako?"
+    },
+    {
+      "timestamp": [327.06, 331.54],
+      "text": " Tako je, tako. Imaju oni dva tipa formula koji će se koristiti."
+    },
+    {
+      "timestamp": [331.66, 340.5],
+      "text": " To je tarifa jedan koja je glavna, znači ide cijena vožnije se kalkulši po kilometru puta tarifa i to je to."
+    },
+    {
+      "timestamp": [340.5, 349.12],
+      "text": " I bit će dvije tarife trenutno, znači jedna je kao neka defaultna, druga je kad su neke, ne znam, kiša, gužla, šta ja znam."
+    },
+    { "timestamp": [349.12, 350.12], "text": " I onda se..." },
+    {
+      "timestamp": [350.12, 360.66],
+      "text": " A za vozača još treba u toj formuli dodat puta njegov postotak da odmah izračunaju njegovu zaradu sa njegove strane."
+    },
+    { "timestamp": [361.32, 362.4], "text": " Ok, to da." },
+    {
+      "timestamp": [362.76, 365.26],
+      "text": " Ma dobro, to će oni dostat formule, mislim da to nije ništa."
+    },
+    {
+      "timestamp": [365.26, 368.24],
+      "text": " Da, da, da, oni će dostat formule, mi smo im već rekli,"
+    },
+    {
+      "timestamp": [368.34, 371.54],
+      "text": " ali eto, otprilike da znate na koji fazo on sve to"
+    },
+    { "timestamp": [371.54, 373.44], "text": " će se kalkulisati." },
+    {
+      "timestamp": [373.56, 376.26],
+      "text": " Ok, a dobro, mi to možemo svakakvo insrek ili, mislim, svoj."
+    },
+    {
+      "timestamp": [376.68, 379.28],
+      "text": " Naravno, to je svakako, da nam je to izmijenito,"
+    },
+    { "timestamp": [379.28, 381.18], "text": " ono, pravu formu." },
+    {
+      "timestamp": [381.38, 383.92],
+      "text": " Ma ja, dobro. Samo da potvrtim, još jednom mi smo rekli,"
+    },
+    {
+      "timestamp": [384.0, 385.98],
+      "text": " jel tako da ozačaj dodajemo kroz"
+    },
+    {
+      "timestamp": [385.98, 387.88],
+      "text": " admin panel, ne mogu se onirekstrovati."
+    },
+    { "timestamp": [387.9, 389.94], "text": " Tako je, sad pogotovo" },
+    {
+      "timestamp": [389.94, 392.54],
+      "text": " za ovu prvu verziju ništa se ne registruju,"
+    },
+    { "timestamp": [392.72, 393.86], "text": " znači oni" },
+    { "timestamp": [393.86, 395.86], "text": " ih dodaju, oni dodaju" },
+    { "timestamp": [395.86, 397.66], "text": " tip auta koji vežu," },
+    { "timestamp": [398.04, 399.6], "text": " znači tu tipu auta," },
+    {
+      "timestamp": [399.66, 401.88],
+      "text": " treba biti šta ja znam, Škoda Fabia"
+    },
+    { "timestamp": [401.88, 403.34], "text": " i broj tablice." },
+    {
+      "timestamp": [404.52, 408.66],
+      "text": " Jer taj dio će se i prikazivati kad se naruči vožnja."
+    },
+    {
+      "timestamp": [409.1, 413.14],
+      "text": " Vidjeli ste onaj neki draft dizajna, to je nešto što će se tu mijenjati."
+    },
+    {
+      "timestamp": [413.14, 417.66],
+      "text": " Da umjez, ono, pored recenzija, što je ispod gdje su sad trenutno recenzije,"
+    },
+    {
+      "timestamp": [417.76, 423.48],
+      "text": " tu će pisati tip auta sa tablicom da zna klijent komu dolazi."
+    },
+    {
+      "timestamp": [424.64, 428.54],
+      "text": " Također što se tiče tipova, to je ta neka treća stavka,"
+    },
+    {
+      "timestamp": [428.98, 432.76],
+      "text": " prvo obitno je bilo da će postojati tri tipa."
+    },
+    {
+      "timestamp": [432.86, 437.3],
+      "text": " Još uvijek će postojati tri tipa, ali u ovoj nekoj prvoj verziji"
+    },
+    {
+      "timestamp": [437.3, 439.82],
+      "text": " će se isključivo koristiti jedan tip."
+    },
+    {
+      "timestamp": [440.16, 453.1],
+      "text": " Tako da znate, ne znam da li vam može štao lakša da sad samo pustite tip 1, a da je modularno kasnije u verziji 2 da se doda, ne znam na koji fazom direktno, vama lakše kao devom."
+    },
+    {
+      "timestamp": [454.5, 469.48],
+      "text": " Aj točkos kontakt, mislim da bi bilo možda najbolje napraviti odna za 3 pa sam taj zbav gaz primljene, aj točk, točno. To vi internno vidite kako, samo da znate šta će se sad koristiti, taj neki tip, ja, tip jedan jedini."
+    },
+    {
+      "timestamp": [469.88, 471.46],
+      "text": " Šta mi još nekako? Izvini, reci."
+    },
+    { "timestamp": [471.74, 472.78], "text": " Reci, reci, ajte sa ovom." },
+    {
+      "timestamp": [472.78, 486.0],
+      "text": " Da, da dam sad ugovor ovdje, znači bit nam je da li mi sve trenutno što nam je ugovor potrebno, da li sve to imamo aplikacije, znači imamo ime i prezme, najmog primac, to je korisnik, je li tako?"
+    },
+    {
+      "timestamp": [486.0, 488.0],
+      "text": " Da, da, da, to je ime korisnika, je li tako?"
+    },
+    {
+      "timestamp": [488.0, 497.0],
+      "text": " Da, da, imamo sačinjen dana, sati, dobro, znači ime i uzera, samo ime i prezme, je li potrebno u ovom tipu govora, adresa, nešto još?"
+    },
+    {
+      "timestamp": [497.0, 501.0],
+      "text": " Pa ništa što nije naveo ne treba, znači, nešto je tu crveno, to je to, da."
+    },
+    {
+      "timestamp": [501.0, 507.2],
+      "text": " Ime prezme i uzera imamo, vozlo imamo i potpis, to je to, je li tako?"
+    },
+    { "timestamp": [507.34, 507.88], "text": " No, da, to." },
+    {
+      "timestamp": [508.2, 514.42],
+      "text": " I samo pitanje kako potpis elektronski mi i uzera ćemo napraviti?"
+    },
+    {
+      "timestamp": [514.6, 518.48],
+      "text": " Ja bi to, pošto ne možeš nikako, drugačije samo ime i prezme."
+    },
+    { "timestamp": [519.1, 519.62], "text": " I ja isto." },
+    {
+      "timestamp": [519.94, 540.88],
+      "text": " I ja isto. A mi je trebalo napraviti neku formu koju će user dobiti kad prvi put se uloguje u stranicu, da on prihvata da svakom rezervisanju vože, potpisuje ugovor, taj, taj, da imamo nekje bukvalno saču template ugovora, da user može vidjeti šta potpisuje svaki put kad se registruje."
+    },
+    {
+      "timestamp": [541.68, 546.48],
+      "text": " Odnosno kad se registruje, automatski je prihvatio da mive ugovore pravimo, ajmo reći, njegovo ide."
+    },
+    { "timestamp": [546.82, 547.64], "text": " Tako je, tako je." },
+    {
+      "timestamp": [547.92, 558.0],
+      "text": " Pa ja bi to jednokratno radio, znači ja kao prvi put kad se registrujem, prijavim aplikaciju, odmah sam to potpisao i da svaki sljedeći put kad naručujem vožnju..."
+    },
+    { "timestamp": [558.72, 560.1], "text": " To je to, nima potrebe..." },
+    {
+      "timestamp": [560.1, 565.96],
+      "text": " Da me ne pita stalno, znaš. Jer ima ovde čak i u ovom draftovog dizajna dole,"
+    },
+    { "timestamp": [566.08, 568.42], "text": " kad ide i kad pravi akaunt," },
+    {
+      "timestamp": [568.98, 571.92],
+      "text": " da se slaže sa uslovima korištenja."
+    },
+    {
+      "timestamp": [572.04, 576.92],
+      "text": " I tu smo sve što treba i riješili smo taj dio komiseta njihovog."
+    },
+    { "timestamp": [577.18, 578.4], "text": " Već piše u ovom ugovoru ili?" },
+    {
+      "timestamp": [579.06, 581.66],
+      "text": " To će pisat u uslovima korištenja."
+    },
+    { "timestamp": [582.94, 586.0], "text": " Jer ovde, kad kreiraš" },
+    { "timestamp": [586.0, 587.5], "text": " akaunt, dole ti piše" },
+    {
+      "timestamp": [587.5, 589.9],
+      "text": " prije nego što ćeš kreirat, potvrdit"
+    },
+    {
+      "timestamp": [589.9, 591.98],
+      "text": " klikom na dugme prijavi se, slažajte"
+    },
+    { "timestamp": [591.98, 593.7], "text": " s našim uslovima korištenja." },
+    { "timestamp": [594.06, 595.9], "text": " Uslovi korištenja će biti" },
+    { "timestamp": [595.9, 597.8], "text": " link na webu i oni mogu to" },
+    {
+      "timestamp": [597.8, 600.08],
+      "text": " iščitat, to se sve tu, tu će pisati"
+    },
+    { "timestamp": [600.08, 601.74], "text": " da oni se slažu s tim," },
+    { "timestamp": [602.2, 603.62], "text": " da se slažu, da će" },
+    { "timestamp": [603.62, 607.0], "text": " biti vozila pod nadzorom itd." },
+    {
+      "timestamp": [607.0, 610.0],
+      "text": " A znači to ćeš ti, ta uslove korištenja ćeš ti imati?"
+    },
+    {
+      "timestamp": [610.0, 615.0],
+      "text": " Uslove korištenja možemo linkati tamo na webu jer postoje već."
+    },
+    {
+      "timestamp": [615.0, 618.0],
+      "text": " A znamo šta su, to ne bitno jer u to se ne razvore absoluto."
+    },
+    {
+      "timestamp": [618.0, 634.0],
+      "text": " To je konsent dio pravni, samo je bitno da ima link dole vidjet ćeš kažem ti i na ovome, pomozi mi reći, draftu imaš ovde na, pomozi mi reći, screenu koji napravi račun prijavisa."
+    },
+    {
+      "timestamp": [634.0, 642.0],
+      "text": " I dole vidiš ovo klikom na dugnoj prijavisa, slažete se s tim tim. To treba biti klikabilno, on pročita, vrati se i zdravo."
+    },
+    {
+      "timestamp": [642.0, 645.08],
+      "text": " Super, super, vidim sad, odlično."
+    },
+    { "timestamp": [646.86, 648.36], "text": " Pitanje, jedno je u ogovora." },
+    {
+      "timestamp": [651.76, 654.3],
+      "text": " Da li admine naše trebaju imati negde preistup tim ugovorima da ih mogu uskinuti po vožnju, je li nešto tako?"
+    },
+    {
+      "timestamp": [654.9, 657.44],
+      "text": " Da li nima to treba uopšte, ili da ih samo čuvamo negde pa?"
+    },
+    {
+      "timestamp": [658.86, 661.3],
+      "text": " Izvinu mi za jedno, nešto je bilo priče na mail, da se šalju, je li tako?"
+    },
+    {
+      "timestamp": [661.94, 666.36],
+      "text": " Kada se potvrdi vožnja, ugovor koji se generiše"
+    },
+    { "timestamp": [666.36, 668.12], "text": " s tim generalijama se treba" },
+    { "timestamp": [668.12, 670.38], "text": " poslati na mail klijentu" },
+    { "timestamp": [670.38, 672.28], "text": " i vozaču." },
+    { "timestamp": [672.6, 674.1], "text": " I naravno da se" },
+    {
+      "timestamp": [674.1, 676.32],
+      "text": " stora negdje interno za admine."
+    },
+    { "timestamp": [676.54, 677.7], "text": " Ali mi mail ne uzmamo sad." },
+    { "timestamp": [678.7, 680.16], "text": " Trebaćemo dodati na mail." },
+    { "timestamp": [680.78, 682.32], "text": " Ja, okej, okej, okej." },
+    {
+      "timestamp": [684.56, 708.24],
+      "text": " To, to odmah dodati mail da se osiguraju, jer im je to pravno najbitnije da u svakom trenutku, to jest u trenutku kad prihvateaciju, broja telefona, čadima SMS, ne znamo je li pravi mail u njemu."
+    },
+    {
+      "timestamp": [708.24, 711.3],
+      "text": " Mislim, imaš li li to rečun, ok, to je do usera, ako njemu njemu pravi mail komandu?"
+    },
+    { "timestamp": [711.3, 712.3], "text": " Ne, to je do usera." },
+    { "timestamp": [712.3, 713.8], "text": " Ma da, to je." },
+    { "timestamp": [713.8, 715.8], "text": " Nemoš ti sad kukrol, sad." },
+    { "timestamp": [715.8, 716.8], "text": " Kao če?" },
+    {
+      "timestamp": [716.8, 722.8],
+      "text": " Pa jedino, to se može zlopotrijeviti, ako što je mogu štati svoj broj telefona, slaviti, staviteći tuži mail, da ćemo dolaz..."
+    },
+    { "timestamp": [722.8, 728.0], "text": "...dolašćem onda,lazit ugovorit." },
+    { "timestamp": [728.0, 730.0], "text": " Jedino to je malo..." },
+    { "timestamp": [730.0, 733.0], "text": " Dobro, da se ustavaj završimo." },
+    { "timestamp": [733.0, 735.0], "text": " Ustaviti u sebi." },
+    { "timestamp": [735.0, 737.0], "text": " Ustaviti u sebi." },
+    {
+      "timestamp": [737.0, 751.2],
+      "text": " Ako je kontrola za ustavi, ja mislim da po tom zakonu o renta karu u Republice Srpskoj, klijent snosi neke konsekvence."
+    },
+    { "timestamp": [751.2, 755.24], "text": " Tako da, ja koristam i drugom." },
+    {
+      "timestamp": [756.24, 765.6],
+      "text": " Ali vidi, kazna nijemo začu ako je njemu regularno stiguo onaj digitalna forma ugovora, znaš."
+    },
+    { "timestamp": [765.96, 766.28], "text": " Da, da." },
+    {
+      "timestamp": [766.62, 770.84],
+      "text": " A meni ako ja ne imam to na uvide da pokažem, pišu kaznu."
+    },
+    { "timestamp": [772.04, 772.78], "text": " Jasno, jasno." },
+    {
+      "timestamp": [773.12, 776.74],
+      "text": " Ma mislim, pazi, ovi momci su stvarno to iščitali, znaš,"
+    },
+    {
+      "timestamp": [776.74, 782.28],
+      "text": " oni su samo to prezentovali sad na zadnjem sastanku i vidim da su ono baš"
+    },
+    {
+      "timestamp": [782.28, 786.0],
+      "text": " duboko išli da bude sve po zakonu."
+    },
+    { "timestamp": [786.0, 787.0], "text": " O jasno." },
+    { "timestamp": [787.0, 789.0], "text": " Da bi se ne bit desio aero." },
+    {
+      "timestamp": [789.0, 797.0],
+      "text": " I sad njima je bitno da njih nekazne ili njihove vozače, šta će biti s klijentom,"
+    },
+    {
+      "timestamp": [797.0, 804.0],
+      "text": " mi smo tebi kao klijentu obezbijedili da ti taj ugovor stigne na mail."
+    },
+    {
+      "timestamp": [804.0, 808.0],
+      "text": " Što si ti dao pogrešan e-mail, to je nešto drugo."
+    },
+    {
+      "timestamp": [808.0, 811.0],
+      "text": " Dobro, mi možemo nekad na lokasni baciti."
+    },
+    {
+      "timestamp": [811.0, 815.0],
+      "text": " Ali ćemo to možda razratiti u temu nekoj verziji 2, znaš."
+    },
+    {
+      "timestamp": [815.0, 820.0],
+      "text": " Da vidimo s njima, da ih ne zbunjujemo i da ne trošimo vrijeme na to."
+    },
+    {
+      "timestamp": [820.0, 839.0],
+      "text": " Samo ćemo staviti tu opciju kaada upišete mail i to je to. Ma ja ne znam čak možda da li nam bilo lakše, ali to ćemo mi izkontati, da li nam bilo lakše te ti mailovi da se ti ugovori negdje mogu u aplikaciji vidjeti, da mi izgenerušemo PDF, da ga ne šaljemo, već samo da ga vratimo mahe tebi."
+    },
+    {
+      "timestamp": [839.0, 851.0],
+      "text": " Ma da to možda bilo, ajde biti točno niskontrat. To ćemo nekako... Timur, je si spomenuo ili si planirao spomenuti onaj prvi skrin?"
+    },
+    { "timestamp": [851.0, 853.0], "text": " Da to dolazim do toga." },
+    { "timestamp": [853.0, 855.0], "text": " Dobro, izvini." },
+    { "timestamp": [855.0, 857.0], "text": " Nastaviti izvira." },
+    {
+      "timestamp": [857.0, 866.64],
+      "text": " Evo ovo što je i Bojan rekao, o razlika trenutno u draftu, to je njima najviše zasmetalo iz nekog razloga, ona je, kad se tek"
+    },
+    { "timestamp": [866.64, 868.5], "text": " početni i posle splasha, znači" },
+    { "timestamp": [868.5, 870.38], "text": " ide splash, i onda je trebalo" },
+    {
+      "timestamp": [870.38, 872.5],
+      "text": " ići da izaberu da li su klijenti ili vozač."
+    },
+    { "timestamp": [872.82, 873.9], "text": " Ima to smeta," },
+    { "timestamp": [874.12, 875.86], "text": " taj screen neće biti i" },
+    { "timestamp": [875.86, 878.74], "text": " vozač će se moći," },
+    { "timestamp": [878.8, 880.68], "text": " znači kreira se na jednoj" },
+    { "timestamp": [880.68, 882.62], "text": " aplikaciji, jeli, user," },
+    { "timestamp": [883.2, 884.26], "text": " ta user ulazi," },
+    {
+      "timestamp": [884.4, 887.98],
+      "text": " to jest vozač će dobiti već svoje predefinisane usere, kad se skine aplikaciji, jel, user, ta user ulazi, to jest vozač će dobiti već svoje predefinisane usere,"
+    },
+    {
+      "timestamp": [888.08, 892.7],
+      "text": " kad se skine aplikacija, na menu će biti negdje dole sitno,"
+    },
+    {
+      "timestamp": [892.84, 896.84],
+      "text": " ja sam vozač. To menu screen ovde još nije prikazan,"
+    },
+    {
+      "timestamp": [896.92, 899.02],
+      "text": " to ću vam, mislim, sutra do kraja dana poslat,"
+    },
+    {
+      "timestamp": [899.54, 902.46],
+      "text": " ili u ponavljak, da vidite na šta mislim,"
+    },
+    {
+      "timestamp": [902.46, 909.84],
+      "text": " i bit će bukvalno samo malo menu, ono lupam informac informacije, bla bla bla, settings, i onda ide dole malim vozač,"
+    },
+    {
+      "timestamp": [909.84, 915.46],
+      "text": " da klikniju ovde i onda njega vodi i to da se loguje sa svojim kredencijalima na to."
+    },
+    {
+      "timestamp": [916.52, 921.44],
+      "text": " To je super, to smo mi baš neki dan na grupi spomenuli šta kad bi napravljeno neki mali,"
+    },
+    {
+      "timestamp": [921.44, 923.64],
+      "text": " iskriveni login za vozače, tako da to je prošlo."
+    },
+    {
+      "timestamp": [923.88, 926.16],
+      "text": " A eto, i oni se to prihvalili, tako da je to super, znaš."
+    },
+    {
+      "timestamp": [926.22, 932.1],
+      "text": " To je najveća razlika između ovog drafta i njihove te neke odluke."
+    },
+    {
+      "timestamp": [932.34, 937.22],
+      "text": " Jer njima je to zasmetalo u smislu da zbunjivaće klijente, znaš, šta znači vozač to."
+    },
+    { "timestamp": [937.64, 939.12], "text": " Maja, ma hoću da je user..." },
+    {
+      "timestamp": [939.12, 944.16],
+      "text": " Ma da, hoćemo skloniti, a vozač ćeš svakako prijavljivati sa svojim kredencijalima"
+    },
+    {
+      "timestamp": [944.16, 948.0],
+      "text": " ili već sa registracijom ili čim, nema pojem."
+    },
+    {
+      "timestamp": [948.0, 958.0],
+      "text": " Ja kao korisnik, ako nađem to, mislim, dostupno imeni, ali ništa mi ne znači."
+    },
+    {
+      "timestamp": [958.0, 967.0],
+      "text": " Možete, i vozač će sa SMS-e prijaviti, samo ćemo prekazati drugačiji UI za njega."
+    },
+    { "timestamp": [967.0, 970.0], "text": " Broj je uvijek jedinstven." },
+    {
+      "timestamp": [970.0, 978.0],
+      "text": " Mi bi trebali tu napraviti da prvo admin mora unijeti broj telefona za vozavac,"
+    },
+    {
+      "timestamp": [978.0, 990.0],
+      "text": " i samo s tim brojem telefona, ne da se može registrovati samo se. To smo naprav. Da siguruju sluh da napravimo kredencijale username i password."
+    },
+    {
+      "timestamp": [990.0, 995.0],
+      "text": " I onda kad se on prvi put uloguje da mora ostati svoj broj telefona i potvrdi SMS."
+    },
+    { "timestamp": [995.0, 997.0], "text": " Potvrdi broj telefona." },
+    {
+      "timestamp": [997.0, 1002.0],
+      "text": " Mi smo na mobilnoj već uvijek napravili da unese i broj telefona i njegove podatke."
+    },
+    {
+      "timestamp": [1002.0, 1005.76],
+      "text": " Tako da bi on mogu isto s SMS-om se prijaviti"
+    },
+    { "timestamp": [1005.76, 1008.4], "text": " i onda ćemo tako razaznat." },
+    {
+      "timestamp": [1009.54, 1012.06],
+      "text": " Ja odmah na kreiranju da stavi broj."
+    },
+    {
+      "timestamp": [1012.72, 1014.68],
+      "text": " Hajde ovo, molite, sve nam ovo potvrde sa nima."
+    },
+    {
+      "timestamp": [1014.8, 1018.02],
+      "text": " Hoće li da oni imaju punu kontrolu kod kreiranja vozača?"
+    },
+    {
+      "timestamp": [1018.14, 1019.16],
+      "text": " Znači da oni unesu njihov..."
+    },
+    { "timestamp": [1019.16, 1019.48], "text": " Hoće." },
+    {
+      "timestamp": [1020.7, 1022.88],
+      "text": " Hoće, hoće, to smo već vidjeli."
+    },
+    {
+      "timestamp": [1022.88, 1025.54],
+      "text": " Hoće oni potpuno u kontrolu nad svojim vozae oni potpuno u kontrol nad svojim vozačima."
+    },
+    {
+      "timestamp": [1026.06, 1027.72],
+      "text": " Jer oni će imati svojim vozačima."
+    },
+    {
+      "timestamp": [1027.72, 1029.0],
+      "text": " Trenutno ništa biti ono da mogu."
+    },
+    {
+      "timestamp": [1030.14, 1032.36],
+      "text": " Da, ništa da mogu vozači raditi samostalno."
+    },
+    {
+      "timestamp": [1032.36, 1039.24],
+      "text": " Znači sve će oni da kroz svoj admin panel sa vozačima manipulšu."
+    },
+    {
+      "timestamp": [1039.58, 1042.4],
+      "text": " Jer ti vozači će u stvari biti njihovi zaposleni."
+    },
+    {
+      "timestamp": [1042.56, 1045.82],
+      "text": " Znači neće biti sad trenutno u verziji jedan trećih lica."
+    },
+    {
+      "timestamp": [1046.2, 1049.32],
+      "text": " Trenutno je uvijeniranje da se može prijaviti,"
+    },
+    {
+      "timestamp": [1049.38, 1051.8],
+      "text": " ne možeš se prijaviti, nego su već predefiniti."
+    },
+    {
+      "timestamp": [1052.06, 1056.12],
+      "text": " Ja ne bi tu puno komplikovo za vozača,"
+    },
+    {
+      "timestamp": [1056.2, 1061.28],
+      "text": " ostavio bi njima mogućnost da kad im oni daju kredencijale,"
+    },
+    {
+      "timestamp": [1061.38, 1065.68],
+      "text": " znači username i password, da se oni samo tu mogu prijaviti"
+    },
+    {
+      "timestamp": [1065.68, 1075.64],
+      "text": " i da imaju sad u tom svom interfejsu ime, prezime, ne znam šta će ih sad kroz admin tamo,"
+    },
+    {
+      "timestamp": [1075.76, 1080.06],
+      "text": " šta su navijelo i specifikaciji, vjerojatno broj tablice koji je vozila i tako daj."
+    },
+    {
+      "timestamp": [1080.96, 1085.0],
+      "text": " Tako da ne bi sad komplikovo i sa SMS-om. Znaš, može neko..."
+    },
+    {
+      "timestamp": [1085.0, 1091.0],
+      "text": " Jer, evo, nismo pet kolega, znam tvoj broj, ja se prijavim s tvojim brojem."
+    },
+    { "timestamp": [1091.0, 1093.0], "text": " No, ja, ne može." },
+    { "timestamp": [1093.0, 1100.0], "text": " Ne vidim logiku što će im to." },
+    {
+      "timestamp": [1100.0, 1108.64],
+      "text": " U ovoj konstalaciji, po ovome, kad završaju splaševi, izlazi i skriji, napravi račun ili prijavi se."
+    },
+    {
+      "timestamp": [1108.64, 1115.08],
+      "text": " Faktički vozač će ići samo na prijavi se i sa već definisanim kredencijalama će se u njih."
+    },
+    {
+      "timestamp": [1115.08, 1118.14],
+      "text": " Ne znam što moraju verzi kod druhoj."
+    },
+    {
+      "timestamp": [1118.14, 1119.96],
+      "text": " Trenutno kodifikacije za njih."
+    },
+    {
+      "timestamp": [1119.96, 1122.48],
+      "text": " Jer će biti već hard road, već napravljeno."
+    },
+    {
+      "timestamp": [1122.48, 1125.3],
+      "text": " Znaš, imam dva razloga što to tako nebi."
+    },
+    {
+      "timestamp": [1125.3, 1131.3],
+      "text": " Prvi je, user ne bi šifrasa, jelako može kompromitati."
+    },
+    {
+      "timestamp": [1131.3, 1134.4],
+      "text": " Znači može ako stavi neku lošu šifru, ako je promijenija, jelako..."
+    },
+    { "timestamp": [1134.4, 1136.5], "text": " Jasno, na dobro, ajde prazni." },
+    {
+      "timestamp": [1136.5, 1140.9],
+      "text": " A drugi je razlog što ćemo imati onda u bazi usere koji imamo broj telefona,"
+    },
+    {
+      "timestamp": [1140.9, 1144.0],
+      "text": " to su useri, imat ćemo vodača kojima nema broj telefona."
+    },
+    {
+      "timestamp": [1144.0, 1149.0],
+      "text": " Ne, ne, po portu gdje će morati za vozača, oni unijet broj telefona."
+    },
+    {
+      "timestamp": [1149.0, 1157.0],
+      "text": " Admin koji kreira, kreira znači email, user, pardon, email, broj telefona,"
+    },
+    {
+      "timestamp": [1157.0, 1168.0],
+      "text": " pasword kojemu je dodjeljeno vozilo, tabelce i to je to. Ok. Dobro, možemo mi malo još porazgovarati,"
+    },
+    {
+      "timestamp": [1168.0, 1172.0],
+      "text": " ali vi mislite da je najbolje ići samo"
+    },
+    {
+      "timestamp": [1172.0, 1174.0],
+      "text": " username, šifra i drugo telefon."
+    },
+    {
+      "timestamp": [1174.0, 1176.0],
+      "text": " Jer on će unositi sve podatke,"
+    },
+    {
+      "timestamp": [1176.0, 1178.0],
+      "text": " on će svakako imati drugo telefona."
+    },
+    { "timestamp": [1178.0, 1180.0], "text": " Ok." },
+    { "timestamp": [1180.0, 1182.0], "text": " Mogu ja oskoći." },
+    {
+      "timestamp": [1184.0, 1191.92],
+      "text": " Ako koristimo SMS-e za vozače i za korisnike, odmah je lakše jer imaš uvijek jedan screen za login."
+    },
+    {
+      "timestamp": [1192.2, 1209.26],
+      "text": " Čak ja mislim da ti ne treba ovo biraš registraciju ili prijavu, nego odmah ideš SMS login i ako ne postojiš u pozadini mi već, vam reći, kreiramo ti račun. Samo je drugi korak, onaj, ako si novi user, samo unosiš podatke."
+    },
+    {
+      "timestamp": [1210.08, 1213.02],
+      "text": " Ali ako si vozač, tebi će podaci već biti unešeni."
+    },
+    {
+      "timestamp": [1213.18, 1216.32],
+      "text": " Ti ćeš samo jednom se prijaviti SMS-om i gotovo."
+    },
+    {
+      "timestamp": [1217.4, 1223.8],
+      "text": " I onaj, mislim da s SMS-om riješimo dosta, smanjit ćemo broj skrinova i,"
+    },
+    {
+      "timestamp": [1223.8, 1235.86],
+      "text": " onaj, svakako ja mislim da ne treba user klikat, rekturujem se, prijavljam se, nego unese broj i ono ako je prije već bio prijavljen, znaš oni već u sistem."
+    },
+    { "timestamp": [1237.6, 1239.1], "text": " To uveć ga nalazi baz." },
+    { "timestamp": [1239.22, 1240.1], "text": " Jeste, tako je." },
+    { "timestamp": [1240.1, 1242.28], "text": " Super, može i tako." },
+    {
+      "timestamp": [1242.28, 1243.68],
+      "text": " Dobro, nek nam je samo lakše."
+    },
+    { "timestamp": [1244.04, 1244.4], "text": " Pa je." },
+    {
+      "timestamp": [1244.4, 1254.0],
+      "text": " Ok. Super, može i tako. Nek nam je samo lakše. Pa je. Nije neće zbunjivati i onda ne imaš razdvajanja vamo email, šifra i broj, nego i svima SMS i to je te."
+    },
+    {
+      "timestamp": [1254.0, 1269.82],
+      "text": " Dobro, dobro. Slažem se, ok. Kroz zadnje će morati unositi njima brojeve telefona, bez toga neće ni moći što se prijaviti. To je, to je, to je, već smo napravili na mobilnoj da adniju unosi i kreirati."
+    },
+    {
+      "timestamp": [1269.82, 1275.78],
+      "text": " A moje pitanje je tu kako će korisnici staviti mail koji je mandatori da bi dobijali ugovor."
+    },
+    {
+      "timestamp": [1276.08, 1279.62],
+      "text": " Aha, to je u drugom ovom koraku, jer prvi korak je SMS."
+    },
+    { "timestamp": [1279.62, 1280.16], "text": " Mali bi trebao biti tu." },
+    {
+      "timestamp": [1280.7, 1315.68],
+      "text": " Mali bi trebao biti tu, espod koji je korak jer ako pustiš korisnika, samo saime i e-mail mandator i nikad nećeš, dok ne uneseš, malo moćne zervise odvozate."
+    },
+    {
+      "timestamp": [1316.68, 1325.0],
+      "text": " Ali tu je malo UX zabagovan, jer ja, na primjer, ne volim da se prijavljujem sa telefona. Meni je main mail."
+    },
+    {
+      "timestamp": [1325.0, 1330.0],
+      "text": " Naprimjer, Fares je main SMS. Jel, sti Fares pa nju?"
+    },
+    {
+      "timestamp": [1330.0, 1337.0],
+      "text": " Polakše mi je, više volimo na SMS-om. Dođem da šihar mora razmišat koja mi je, znaš, ono, i..."
+    },
+    {
+      "timestamp": [1337.0, 1343.0],
+      "text": " Ti još gledamo, mi nije na BH Telekomu imao bagove sa njihovim autentifikacijama."
+    },
+    { "timestamp": [1343.0, 1345.3], "text": " Kad ne dolaze poruke." },
+    {
+      "timestamp": [1345.8, 1348.48],
+      "text": " E sad je tu razgled, onda moramo, jel,"
+    },
+    {
+      "timestamp": [1348.54, 1350.98],
+      "text": " Google onaj login ubacivati,"
+    },
+    { "timestamp": [1351.06, 1353.6], "text": " tamo reći, na taj način." },
+    {
+      "timestamp": [1355.48, 1357.94],
+      "text": " Ili samo e-mail pasvojba na esterinski."
+    },
+    { "timestamp": [1361.54, 1362.9], "text": " Možemo mi dodati preko" },
+    { "timestamp": [1362.9, 1364.16], "text": " FireVinza i" },
+    {
+      "timestamp": [1364.16, 1370.0],
+      "text": " Google i svašta nešto, preko Facebooka i preko Applea i svega."
+    },
+    { "timestamp": [1370.0, 1372.0], "text": " Pa može, ali onda ću samo..." },
+    {
+      "timestamp": [1372.0, 1377.0],
+      "text": " Alko vi se smijeli prijaviti onda moramo ih natjerati da telefon nese."
+    },
+    { "timestamp": [1377.0, 1380.0], "text": " Imaš li taj trenutak." },
+    {
+      "timestamp": [1380.0, 1385.0],
+      "text": " Ne, ne, ali što je što je rekao Timur, zči, prvi ekran će biti vroj telefona."
+    },
+    {
+      "timestamp": [1385.0, 1392.0],
+      "text": " I ti kad donesiš vroj telefona, sljedeći ekran je ime prezme, ime i mail."
+    },
+    {
+      "timestamp": [1392.0, 1396.0],
+      "text": " Sve, mnemu da to i onda smo riješili to."
+    },
+    { "timestamp": [1396.0, 1398.0], "text": " To je to." },
+    { "timestamp": [1398.0, 1402.0], "text": " Tako nam je trenutno." },
+    {
+      "timestamp": [1402.0, 1414.0],
+      "text": " Drugi put kad uđeš, samo k telefona da se uloguješ, a ako si vozač, znači ako imam tvoje broje telefona i spašen si kao vozač,"
+    },
+    {
+      "timestamp": [1414.0, 1420.0],
+      "text": " onda nakon broja telefona uloguješ se, ideš odmah na onaj..."
+    },
+    {
+      "timestamp": [1420.0, 1430.0],
+      "text": " Ajmo reći, nemaš ništa više, znači sve je za tebe napravljeno u sistemu, ti kad učin prvi svojeg telefona kao vozavč, odmah ideš na skrim gdje čekaš Božnji."
+    },
+    {
+      "timestamp": [1430.0, 1438.0],
+      "text": " To što se mene tiče, ok. Samo na korisnicima da je taj drugi step isto u mandatoryi treba biti. Sve onda ok."
+    },
+    { "timestamp": [1438.0, 1439.0], "text": " Samo, rećiš." },
+    { "timestamp": [1439.0, 1440.0], "text": " Maja." },
+    {
+      "timestamp": [1441.0, 1457.26],
+      "text": " Super, super. Ono što sam ja još primitio, što su njihova očekivanja, što se razlikuje kod nas trenutno u V1, je što se tiče GPS-a, traćenja vozila, to jest telefona koji će biti u vozulu."
+    },
+    { "timestamp": [1457.26, 1458.02], "text": " Dobro." },
+    { "timestamp": [1461.14, 1465.0], "text": " Oni to očekuju, jel?" },
+    {
+      "timestamp": [1465.0, 1471.0],
+      "text": " To, oni to očekuju, znači imate sad koliko nam je to izvodilo ili da nešto manevrišemo."
+    },
+    {
+      "timestamp": [1471.0, 1474.0],
+      "text": " Nisam skontrovo, šta tačno očekuju?"
+    },
+    {
+      "timestamp": [1474.0, 1481.0],
+      "text": " GPS, da prate vozača gdje, šta je, tj. prate vozila."
+    },
+    { "timestamp": [1481.0, 1484.0], "text": " Oni kao admin ili kao user?" },
+    {
+      "timestamp": [1484.0, 1487.0],
+      "text": " Da, da, da, oni kao admin ili kao user? Da, da, da, on je kao admine."
+    },
+    {
+      "timestamp": [1487.0, 1494.0],
+      "text": " Ja komentam da to nije neka komplikacija, zato što mi svakako mogamo pratiti svakog vozača i svakog usera u isto vrijeme."
+    },
+    {
+      "timestamp": [1494.0, 1500.0],
+      "text": " Mi njima možemo dodati na admin screen jednu mapu, gdje ćemo samo sve vozače pagredati."
+    },
+    {
+      "timestamp": [1500.0, 1508.4],
+      "text": " Odlično. Odlično. Onda smo taj problem riješili. I ono što smo već spominjali..."
+    },
+    {
+      "timestamp": [1508.4, 1518.7],
+      "text": " Jer svaki vozavač kog se jedan njih skonto, izviniti morati samo, svaki vozavač kog se jedan skonto njih će dobiti novi telefon, bit će upaljen GPS na telefonu."
+    },
+    {
+      "timestamp": [1519.04, 1522.1],
+      "text": " Oni baš ozbiljno to mi je pristupio, njihova upolju koje mora pitali."
+    },
+    {
+      "timestamp": [1522.1, 1528.0],
+      "text": " Da, da, da. Sve su u fullu, ne daju im uopšte nikakvu slobodu trenutno."
+    },
+    {
+      "timestamp": [1528.0, 1534.0],
+      "text": " Neće biti uopšte ono, ti se kao prijaviš da možeš voziti, to je to, nego je to sve fingirano trenutno."
+    },
+    { "timestamp": [1534.0, 1535.0], "text": " To ne." },
+    { "timestamp": [1535.0, 1537.0], "text": " To bi su, da bi su." },
+    { "timestamp": [1537.0, 1540.0], "text": " Ovo što sam... Reci, reci." },
+    {
+      "timestamp": [1540.0, 1546.14],
+      "text": " Samo nisam čuo jedan dio, jel imaju oddjel, hoće samo vozače ili i vozače i uzere da vidim?"
+    },
+    {
+      "timestamp": [1548.14, 1555.26],
+      "text": " Ja, koliko sam shvatio, njima su bitni da vide oni interno vozače da mogu vidjeti u svakom trenutku."
+    },
+    { "timestamp": [1555.44, 1556.48], "text": " A da to možemo napraviti?" },
+    {
+      "timestamp": [1556.72, 1559.52],
+      "text": " To možemo i provjeriti s njima još jednom čisto."
+    },
+    {
+      "timestamp": [1559.52, 1565.0],
+      "text": " Ne, ne, samo vozače samo. Nije klijente neće, neće klijenti pratiti samo vozače."
+    },
+    {
+      "timestamp": [1565.0, 1571.0],
+      "text": " A onda kad ste nekad im možemo napraviti neki indikator, ako je vozač u vožni da ima drugačiju boju,"
+    },
+    {
+      "timestamp": [1571.0, 1577.0],
+      "text": " ako nije u vožni da ima neku drugu, ali nekada otopat. Da znaju koji je aktivan koji nije."
+    },
+    {
+      "timestamp": [1578.0, 1581.0],
+      "text": " Da, može, može, mislim da to možemo."
+    },
+    {
+      "timestamp": [1581.0, 1588.0],
+      "text": " Ono sve da to neodlično. I ovo što smo već spominjali, onaj..."
+    },
+    { "timestamp": [1588.0, 1590.0], "text": " Reku, recu." },
+    { "timestamp": [1590.0, 1592.0], "text": " Aha, mislio sam i ove..." },
+    {
+      "timestamp": [1592.0, 1596.0],
+      "text": " Ne očekuju onda mape vam za ove usere."
+    },
+    { "timestamp": [1596.0, 1598.0], "text": " Da vidimo to." },
+    { "timestamp": [1600.0, 1604.0], "text": " Misliš kad user naruči voži?" },
+    {
+      "timestamp": [1604.0, 1610.5],
+      "text": " Pa da, zvedali smo da to, hajmo reći, uklonimo u V1."
+    },
+    {
+      "timestamp": [1610.5, 1615.0],
+      "text": " Očekuju oni da se vidi mapa, da vidi kad vozač dolazi."
+    },
+    {
+      "timestamp": [1615.0, 1618.0],
+      "text": " To je kad naruči vožnje, postoje naručeni vožnje, jel?"
+    },
+    { "timestamp": [1618.0, 1619.0], "text": " Tako je." },
+    { "timestamp": [1619.0, 1621.0], "text": " Tako je, tako je." },
+    {
+      "timestamp": [1626.0, 1630.0],
+      "text": " Dobro, ljuzer ne bi trebao da vidi svezače, on samo vidi jednog koji je njemu..."
+    },
+    {
+      "timestamp": [1630.0, 1634.0],
+      "text": " Ma da, ono kako imu je dodijeljen, ono, klasika."
+    },
+    {
+      "timestamp": [1634.0, 1638.0],
+      "text": " Ne mora on vidjeti sad sve vozače gdje su mu."
+    },
+    {
+      "timestamp": [1638.0, 1647.0],
+      "text": " Ono, ako to opitaš, ono, u trenutku da vidi 10 vozača. A kako kad user bira, pošto svima su istala vozila,"
+    },
+    { "timestamp": [1647.0, 1651.0], "text": " hoće li on uopšte imat..." },
+    { "timestamp": [1651.0, 1653.0], "text": " A bira je sistem za njega." },
+    {
+      "timestamp": [1653.0, 1659.0],
+      "text": " On će samo klikne, tražim vožnju, tu sam na toj lokaciji, idem..."
+    },
+    {
+      "timestamp": [1659.0, 1664.0],
+      "text": " Tako je, i onda mu sistem dodijeli vozača po nekim određenim kriterijima."
+    },
+    {
+      "timestamp": [1664.0, 1665.9],
+      "text": " Gledamo kroz dano perpulaciju."
+    },
+    {
+      "timestamp": [1665.9, 1672.48],
+      "text": " Sve to znači prepremijem, s back-end strane imamo funkciju koja alocira najbližeg vozača i njemu dodijeli."
+    },
+    {
+      "timestamp": [1678.16, 1679.98],
+      "text": " Znači, završaj, ja sam zapisuć."
+    },
+    {
+      "timestamp": [1680.36, 1685.18],
+      "text": " Admin vidi sve vozače na mapi. Ugovor se potpisuje i šalje na mail nakon vožnje."
+    },
+    {
+      "timestamp": [1686.62, 1693.7],
+      "text": " User vidi mapu i vozača svog nakon što je voža potrđenog stvarila."
+    },
+    {
+      "timestamp": [1697.28, 1699.54],
+      "text": " Imali li još nešto novo što sam zaboravio?"
+    },
+    {
+      "timestamp": [1700.58, 1708.64],
+      "text": " I ovo samo što sam krenuo pričati, ovo što smo već spominjali, oni žele trenutno da admin imaju full kontrolu nad vozačima."
+    },
+    {
+      "timestamp": [1708.8, 1717.82],
+      "text": " Znači admin može ugasit, upalit, a vozač trenutno to ne može. To je njihov taj neki zahtjev za početnu ovu varijantu."
+    },
+    { "timestamp": [1718.22, 1719.46], "text": " Izvini, ugasiti." },
+    { "timestamp": [1720.44, 1721.58], "text": " Je li gas tracioni?" },
+    {
+      "timestamp": [1721.88, 1725.1],
+      "text": " Ugasiti, pauzirati, ne mogu dobiti nikakvu."
+    },
+    {
+      "timestamp": [1728.2, 1730.68],
+      "text": " Status aktivan, status neaktivan."
+    },
+    {
+      "timestamp": [1734.42, 1734.66],
+      "text": " Ja sam trenutno zamislio da mi imamo tri statusa,"
+    },
+    {
+      "timestamp": [1738.5, 1739.66],
+      "text": " onaj aktivan, neaktivan i zauzet ukoliko je u vožni."
+    },
+    {
+      "timestamp": [1745.0, 1752.0],
+      "text": " A nisam se igrao, samo to na njima ne bi trebalo liniju od statusa. To je internno za algoritam da skonta koji ih može dodijeliti."
+    },
+    { "timestamp": [1752.0, 1754.0], "text": " To je okej." },
+    { "timestamp": [1754.0, 1755.0], "text": " Kako?" },
+    {
+      "timestamp": [1755.0, 1760.0],
+      "text": " To ne može odlučivati, nego to ide preko bekendara."
+    },
+    { "timestamp": [1760.0, 1761.0], "text": " Na naro." },
+    {
+      "timestamp": [1761.0, 1767.0],
+      "text": " To je kako čovjek zauzeti? Ma ja, to mi internno sve gledamo."
+    },
+    {
+      "timestamp": [1767.0, 1772.0],
+      "text": " Kad tražimo najbliže i kad tražimo ozašli za vožnju, prvo ono da li opoži, ali zauzeti..."
+    },
+    {
+      "timestamp": [1772.0, 1778.0],
+      "text": " Ovo što je Timu rekao da oni imaju kontrolu kroz svoj admin da nekog isključe, razumiješ?"
+    },
+    {
+      "timestamp": [1778.0, 1785.7],
+      "text": " Da kažu ok, danas si neaktivan, odbio s tri vožnje ili iz nekoj drugi neći razloga mislim sad."
+    },
+    {
+      "timestamp": [1786.7, 1788.9],
+      "text": " Ne trebamo mi ići grup vrijeme na to, nego eto samo,"
+    },
+    {
+      "timestamp": [1789.6, 1795.4],
+      "text": " pitali su da im to mogućimo, da oni mogu da imaju full control nad vozačima."
+    },
+    {
+      "timestamp": [1796.2, 1797.7],
+      "text": " Jasno, jasno, jasno, to je to."
+    },
+    { "timestamp": [1799.3, 1800.6], "text": " Dobro, zapisano sve." },
+    {
+      "timestamp": [1801.5, 1806.0],
+      "text": " Mislim da mi sad imamo, da nam jasno šta trebamo dalje raditi."
+    },
+    {
+      "timestamp": [1806.0, 1809.0],
+      "text": " Možemo mi na tom da se opričamo."
+    },
+    {
+      "timestamp": [1809.0, 1813.0],
+      "text": " Ja imam samo jedno pitanje vezano za server."
+    },
+    {
+      "timestamp": [1813.0, 1819.0],
+      "text": " Mi imao se trenutno neki server gdje je Timur podigao gore web strancu."
+    },
+    {
+      "timestamp": [1819.0, 1826.0],
+      "text": " Pa da malom je server. Nisam..."
+    },
+    {
+      "timestamp": [1826.0, 1830.0],
+      "text": " Na globalu, onaj neki najmanji paket, mini paket na globalu je trenutno hosting."
+    },
+    {
+      "timestamp": [1830.0, 1844.0],
+      "text": " Pa reko to da pogledate pa da mi javite, onaj, predpostavljam da će i aplikacija i sve ovo ići na taj server, pa da im samo javim da uzmemo neki veći, da mi javite neku konfiguraciju koja bi bila poželjna da projekat..."
+    },
+    {
+      "timestamp": [1844.0, 1845.0],
+      "text": " Mislim, činim se da zasrašo... koja bi bila poželjna za projekat."
+    },
+    { "timestamp": [1845.0, 1846.0], "text": " Čini mi se da zasraš..." },
+    {
+      "timestamp": [1846.0, 1851.0],
+      "text": " A po prije nam imao Firebase-a, efektivno ovo server."
+    },
+    { "timestamp": [1851.0, 1853.0], "text": " Ne treba im server biti." },
+    {
+      "timestamp": [1853.0, 1857.0],
+      "text": " Znači, nama ne treba mobila, svakako ne treba ništa,"
+    },
+    {
+      "timestamp": [1857.0, 1861.0],
+      "text": " backend ide preko Firebase-a i tu sve što nama treba imamo onaj..."
+    },
+    { "timestamp": [1861.0, 1862.0], "text": " Tarniki, ajde ne kažeš." },
+    {
+      "timestamp": [1862.0, 1866.0],
+      "text": " Dobro, znači ne put vam im ništa, govorite da sad podižu paket servera nešto."
+    },
+    {
+      "timestamp": [1866.0, 1875.0],
+      "text": " To samo zavisi od app stranice koja ima Timur i ono, ako baš vidimo da imamo neki veliko gruva usera da nam stranica sporo radi,"
+    },
+    {
+      "timestamp": [1875.0, 1878.0],
+      "text": " ali veliko je posvijetan da podiče, ali sad za sad ušto."
+    },
+    { "timestamp": [1878.0, 1880.0], "text": " Za sad je ok." },
+    {
+      "timestamp": [1880.0, 1883.0],
+      "text": " Ne znam, može li se web hostati na Firebase?"
+    },
+    { "timestamp": [1883.0, 1886.0], "text": " Nisam te čuo, Mahir." },
+    {
+      "timestamp": [1886.0, 1890.0],
+      "text": " Može li se web hostati na Firebase, ne znam, ili onima i tu opciju?"
+    },
+    {
+      "timestamp": [1892.0, 1896.0],
+      "text": " Ma mislim da ima, uphosting, bez problema bi bilo da može."
+    },
+    {
+      "timestamp": [1898.0, 1902.0],
+      "text": " Mislim da može to, tako da mogli ako hoćete da prevacimo, ne moramo sada,"
+    },
+    {
+      "timestamp": [1902.0, 1908.0],
+      "text": " jer mislim da bi čak možda i to moglo u ovaj free plan, pa se znam kog se to plaća tim ureda."
+    },
+    { "timestamp": [1909.0, 1911.0], "text": " Izvini, nisam te čuo." },
+    {
+      "timestamp": [1911.0, 1914.0],
+      "text": " Kog se plaća taj hosting koji imaš ti za strancu?"
+    },
+    {
+      "timestamp": [1914.0, 1918.0],
+      "text": " Nemam pojma, ne plaćam ga, nije nešto puno, ja mislim možda..."
+    },
+    { "timestamp": [1918.0, 1919.0], "text": " Na nije, nije." },
+    { "timestamp": [1919.0, 1920.0], "text": " Nije ni stotinjena." },
+    { "timestamp": [1920.0, 1921.0], "text": " Nije ni stotinjena." },
+    { "timestamp": [1921.0, 1923.0], "text": " Deset, nije odnaš." },
+    {
+      "timestamp": [1923.0, 1927.0],
+      "text": " Pa da, u toj veze, mislim, više ćemo vremena potrošiti."
+    },
+    {
+      "timestamp": [1927.0, 1931.0],
+      "text": " Ma ne, nećemo gupti vrijeme na to."
+    },
+    {
+      "timestamp": [1931.0, 1934.0],
+      "text": " Oni su već kupili hosting i to je završeno nešto."
+    },
+    {
+      "timestamp": [1934.0, 1937.0],
+      "text": " Nego sam ja onako pitao da li vam, čisto zbog tehničkih,"
+    },
+    {
+      "timestamp": [1937.0, 1940.0],
+      "text": " da treba pa da ih zaganjam da dižu paket,"
+    },
+    { "timestamp": [1940.0, 1942.0], "text": " da ne dođemo tu..." },
+    { "timestamp": [1942.0, 1944.0], "text": " E vidi, pao možda..." },
+    {
+      "timestamp": [1944.0, 1948.0],
+      "text": " To da. E možda ako odlučimo kad budemo u sljedećoj fazi,"
+    },
+    { "timestamp": [1948.0, 1950.0], "text": " ako dođe pravili admin panel," },
+    { "timestamp": [1950.0, 1952.0], "text": " mada i to," },
+    {
+      "timestamp": [1952.0, 1954.0],
+      "text": " može i da nešli potrebe, ali nekako..."
+    },
+    { "timestamp": [1954.0, 1956.0], "text": " O to to nije tema..." },
+    { "timestamp": [1956.0, 1958.0], "text": " O to to bilo kad dođe..." },
+    { "timestamp": [1958.0, 1960.0], "text": " Ja volim pitat." },
+    { "timestamp": [1960.0, 1964.0], "text": " Ima još samo jednu stavku," },
+    {
+      "timestamp": [1964.0, 1966.38],
+      "text": " to smo isto razgovarali s njima"
+    },
+    { "timestamp": [1966.38, 1967.98], "text": " ja i Timur" },
+    { "timestamp": [1967.98, 1969.1], "text": " vezano za Monri" },
+    { "timestamp": [1969.1, 1970.98], "text": " oni će sad kad firmu otvore" },
+    { "timestamp": [1970.98, 1973.88], "text": " Juriće je to da" },
+    {
+      "timestamp": [1973.88, 1975.68],
+      "text": " preko neke banke i preko njih"
+    },
+    {
+      "timestamp": [1975.68, 1978.1],
+      "text": " već nismo imalo dali neke informacije"
+    },
+    { "timestamp": [1978.1, 1979.64], "text": " oni su to zapisali" },
+    { "timestamp": [1979.64, 1982.98], "text": " Juriće je taj Monri" },
+    { "timestamp": [1982.98, 1983.68], "text": " plaćanje" },
+    { "timestamp": [1983.68, 1986.0], "text": " karčno plaćanje." },
+    {
+      "timestamp": [1987.0, 1994.0],
+      "text": " Tako da, ono, u nekom momentu, on će vjerojatno dobiti od Mondrija neki API key ili šta već."
+    },
+    {
+      "timestamp": [1996.0, 2025.44],
+      "text": " Nije, stavljeno, da bi je od Mondrija, vi to kad dobijete, tu se dobiju putstva i sve što treba za to cash, nije cash nego kačno plaćanje, ali rekli su ok, ako do ovog roka oni to ne obezbijede, da će biti u toj nekoj pilot fazi samo cash, a kasnije kad to dobiju da im to..."
+    },
+    {
+      "timestamp": [2025.44, 2029.46],
+      "text": " Neće biti samo prenotno cash jer oni nemaju firmu napravljenu"
+    },
+    {
+      "timestamp": [2029.46, 2032.02],
+      "text": " na koju mogu sad to prije aplikacije."
+    },
+    {
+      "timestamp": [2032.38, 2036.14],
+      "text": " Jer će oni startovat firmu kad startaje aplikacija"
+    },
+    {
+      "timestamp": [2036.14, 2039.34],
+      "text": " i onda u tom testnom nekom procesu će oni morati proći"
+    },
+    {
+      "timestamp": [2039.34, 2042.48],
+      "text": " kroz tu proceduru i onda kad završi vidjet ćemo šta."
+    },
+    {
+      "timestamp": [2043.36, 2047.22],
+      "text": " I onda ćemo to, vjerovatno će biti, ako stignu sve ovo"
+    },
+    {
+      "timestamp": [2047.22, 2051.4],
+      "text": " i ako oni sad planiraju s ovim rokom koji smo i mi sad ozvančili,"
+    },
+    {
+      "timestamp": [2052.06, 2054.5],
+      "text": " možda će oni sad već krenuti u otvaranju firme."
+    },
+    {
+      "timestamp": [2055.14, 2059.92],
+      "text": " Pa eto, čisto da imamo još taj neki, hajmo reći, task,"
+    },
+    {
+      "timestamp": [2060.86, 2065.84],
+      "text": " da pokušamo da im to ubacimo u neku verziju 1 ili da ostajemo za verziju 2."
+    },
+    {
+      "timestamp": [2065.84, 2072.66],
+      "text": " Nije ni važno, uglavnom, čisto da znate informaciju, da će oni to, mi smo njima sve objasnili,"
+    },
+    {
+      "timestamp": [2072.76, 2081.38],
+      "text": " on će zasigurno sad krenuti u Monri da otvori nalog preko firme."
+    },
+    {
+      "timestamp": [2081.78, 2091.6],
+      "text": " Ja mislim da to nešto nije komplikovano. Nekad sam radio, ja za svoju firmu, Mondri, znam da oni pošalju u sva oputstva, onda se javiš bank,"
+    },
+    {
+      "timestamp": [2091.6, 2109.52],
+      "text": " banka isto da neku testnu verziju, to se nabaci na aplikaciju, ne znam sad, nisam siguran da li ima tu neko puno posla, ali eto čisto onako da imamo sve informiju, da smo i o tom i razgovarali. Baži, hajde kad to bude, da vidimo u kojoj osnovi fazi, kako nam ide,"
+    },
+    {
+      "timestamp": [2109.64, 2112.92],
+      "text": " ja sam uspjel neke MP5 natraviti, vidimo da fino radi,"
+    },
+    { "timestamp": [2113.06, 2114.0], "text": " e onda ćemo razvostiti." },
+    {
+      "timestamp": [2114.48, 2119.76],
+      "text": " Ako ne bude, znaš, mislim da je bolje ne žurit s tim, pa nešto za jebat,"
+    },
+    {
+      "timestamp": [2119.88, 2122.82],
+      "text": " da ne transakcije ne prolaze, nešto nesigurno implementiraju,"
+    },
+    {
+      "timestamp": [2122.96, 2126.66],
+      "text": " da vidimo u kakvoj ćemo biti fazi kad to bude spremno"
+    },
+    {
+      "timestamp": [2126.66, 2132.96],
+      "text": " i onda ćemo se sastati pošteno dučno. Da li bi stvarno mogli, evo, ako treba malo zapet više raditi, mogli biti, ajmo,"
+    },
+    {
+      "timestamp": [2132.96, 2138.24],
+      "text": " ako vidimo, neće režišati, ne možemo, ajmo sačekati mjesec dva, pa onda to dodati."
+    },
+    {
+      "timestamp": [2138.24, 2165.66],
+      "text": " Dogovoreno, dogovoreno. Nego ja to sam spomenula, od što smo o tome razgovarali, pako, možda sad u ovoj nekoj fazi treba nešto bazno da ne preskočite pa da se ne morate vraćati, znaš, čisto da mi razmišljate da će biti onri, znači, bit ćmat, onaj, ovo začme, ne znam."
+    },
+    {
+      "timestamp": [2166.12, 2172.92],
+      "text": " Imaće sa strane ovu fiskalnu kasu, koja isto, ne znam, jeste vidjeli sad ove noje fiskalne kase"
+    },
+    {
+      "timestamp": [2172.92, 2174.4],
+      "text": " Europolosko-Srpsko-Ensko telefon."
+    },
+    { "timestamp": [2174.84, 2175.04], "text": " Da." },
+    {
+      "timestamp": [2175.74, 2178.9],
+      "text": " Imaju onaj touchscreen i sve to, njima je to okej."
+    },
+    {
+      "timestamp": [2179.24, 2182.52],
+      "text": " Tu smo isto izbjegli onaj, dosta nekih stvari i povezivanja."
+    },
+    { "timestamp": [2184.2, 2185.86], "text": " Imali su neke lude ideje" },
+    {
+      "timestamp": [2185.86, 2188.22],
+      "text": " pa smo ih uspjeli odgovoriti od toga."
+    },
+    { "timestamp": [2189.36, 2190.34], "text": " I vjerovatno će imat" },
+    { "timestamp": [2190.34, 2191.98], "text": " sa strane još i taj" },
+    { "timestamp": [2191.98, 2194.2], "text": " uređaj za kačno" },
+    { "timestamp": [2194.2, 2194.76], "text": " plaćanje." },
+    { "timestamp": [2196.22, 2198.1], "text": " S kojom bankom već" },
+    { "timestamp": [2198.1, 2199.62], "text": " se budu dogovorili." },
+    {
+      "timestamp": [2201.76, 2204.12],
+      "text": " To je tako su valjda zamisli"
+    },
+    { "timestamp": [2204.12, 2204.68], "text": " i tako" },
+    { "timestamp": [2204.68, 2207.4], "text": " idu u tom pravcu." },
+    {
+      "timestamp": [2207.4, 2211.0],
+      "text": " Mi trebamo da znamo da će biti to kačno plaćanje."
+    },
+    {
+      "timestamp": [2211.0, 2218.0],
+      "text": " Pa reko da čisto znate da u ovom momentu, ako šta treba to pripremiti, da ne radimo dopli posao."
+    },
+    {
+      "timestamp": [2218.0, 2226.0],
+      "text": " A šta sad ja s tobom razmišljam, ako će on u svakom autu imat mogućnost kartečnog plaćanja, šta će imati preko moktela?"
+    },
+    { "timestamp": [2228.0, 2229.0], "text": " Nisam razumio." },
+    {
+      "timestamp": [2229.0, 2234.0],
+      "text": " Ako će imati terminal u svakom autu, gdje ja mogu odlučit kad završim i uloženje,"
+    },
+    {
+      "timestamp": [2234.0, 2239.0],
+      "text": " ko ću obrati cash-u marke ili ću provući karticu, šta će imati da preko moktela plaće?"
+    },
+    { "timestamp": [2239.0, 2241.0], "text": " Mislim, treba imati." },
+    {
+      "timestamp": [2241.0, 2246.12],
+      "text": " Ali ono, recimo, znaš, tipa, ja ne znam da ti u Uberu ne možeš plat karticom,"
+    },
+    {
+      "timestamp": [2246.5, 2248.12],
+      "text": " na licu mjesta izvuš karticu i plat."
+    },
+    { "timestamp": [2248.14, 2249.34], "text": " Nemožeš, ne možeš." },
+    {
+      "timestamp": [2249.68, 2251.8],
+      "text": " Jer onda oni ovdje nudi duplo rješenjaju."
+    },
+    { "timestamp": [2251.8, 2252.7], "text": " Ja, onda," },
+    {
+      "timestamp": [2253.1, 2255.6],
+      "text": " jel sam ja, onda Timur je pogrešno razumio."
+    },
+    {
+      "timestamp": [2255.8, 2257.6],
+      "text": " Onda on neće imati terminale u Uber."
+    },
+    { "timestamp": [2257.6, 2258.7], "text": " On je li moguće da..." },
+    {
+      "timestamp": [2258.7, 2262.2],
+      "text": " On je planirali imati terminale, to mi nije bilo jasno,"
+    },
+    {
+      "timestamp": [2262.26, 2264.78],
+      "text": " jer faktički ono što Fars kaže,"
+    },
+    {
+      "timestamp": [2264.96, 2270.86],
+      "text": " nema potrebe za terminalom, osim da ti uopšte ne plaćaš prije nego kad dođeš da karticu..."
+    },
+    {
+      "timestamp": [2270.86, 2289.72],
+      "text": " Ne, ne, ne, neće ima terminale. Zna, sad sam ja, malo se vraćam, otvaram foldere, oni iz tog razloga i traže Monri, znaš da je on govorio, pošto Monri ti omogućava real time transakcije, a ti kroz terminal u suštini, ja mislim da bank je tu kasnije dosta."
+    },
+    {
+      "timestamp": [2290.18, 2294.86],
+      "text": " Ali ima Monri svoju uređaj, mi smo za Centrotransga."
+    },
+    {
+      "timestamp": [2295.34, 2299.92],
+      "text": " Ono, možeš isprintati račun, možeš kartcu provući, možeš imati Monri."
+    },
+    { "timestamp": [2300.12, 2301.48], "text": " Ina znaš što se nosi." },
+    {
+      "timestamp": [2301.68, 2325.0],
+      "text": " Jesi, mi smo ovoje za centra. Pa ne znam, evo, ja či njima, pre nije čini te informacije, nisam ja to znao da momri ima svoje, pa nek to kad budu jurli ganjali, da ono, znaš, ako će imati terminale onda ne mora plaćati preko mobilnje. Ujedno i Android i može cijelu aplikaciju na njemu imat čak."
+    },
+    {
+      "timestamp": [2325.0, 2333.0],
+      "text": " Što je dobra stvar jer oni čak tamo imaju dobre GPS čipove i mogu i..."
+    },
+    {
+      "timestamp": [2333.0, 2337.0],
+      "text": " Ovo smo mi autobuse pratili oni mogu tak ste."
+    },
+    {
+      "timestamp": [2337.0, 2339.0],
+      "text": " A nije im loše imat terminal jer..."
+    },
+    {
+      "timestamp": [2339.0, 2341.0],
+      "text": " Da, da, dobra informacija za njih."
+    },
+    {
+      "timestamp": [2341.0, 2347.0],
+      "text": " Nije im loše imat terminal ako ganjaju ciljei turiste koji snabutno navaju aplikacije."
+    },
+    {
+      "timestamp": [2347.0, 2351.0],
+      "text": " Ne znam, možda će nekog pokupiti koji nema aplikaciju nikako."
+    },
+    {
+      "timestamp": [2351.0, 2357.0],
+      "text": " I ono samo naplati i idemo dalje. Ne znam, ne znam, imaju tu općiju."
+    },
+    { "timestamp": [2357.0, 2359.0], "text": " Ovo nije taksi." },
+    { "timestamp": [2359.0, 2361.0], "text": " Al ja možda nađem neko..." },
+    {
+      "timestamp": [2361.0, 2367.0],
+      "text": " Hvala za imate, ja ću im prenijet pa zet, pa što manje mi je poslanjma."
+    },
+    {
+      "timestamp": [2367.0, 2373.0],
+      "text": " Nama bi bilo najmanje poslada, da ne moramo to implementirati, ali realno ovako ćemo pošteno biti s ureda i koštenima."
+    },
+    {
+      "timestamp": [2373.0, 2375.0],
+      "text": " Najepitiji da je mi na prilu plaćamo."
+    },
+    { "timestamp": [2375.0, 2377.0], "text": " Pa jesite." },
+    {
+      "timestamp": [2377.0, 2380.0],
+      "text": " Šta oni odlučuje, ti njima slobodno već."
+    },
+    {
+      "timestamp": [2380.0, 2383.0],
+      "text": " Da, da, reći ja njima, imate opcije, imate ovu."
+    },
+    {
+      "timestamp": [2383.0, 2387.0],
+      "text": " Nama je jedna lakša, a druga i nama puno isplativija."
+    },
+    {
+      "timestamp": [2387.0, 2393.0],
+      "text": " Dobro, ja nemam više ništa, ako ti imaš nešto da..."
+    },
+    {
+      "timestamp": [2393.0, 2397.0],
+      "text": " To je to, ja mislim da smo sve za sad prašli."
+    },
+    {
+      "timestamp": [2397.0, 2401.0],
+      "text": " Čemo vidjeti dalje, kako je Apsir poslati,"
+    },
+    {
+      "timestamp": [2401.0, 2405.64],
+      "text": " da imamo i to, ako se treba što dodavat, mijenjati."
+    },
+    {
+      "timestamp": [2405.64, 2409.48],
+      "text": " Sa strane mobilne aplikacije i objavljivanja,"
+    },
+    {
+      "timestamp": [2409.74, 2413.18],
+      "text": " vjerovatno će im Apple oduštva."
+    },
+    {
+      "timestamp": [2413.58, 2418.42],
+      "text": " Tako da im možda napomenite, vjerovatno će imat samo za Android u početku,"
+    },
+    {
+      "timestamp": [2419.16, 2421.34],
+      "text": " ne zbog nas, nego zbog njih."
+    },
+    { "timestamp": [2422.84, 2423.66], "text": " A da, da, zbog zbog." },
+    {
+      "timestamp": [2423.7, 2427.24],
+      "text": " Jer oni, ako tek otvaraju firmu, ne mogu je znajih. A da, da, zbog zbog. Jer oni, ako tek otvaraju firmu,"
+    },
+    {
+      "timestamp": [2427.76, 2429.62],
+      "text": " ne mogu je, znači, otvoriti,"
+    },
+    {
+      "timestamp": [2429.86, 2431.16],
+      "text": " ne mogu račun otvoriti na nju."
+    },
+    { "timestamp": [2431.24, 2431.84], "text": " To je i ne." },
+    { "timestamp": [2432.92, 2433.44], "text": " Upravo." },
+    {
+      "timestamp": [2434.72, 2437.2],
+      "text": " Oni moraju imat firmu da bi počeli išta to."
+    },
+    { "timestamp": [2437.32, 2438.48], "text": " Zato je meni bilo čudno," },
+    {
+      "timestamp": [2438.62, 2441.82],
+      "text": " mislim, sad me nije čudno zašto ih i Google Play izignorso,"
+    },
+    {
+      "timestamp": [2442.0, 2444.78],
+      "text": " ako se prijavljaju kao fizičko vici,"
+    },
+    { "timestamp": [2444.78, 2446.12], "text": " kao odični user." },
+    {
+      "timestamp": [2446.24, 2448.18],
+      "text": " Jesi moraš i oni podatke davati."
+    },
+    {
+      "timestamp": [2448.42, 2450.16],
+      "text": " Jednako imaju svoju neku drugu firmu,"
+    },
+    { "timestamp": [2450.82, 2451.72], "text": " ali ne znam." },
+    {
+      "timestamp": [2451.86, 2454.02],
+      "text": " To treba povjeriti s njima, Bojane,"
+    },
+    {
+      "timestamp": [2454.14, 2456.3],
+      "text": " da vidimo na koji način su oni aplicirao."
+    },
+    {
+      "timestamp": [2456.42, 2458.22],
+      "text": " Da li onaj momak direktno kao on"
+    },
+    { "timestamp": [2458.22, 2460.0], "text": " aplicirao, što je onda" },
+    { "timestamp": [2460.0, 2462.6], "text": " logično zašto ga ignorišu" },
+    { "timestamp": [2462.6, 2464.6], "text": " ili je kao neko pravno lice" },
+    { "timestamp": [2464.6, 2465.28], "text": " pristupio." },
+    {
+      "timestamp": [2465.38, 2470.2],
+      "text": " Jer ja sam išao logikom da niko neće ovo kao fizičko lice prijaviti."
+    },
+    {
+      "timestamp": [2471.3, 2472.66],
+      "text": " Nemam i logike nikak prije tu."
+    },
+    {
+      "timestamp": [2473.9, 2477.28],
+      "text": " Dobro, ja sam upisao se. Na koji način se aplicira Play App Store?"
+    },
+    { "timestamp": [2477.82, 2478.16], "text": " Nalog." },
+    { "timestamp": [2478.42, 2479.78], "text": " Firma ili radno." },
+    {
+      "timestamp": [2481.08, 2494.32],
+      "text": " Ali uglavnom je da znaju da im je to i da mi napravimo sve, mi možemo dati apkvobo začma i da oni testiraju, ali onda dok dođe do korisnika, ne zavisio od te tamo."
+    },
+    {
+      "timestamp": [2494.32, 2508.0],
+      "text": " Da, ja sam nima to već rekao prije mesi dana, daš tako da ono, ja neću dat svoje nalogue, mislim da je smisla, da imam svoje nalogue, on, imaju firme, pa onda opet moramo migraciju raditi."
+    },
+    {
+      "timestamp": [2508.0, 2510.0],
+      "text": " To je dupla glava, bolje da bi..."
+    },
+    {
+      "timestamp": [2510.0, 2514.0],
+      "text": " Ma ja ne bih ulazio u te avanture."
+    },
+    {
+      "timestamp": [2514.0, 2526.0],
+      "text": " Sve kako će ona ili s aplikacija kasnije, Apple radi u valodaciju, svake aplikacije imali račun ili ne, taj proces prvi pukat se objavljaju, od krati treba je preučno."
+    },
+    { "timestamp": [2527.0, 2530.0], "text": " Na, da. Minimalna sedmica." },
+    { "timestamp": [2532.0, 2536.0], "text": " Dobro, ja nijem više ništa." },
+    { "timestamp": [2536.0, 2539.0], "text": " Nijem nija, što se mene tiče." },
+    { "timestamp": [2540.0, 2542.0], "text": " Napadamo." },
+    {
+      "timestamp": [2542.0, 2546.0],
+      "text": " Ako možda momci još sada mi koji pogovorimo Bojanje?"
+    },
+    {
+      "timestamp": [2546.0, 2553.0],
+      "text": " Nije problema, mogli da smo ahirom samo minut jedan, ali ne smetati me."
+    },
+    {
+      "timestamp": [2553.0, 2557.0],
+      "text": " Samo da što ga pitam, vezavljamo naš drugi ampak."
+    },
+    {
+      "timestamp": [2557.0, 2560.0],
+      "text": " Jesi gledao možda mahe za best?"
+    },
+    {
+      "timestamp": [2560.0, 2564.78],
+      "text": " Ja vas samo pozdravljam, onda čujemo se."
+    }
+  ],
+  "text": " Državam, onaj... Mi smo imali, ne znam, vjerovatno Timure ti si prenosio... Malo samo sam nešto spomenuo, koje ono čekali smo da smo svi ovde, ali manje više smo i u grupi, onaj......nadjeli šta se dešavalo, najbitnije, onaj promjene. Jeste. A hoćeš ti malo, onaj, pošto si ti više svi neš funkcijao pa je samo dobijala s njima. Ja sam vode nešto ispisao, dosta nekih stvari pa ću i ja svoj dio, pa ću vam malo podiskutovati šta kako čisto da neke male izmjenice. Dobili smo konačni rok koji tuta mislite, da li možemo ispoštovati njih od prilike dotli, da oni imaju tu neku tesnu probnu verziju, neće biti bro, da li je, eto, počeli bi tad. Pogledat ćemo da... Šta sam? Ja, rec pa. Izvijem da rec pa. Reći, rec ti. A ovo daš kako, Simona, šta sam sebi na interno ovdje postave cijelj da do 10.12. uradimo sve što možemo. Tako bi ja, znači, sebi uglav da postavimo taj 10 i 5 dana prije kao cijelj. Da odredimo sljedećih, ako možemo, sjestovi dana da se nekonimo na stavljica svake FTE i kaštav trebamo od rada bi do desetog se završili i probat, dat sve ocene. Pa ako ne ste gdje do desetog, eto imamo pijet dana lufta, jel, petnešt i tako da ne bi puno ja, onaj, da li možemo, ne možemo, hajmo sebi postaviti u glavu, da možemo i hajmo to napast, pa ćemo vidjeti. Slažem se i aj, mada sam ja već s Timurom pričao, on on mi je prenio informaciju da je s tobom razgovar uvezano za rok. Tako da sam ja potvrdio klijentu da je to 15. decembar. Ova verzija je jedan, pričamo o verziji jedan i pričavamo o nekim stvarima koje su oni već korigovali i gdje smo mi njih ishandlaili da ne idemo u neke stvari. Tako da, o tome ćemo sad razgovarati. To će nam dodatno pomoći da dobijemo na vreme. Vađi? Ništa nema da je tako taj nok. Tako ćemo se držati, ja sam isto ozao, da bude 10. december pa da imamo tu pijet dana, ali sad u novembru nekad, predpostavljam da ćemo imati makre neki APK file, za neki 15-20 dana, jer ja ne bih dizo njihove aplikacije na moj nalog. Već smo mi je to i registraciju, i admin donosi, i vazače, i onaj SMS, svakako login, jedina je sad opcija. Spremno? Malo mi da se još, kako se zove, uvježemo sa Faratom Mirzaom, ali to je to. Znane što ostaje, što smo se mi medisomno dogovorili, Mirza Fars i ja, je te rute, znači da se može naručiti auto i da se odredi cijena, hajmo reći, važnije. I to ćemo gledati da je sljedeći cilj, a šta sve bude do tog nekog roka spremno. Ja mislim da je uglavno... Znači, imamo sad autentikat preko SMS-a, user se mogu logovat, i spašavam kod se dolao u aplikaciji i to je to. Sad sljedeći korak, pa men bi bio,, znači hajmo naprav neki screen da bi user da beri lokacije, odredište i da pošalje zahtjev za request ride. Sljedeći korak. Treći korak su priklatanje te vožnje i prikaz svega toga userui gdje mu je vozač i live lokacija, gdje smo reći live lokaciju, aj točno vidjeti, vozača i usera. I nakon toga nam trebaju sve opaze kod vozača, privat je uvoženju, završio, odnosno pokupio čovjeka, odbacio čovjeka. I još jedna bitna stvar, Timur, ti smo se sad počuli, da smo meni osmrana ugovora i pisali ste stvari. Da, da, da, ugovor je u sljedeća. Najbitnija stavka tu, pošto se sve vrti oko toga. To je najbitnije da je tu. Tako je, to da im bude legalno čisto da ide da stavljaju. Znači to, najmreći, ako se nema dobro skonu to chat flow, to smo četiri te neke segmenta, tako da kažem, hajmo se na to fokusirati. A onda sve ostalo ćemo kasnije. Biranje tipa auta, ne znam, surge pricing cijena, čatovi, dopisivanje, neam pojma, znači hajmo samo to naprav. Mogu samo dobro rekvertat vožnju, vozač me pokupi i promjenih se neki state, vozač me dobi... Poslaći, oni neke tarife, je li tako? Tako je, tako. Imaju oni dva tipa formula koji će se koristiti. To je tarifa jedan koja je glavna, znači ide cijena vožnije se kalkulši po kilometru puta tarifa i to je to. I bit će dvije tarife trenutno, znači jedna je kao neka defaultna, druga je kad su neke, ne znam, kiša, gužla, šta ja znam. I onda se... A za vozača još treba u toj formuli dodat puta njegov postotak da odmah izračunaju njegovu zaradu sa njegove strane. Ok, to da. Ma dobro, to će oni dostat formule, mislim da to nije ništa. Da, da, da, oni će dostat formule, mi smo im već rekli, ali eto, otprilike da znate na koji fazo on sve to će se kalkulisati. Ok, a dobro, mi to možemo svakakvo insrek ili, mislim, svoj. Naravno, to je svakako, da nam je to izmijenito, ono, pravu formu. Ma ja, dobro. Samo da potvrtim, još jednom mi smo rekli, jel tako da ozačaj dodajemo kroz admin panel, ne mogu se onirekstrovati. Tako je, sad pogotovo za ovu prvu verziju ništa se ne registruju, znači oni ih dodaju, oni dodaju tip auta koji vežu, znači tu tipu auta, treba biti šta ja znam, Škoda Fabia i broj tablice. Jer taj dio će se i prikazivati kad se naruči vožnja. Vidjeli ste onaj neki draft dizajna, to je nešto što će se tu mijenjati. Da umjez, ono, pored recenzija, što je ispod gdje su sad trenutno recenzije, tu će pisati tip auta sa tablicom da zna klijent komu dolazi. Također što se tiče tipova, to je ta neka treća stavka, prvo obitno je bilo da će postojati tri tipa. Još uvijek će postojati tri tipa, ali u ovoj nekoj prvoj verziji će se isključivo koristiti jedan tip. Tako da znate, ne znam da li vam može štao lakša da sad samo pustite tip 1, a da je modularno kasnije u verziji 2 da se doda, ne znam na koji fazom direktno, vama lakše kao devom. Aj točkos kontakt, mislim da bi bilo možda najbolje napraviti odna za 3 pa sam taj zbav gaz primljene, aj točk, točno. To vi internno vidite kako, samo da znate šta će se sad koristiti, taj neki tip, ja, tip jedan jedini. Šta mi još nekako? Izvini, reci. Reci, reci, ajte sa ovom. Da, da dam sad ugovor ovdje, znači bit nam je da li mi sve trenutno što nam je ugovor potrebno, da li sve to imamo aplikacije, znači imamo ime i prezme, najmog primac, to je korisnik, je li tako? Da, da, da, to je ime korisnika, je li tako? Da, da, imamo sačinjen dana, sati, dobro, znači ime i uzera, samo ime i prezme, je li potrebno u ovom tipu govora, adresa, nešto još? Pa ništa što nije naveo ne treba, znači, nešto je tu crveno, to je to, da. Ime prezme i uzera imamo, vozlo imamo i potpis, to je to, je li tako? No, da, to. I samo pitanje kako potpis elektronski mi i uzera ćemo napraviti? Ja bi to, pošto ne možeš nikako, drugačije samo ime i prezme. I ja isto. I ja isto. A mi je trebalo napraviti neku formu koju će user dobiti kad prvi put se uloguje u stranicu, da on prihvata da svakom rezervisanju vože, potpisuje ugovor, taj, taj, da imamo nekje bukvalno saču template ugovora, da user može vidjeti šta potpisuje svaki put kad se registruje. Odnosno kad se registruje, automatski je prihvatio da mive ugovore pravimo, ajmo reći, njegovo ide. Tako je, tako je. Pa ja bi to jednokratno radio, znači ja kao prvi put kad se registrujem, prijavim aplikaciju, odmah sam to potpisao i da svaki sljedeći put kad naručujem vožnju... To je to, nima potrebe... Da me ne pita stalno, znaš. Jer ima ovde čak i u ovom draftovog dizajna dole, kad ide i kad pravi akaunt, da se slaže sa uslovima korištenja. I tu smo sve što treba i riješili smo taj dio komiseta njihovog. Već piše u ovom ugovoru ili? To će pisat u uslovima korištenja. Jer ovde, kad kreiraš akaunt, dole ti piše prije nego što ćeš kreirat, potvrdit klikom na dugme prijavi se, slažajte s našim uslovima korištenja. Uslovi korištenja će biti link na webu i oni mogu to iščitat, to se sve tu, tu će pisati da oni se slažu s tim, da se slažu, da će biti vozila pod nadzorom itd. A znači to ćeš ti, ta uslove korištenja ćeš ti imati? Uslove korištenja možemo linkati tamo na webu jer postoje već. A znamo šta su, to ne bitno jer u to se ne razvore absoluto. To je konsent dio pravni, samo je bitno da ima link dole vidjet ćeš kažem ti i na ovome, pomozi mi reći, draftu imaš ovde na, pomozi mi reći, screenu koji napravi račun prijavisa. I dole vidiš ovo klikom na dugnoj prijavisa, slažete se s tim tim. To treba biti klikabilno, on pročita, vrati se i zdravo. Super, super, vidim sad, odlično. Pitanje, jedno je u ogovora. Da li admine naše trebaju imati negde preistup tim ugovorima da ih mogu uskinuti po vožnju, je li nešto tako? Da li nima to treba uopšte, ili da ih samo čuvamo negde pa? Izvinu mi za jedno, nešto je bilo priče na mail, da se šalju, je li tako? Kada se potvrdi vožnja, ugovor koji se generiše s tim generalijama se treba poslati na mail klijentu i vozaču. I naravno da se stora negdje interno za admine. Ali mi mail ne uzmamo sad. Trebaćemo dodati na mail. Ja, okej, okej, okej. To, to odmah dodati mail da se osiguraju, jer im je to pravno najbitnije da u svakom trenutku, to jest u trenutku kad prihvateaciju, broja telefona, čadima SMS, ne znamo je li pravi mail u njemu. Mislim, imaš li li to rečun, ok, to je do usera, ako njemu njemu pravi mail komandu? Ne, to je do usera. Ma da, to je. Nemoš ti sad kukrol, sad. Kao če? Pa jedino, to se može zlopotrijeviti, ako što je mogu štati svoj broj telefona, slaviti, staviteći tuži mail, da ćemo dolaz......dolašćem onda,lazit ugovorit. Jedino to je malo... Dobro, da se ustavaj završimo. Ustaviti u sebi. Ustaviti u sebi. Ako je kontrola za ustavi, ja mislim da po tom zakonu o renta karu u Republice Srpskoj, klijent snosi neke konsekvence. Tako da, ja koristam i drugom. Ali vidi, kazna nijemo začu ako je njemu regularno stiguo onaj digitalna forma ugovora, znaš. Da, da. A meni ako ja ne imam to na uvide da pokažem, pišu kaznu. Jasno, jasno. Ma mislim, pazi, ovi momci su stvarno to iščitali, znaš, oni su samo to prezentovali sad na zadnjem sastanku i vidim da su ono baš duboko išli da bude sve po zakonu. O jasno. Da bi se ne bit desio aero. I sad njima je bitno da njih nekazne ili njihove vozače, šta će biti s klijentom, mi smo tebi kao klijentu obezbijedili da ti taj ugovor stigne na mail. Što si ti dao pogrešan e-mail, to je nešto drugo. Dobro, mi možemo nekad na lokasni baciti. Ali ćemo to možda razratiti u temu nekoj verziji 2, znaš. Da vidimo s njima, da ih ne zbunjujemo i da ne trošimo vrijeme na to. Samo ćemo staviti tu opciju kaada upišete mail i to je to. Ma ja ne znam čak možda da li nam bilo lakše, ali to ćemo mi izkontati, da li nam bilo lakše te ti mailovi da se ti ugovori negdje mogu u aplikaciji vidjeti, da mi izgenerušemo PDF, da ga ne šaljemo, već samo da ga vratimo mahe tebi. Ma da to možda bilo, ajde biti točno niskontrat. To ćemo nekako... Timur, je si spomenuo ili si planirao spomenuti onaj prvi skrin? Da to dolazim do toga. Dobro, izvini. Nastaviti izvira. Evo ovo što je i Bojan rekao, o razlika trenutno u draftu, to je njima najviše zasmetalo iz nekog razloga, ona je, kad se tek početni i posle splasha, znači ide splash, i onda je trebalo ići da izaberu da li su klijenti ili vozač. Ima to smeta, taj screen neće biti i vozač će se moći, znači kreira se na jednoj aplikaciji, jeli, user, ta user ulazi, to jest vozač će dobiti već svoje predefinisane usere, kad se skine aplikaciji, jel, user, ta user ulazi, to jest vozač će dobiti već svoje predefinisane usere, kad se skine aplikacija, na menu će biti negdje dole sitno, ja sam vozač. To menu screen ovde još nije prikazan, to ću vam, mislim, sutra do kraja dana poslat, ili u ponavljak, da vidite na šta mislim, i bit će bukvalno samo malo menu, ono lupam informac informacije, bla bla bla, settings, i onda ide dole malim vozač, da klikniju ovde i onda njega vodi i to da se loguje sa svojim kredencijalima na to. To je super, to smo mi baš neki dan na grupi spomenuli šta kad bi napravljeno neki mali, iskriveni login za vozače, tako da to je prošlo. A eto, i oni se to prihvalili, tako da je to super, znaš. To je najveća razlika između ovog drafta i njihove te neke odluke. Jer njima je to zasmetalo u smislu da zbunjivaće klijente, znaš, šta znači vozač to. Maja, ma hoću da je user... Ma da, hoćemo skloniti, a vozač ćeš svakako prijavljivati sa svojim kredencijalima ili već sa registracijom ili čim, nema pojem. Ja kao korisnik, ako nađem to, mislim, dostupno imeni, ali ništa mi ne znači. Možete, i vozač će sa SMS-e prijaviti, samo ćemo prekazati drugačiji UI za njega. Broj je uvijek jedinstven. Mi bi trebali tu napraviti da prvo admin mora unijeti broj telefona za vozavac, i samo s tim brojem telefona, ne da se može registrovati samo se. To smo naprav. Da siguruju sluh da napravimo kredencijale username i password. I onda kad se on prvi put uloguje da mora ostati svoj broj telefona i potvrdi SMS. Potvrdi broj telefona. Mi smo na mobilnoj već uvijek napravili da unese i broj telefona i njegove podatke. Tako da bi on mogu isto s SMS-om se prijaviti i onda ćemo tako razaznat. Ja odmah na kreiranju da stavi broj. Hajde ovo, molite, sve nam ovo potvrde sa nima. Hoće li da oni imaju punu kontrolu kod kreiranja vozača? Znači da oni unesu njihov... Hoće. Hoće, hoće, to smo već vidjeli. Hoće oni potpuno u kontrolu nad svojim vozae oni potpuno u kontrol nad svojim vozačima. Jer oni će imati svojim vozačima. Trenutno ništa biti ono da mogu. Da, ništa da mogu vozači raditi samostalno. Znači sve će oni da kroz svoj admin panel sa vozačima manipulšu. Jer ti vozači će u stvari biti njihovi zaposleni. Znači neće biti sad trenutno u verziji jedan trećih lica. Trenutno je uvijeniranje da se može prijaviti, ne možeš se prijaviti, nego su već predefiniti. Ja ne bi tu puno komplikovo za vozača, ostavio bi njima mogućnost da kad im oni daju kredencijale, znači username i password, da se oni samo tu mogu prijaviti i da imaju sad u tom svom interfejsu ime, prezime, ne znam šta će ih sad kroz admin tamo, šta su navijelo i specifikaciji, vjerojatno broj tablice koji je vozila i tako daj. Tako da ne bi sad komplikovo i sa SMS-om. Znaš, može neko... Jer, evo, nismo pet kolega, znam tvoj broj, ja se prijavim s tvojim brojem. No, ja, ne može. Ne vidim logiku što će im to. U ovoj konstalaciji, po ovome, kad završaju splaševi, izlazi i skriji, napravi račun ili prijavi se. Faktički vozač će ići samo na prijavi se i sa već definisanim kredencijalama će se u njih. Ne znam što moraju verzi kod druhoj. Trenutno kodifikacije za njih. Jer će biti već hard road, već napravljeno. Znaš, imam dva razloga što to tako nebi. Prvi je, user ne bi šifrasa, jelako može kompromitati. Znači može ako stavi neku lošu šifru, ako je promijenija, jelako... Jasno, na dobro, ajde prazni. A drugi je razlog što ćemo imati onda u bazi usere koji imamo broj telefona, to su useri, imat ćemo vodača kojima nema broj telefona. Ne, ne, po portu gdje će morati za vozača, oni unijet broj telefona. Admin koji kreira, kreira znači email, user, pardon, email, broj telefona, pasword kojemu je dodjeljeno vozilo, tabelce i to je to. Ok. Dobro, možemo mi malo još porazgovarati, ali vi mislite da je najbolje ići samo username, šifra i drugo telefon. Jer on će unositi sve podatke, on će svakako imati drugo telefona. Ok. Mogu ja oskoći. Ako koristimo SMS-e za vozače i za korisnike, odmah je lakše jer imaš uvijek jedan screen za login. Čak ja mislim da ti ne treba ovo biraš registraciju ili prijavu, nego odmah ideš SMS login i ako ne postojiš u pozadini mi već, vam reći, kreiramo ti račun. Samo je drugi korak, onaj, ako si novi user, samo unosiš podatke. Ali ako si vozač, tebi će podaci već biti unešeni. Ti ćeš samo jednom se prijaviti SMS-om i gotovo. I onaj, mislim da s SMS-om riješimo dosta, smanjit ćemo broj skrinova i, onaj, svakako ja mislim da ne treba user klikat, rekturujem se, prijavljam se, nego unese broj i ono ako je prije već bio prijavljen, znaš oni već u sistem. To uveć ga nalazi baz. Jeste, tako je. Super, može i tako. Dobro, nek nam je samo lakše. Pa je. Ok. Super, može i tako. Nek nam je samo lakše. Pa je. Nije neće zbunjivati i onda ne imaš razdvajanja vamo email, šifra i broj, nego i svima SMS i to je te. Dobro, dobro. Slažem se, ok. Kroz zadnje će morati unositi njima brojeve telefona, bez toga neće ni moći što se prijaviti. To je, to je, to je, već smo napravili na mobilnoj da adniju unosi i kreirati. A moje pitanje je tu kako će korisnici staviti mail koji je mandatori da bi dobijali ugovor. Aha, to je u drugom ovom koraku, jer prvi korak je SMS. Mali bi trebao biti tu. Mali bi trebao biti tu, espod koji je korak jer ako pustiš korisnika, samo saime i e-mail mandator i nikad nećeš, dok ne uneseš, malo moćne zervise odvozate. Ali tu je malo UX zabagovan, jer ja, na primjer, ne volim da se prijavljujem sa telefona. Meni je main mail. Naprimjer, Fares je main SMS. Jel, sti Fares pa nju? Polakše mi je, više volimo na SMS-om. Dođem da šihar mora razmišat koja mi je, znaš, ono, i... Ti još gledamo, mi nije na BH Telekomu imao bagove sa njihovim autentifikacijama. Kad ne dolaze poruke. E sad je tu razgled, onda moramo, jel, Google onaj login ubacivati, tamo reći, na taj način. Ili samo e-mail pasvojba na esterinski. Možemo mi dodati preko FireVinza i Google i svašta nešto, preko Facebooka i preko Applea i svega. Pa može, ali onda ću samo... Alko vi se smijeli prijaviti onda moramo ih natjerati da telefon nese. Imaš li taj trenutak. Ne, ne, ali što je što je rekao Timur, zči, prvi ekran će biti vroj telefona. I ti kad donesiš vroj telefona, sljedeći ekran je ime prezme, ime i mail. Sve, mnemu da to i onda smo riješili to. To je to. Tako nam je trenutno. Drugi put kad uđeš, samo k telefona da se uloguješ, a ako si vozač, znači ako imam tvoje broje telefona i spašen si kao vozač, onda nakon broja telefona uloguješ se, ideš odmah na onaj... Ajmo reći, nemaš ništa više, znači sve je za tebe napravljeno u sistemu, ti kad učin prvi svojeg telefona kao vozavč, odmah ideš na skrim gdje čekaš Božnji. To što se mene tiče, ok. Samo na korisnicima da je taj drugi step isto u mandatoryi treba biti. Sve onda ok. Samo, rećiš. Maja. Super, super. Ono što sam ja još primitio, što su njihova očekivanja, što se razlikuje kod nas trenutno u V1, je što se tiče GPS-a, traćenja vozila, to jest telefona koji će biti u vozulu. Dobro. Oni to očekuju, jel? To, oni to očekuju, znači imate sad koliko nam je to izvodilo ili da nešto manevrišemo. Nisam skontrovo, šta tačno očekuju? GPS, da prate vozača gdje, šta je, tj. prate vozila. Oni kao admin ili kao user? Da, da, da, oni kao admin ili kao user? Da, da, da, on je kao admine. Ja komentam da to nije neka komplikacija, zato što mi svakako mogamo pratiti svakog vozača i svakog usera u isto vrijeme. Mi njima možemo dodati na admin screen jednu mapu, gdje ćemo samo sve vozače pagredati. Odlično. Odlično. Onda smo taj problem riješili. I ono što smo već spominjali... Jer svaki vozavač kog se jedan njih skonto, izviniti morati samo, svaki vozavač kog se jedan skonto njih će dobiti novi telefon, bit će upaljen GPS na telefonu. Oni baš ozbiljno to mi je pristupio, njihova upolju koje mora pitali. Da, da, da. Sve su u fullu, ne daju im uopšte nikakvu slobodu trenutno. Neće biti uopšte ono, ti se kao prijaviš da možeš voziti, to je to, nego je to sve fingirano trenutno. To ne. To bi su, da bi su. Ovo što sam... Reci, reci. Samo nisam čuo jedan dio, jel imaju oddjel, hoće samo vozače ili i vozače i uzere da vidim? Ja, koliko sam shvatio, njima su bitni da vide oni interno vozače da mogu vidjeti u svakom trenutku. A da to možemo napraviti? To možemo i provjeriti s njima još jednom čisto. Ne, ne, samo vozače samo. Nije klijente neće, neće klijenti pratiti samo vozače. A onda kad ste nekad im možemo napraviti neki indikator, ako je vozač u vožni da ima drugačiju boju, ako nije u vožni da ima neku drugu, ali nekada otopat. Da znaju koji je aktivan koji nije. Da, može, može, mislim da to možemo. Ono sve da to neodlično. I ovo što smo već spominjali, onaj... Reku, recu. Aha, mislio sam i ove... Ne očekuju onda mape vam za ove usere. Da vidimo to. Misliš kad user naruči voži? Pa da, zvedali smo da to, hajmo reći, uklonimo u V1. Očekuju oni da se vidi mapa, da vidi kad vozač dolazi. To je kad naruči vožnje, postoje naručeni vožnje, jel? Tako je. Tako je, tako je. Dobro, ljuzer ne bi trebao da vidi svezače, on samo vidi jednog koji je njemu... Ma da, ono kako imu je dodijeljen, ono, klasika. Ne mora on vidjeti sad sve vozače gdje su mu. Ono, ako to opitaš, ono, u trenutku da vidi 10 vozača. A kako kad user bira, pošto svima su istala vozila, hoće li on uopšte imat... A bira je sistem za njega. On će samo klikne, tražim vožnju, tu sam na toj lokaciji, idem... Tako je, i onda mu sistem dodijeli vozača po nekim određenim kriterijima. Gledamo kroz dano perpulaciju. Sve to znači prepremijem, s back-end strane imamo funkciju koja alocira najbližeg vozača i njemu dodijeli. Znači, završaj, ja sam zapisuć. Admin vidi sve vozače na mapi. Ugovor se potpisuje i šalje na mail nakon vožnje. User vidi mapu i vozača svog nakon što je voža potrđenog stvarila. Imali li još nešto novo što sam zaboravio? I ovo samo što sam krenuo pričati, ovo što smo već spominjali, oni žele trenutno da admin imaju full kontrolu nad vozačima. Znači admin može ugasit, upalit, a vozač trenutno to ne može. To je njihov taj neki zahtjev za početnu ovu varijantu. Izvini, ugasiti. Je li gas tracioni? Ugasiti, pauzirati, ne mogu dobiti nikakvu. Status aktivan, status neaktivan. Ja sam trenutno zamislio da mi imamo tri statusa, onaj aktivan, neaktivan i zauzet ukoliko je u vožni. A nisam se igrao, samo to na njima ne bi trebalo liniju od statusa. To je internno za algoritam da skonta koji ih može dodijeliti. To je okej. Kako? To ne može odlučivati, nego to ide preko bekendara. Na naro. To je kako čovjek zauzeti? Ma ja, to mi internno sve gledamo. Kad tražimo najbliže i kad tražimo ozašli za vožnju, prvo ono da li opoži, ali zauzeti... Ovo što je Timu rekao da oni imaju kontrolu kroz svoj admin da nekog isključe, razumiješ? Da kažu ok, danas si neaktivan, odbio s tri vožnje ili iz nekoj drugi neći razloga mislim sad. Ne trebamo mi ići grup vrijeme na to, nego eto samo, pitali su da im to mogućimo, da oni mogu da imaju full control nad vozačima. Jasno, jasno, jasno, to je to. Dobro, zapisano sve. Mislim da mi sad imamo, da nam jasno šta trebamo dalje raditi. Možemo mi na tom da se opričamo. Ja imam samo jedno pitanje vezano za server. Mi imao se trenutno neki server gdje je Timur podigao gore web strancu. Pa da malom je server. Nisam... Na globalu, onaj neki najmanji paket, mini paket na globalu je trenutno hosting. Pa reko to da pogledate pa da mi javite, onaj, predpostavljam da će i aplikacija i sve ovo ići na taj server, pa da im samo javim da uzmemo neki veći, da mi javite neku konfiguraciju koja bi bila poželjna da projekat... Mislim, činim se da zasrašo... koja bi bila poželjna za projekat. Čini mi se da zasraš... A po prije nam imao Firebase-a, efektivno ovo server. Ne treba im server biti. Znači, nama ne treba mobila, svakako ne treba ništa, backend ide preko Firebase-a i tu sve što nama treba imamo onaj... Tarniki, ajde ne kažeš. Dobro, znači ne put vam im ništa, govorite da sad podižu paket servera nešto. To samo zavisi od app stranice koja ima Timur i ono, ako baš vidimo da imamo neki veliko gruva usera da nam stranica sporo radi, ali veliko je posvijetan da podiče, ali sad za sad ušto. Za sad je ok. Ne znam, može li se web hostati na Firebase? Nisam te čuo, Mahir. Može li se web hostati na Firebase, ne znam, ili onima i tu opciju? Ma mislim da ima, uphosting, bez problema bi bilo da može. Mislim da može to, tako da mogli ako hoćete da prevacimo, ne moramo sada, jer mislim da bi čak možda i to moglo u ovaj free plan, pa se znam kog se to plaća tim ureda. Izvini, nisam te čuo. Kog se plaća taj hosting koji imaš ti za strancu? Nemam pojma, ne plaćam ga, nije nešto puno, ja mislim možda... Na nije, nije. Nije ni stotinjena. Nije ni stotinjena. Deset, nije odnaš. Pa da, u toj veze, mislim, više ćemo vremena potrošiti. Ma ne, nećemo gupti vrijeme na to. Oni su već kupili hosting i to je završeno nešto. Nego sam ja onako pitao da li vam, čisto zbog tehničkih, da treba pa da ih zaganjam da dižu paket, da ne dođemo tu... E vidi, pao možda... To da. E možda ako odlučimo kad budemo u sljedećoj fazi, ako dođe pravili admin panel, mada i to, može i da nešli potrebe, ali nekako... O to to nije tema... O to to bilo kad dođe... Ja volim pitat. Ima još samo jednu stavku, to smo isto razgovarali s njima ja i Timur vezano za Monri oni će sad kad firmu otvore Juriće je to da preko neke banke i preko njih već nismo imalo dali neke informacije oni su to zapisali Juriće je taj Monri plaćanje karčno plaćanje. Tako da, ono, u nekom momentu, on će vjerojatno dobiti od Mondrija neki API key ili šta već. Nije, stavljeno, da bi je od Mondrija, vi to kad dobijete, tu se dobiju putstva i sve što treba za to cash, nije cash nego kačno plaćanje, ali rekli su ok, ako do ovog roka oni to ne obezbijede, da će biti u toj nekoj pilot fazi samo cash, a kasnije kad to dobiju da im to... Neće biti samo prenotno cash jer oni nemaju firmu napravljenu na koju mogu sad to prije aplikacije. Jer će oni startovat firmu kad startaje aplikacija i onda u tom testnom nekom procesu će oni morati proći kroz tu proceduru i onda kad završi vidjet ćemo šta. I onda ćemo to, vjerovatno će biti, ako stignu sve ovo i ako oni sad planiraju s ovim rokom koji smo i mi sad ozvančili, možda će oni sad već krenuti u otvaranju firme. Pa eto, čisto da imamo još taj neki, hajmo reći, task, da pokušamo da im to ubacimo u neku verziju 1 ili da ostajemo za verziju 2. Nije ni važno, uglavnom, čisto da znate informaciju, da će oni to, mi smo njima sve objasnili, on će zasigurno sad krenuti u Monri da otvori nalog preko firme. Ja mislim da to nešto nije komplikovano. Nekad sam radio, ja za svoju firmu, Mondri, znam da oni pošalju u sva oputstva, onda se javiš bank, banka isto da neku testnu verziju, to se nabaci na aplikaciju, ne znam sad, nisam siguran da li ima tu neko puno posla, ali eto čisto onako da imamo sve informiju, da smo i o tom i razgovarali. Baži, hajde kad to bude, da vidimo u kojoj osnovi fazi, kako nam ide, ja sam uspjel neke MP5 natraviti, vidimo da fino radi, e onda ćemo razvostiti. Ako ne bude, znaš, mislim da je bolje ne žurit s tim, pa nešto za jebat, da ne transakcije ne prolaze, nešto nesigurno implementiraju, da vidimo u kakvoj ćemo biti fazi kad to bude spremno i onda ćemo se sastati pošteno dučno. Da li bi stvarno mogli, evo, ako treba malo zapet više raditi, mogli biti, ajmo, ako vidimo, neće režišati, ne možemo, ajmo sačekati mjesec dva, pa onda to dodati. Dogovoreno, dogovoreno. Nego ja to sam spomenula, od što smo o tome razgovarali, pako, možda sad u ovoj nekoj fazi treba nešto bazno da ne preskočite pa da se ne morate vraćati, znaš, čisto da mi razmišljate da će biti onri, znači, bit ćmat, onaj, ovo začme, ne znam. Imaće sa strane ovu fiskalnu kasu, koja isto, ne znam, jeste vidjeli sad ove noje fiskalne kase Europolosko-Srpsko-Ensko telefon. Da. Imaju onaj touchscreen i sve to, njima je to okej. Tu smo isto izbjegli onaj, dosta nekih stvari i povezivanja. Imali su neke lude ideje pa smo ih uspjeli odgovoriti od toga. I vjerovatno će imat sa strane još i taj uređaj za kačno plaćanje. S kojom bankom već se budu dogovorili. To je tako su valjda zamisli i tako idu u tom pravcu. Mi trebamo da znamo da će biti to kačno plaćanje. Pa reko da čisto znate da u ovom momentu, ako šta treba to pripremiti, da ne radimo dopli posao. A šta sad ja s tobom razmišljam, ako će on u svakom autu imat mogućnost kartečnog plaćanja, šta će imati preko moktela? Nisam razumio. Ako će imati terminal u svakom autu, gdje ja mogu odlučit kad završim i uloženje, ko ću obrati cash-u marke ili ću provući karticu, šta će imati da preko moktela plaće? Mislim, treba imati. Ali ono, recimo, znaš, tipa, ja ne znam da ti u Uberu ne možeš plat karticom, na licu mjesta izvuš karticu i plat. Nemožeš, ne možeš. Jer onda oni ovdje nudi duplo rješenjaju. Ja, onda, jel sam ja, onda Timur je pogrešno razumio. Onda on neće imati terminale u Uber. On je li moguće da... On je planirali imati terminale, to mi nije bilo jasno, jer faktički ono što Fars kaže, nema potrebe za terminalom, osim da ti uopšte ne plaćaš prije nego kad dođeš da karticu... Ne, ne, ne, neće ima terminale. Zna, sad sam ja, malo se vraćam, otvaram foldere, oni iz tog razloga i traže Monri, znaš da je on govorio, pošto Monri ti omogućava real time transakcije, a ti kroz terminal u suštini, ja mislim da bank je tu kasnije dosta. Ali ima Monri svoju uređaj, mi smo za Centrotransga. Ono, možeš isprintati račun, možeš kartcu provući, možeš imati Monri. Ina znaš što se nosi. Jesi, mi smo ovoje za centra. Pa ne znam, evo, ja či njima, pre nije čini te informacije, nisam ja to znao da momri ima svoje, pa nek to kad budu jurli ganjali, da ono, znaš, ako će imati terminale onda ne mora plaćati preko mobilnje. Ujedno i Android i može cijelu aplikaciju na njemu imat čak. Što je dobra stvar jer oni čak tamo imaju dobre GPS čipove i mogu i... Ovo smo mi autobuse pratili oni mogu tak ste. A nije im loše imat terminal jer... Da, da, dobra informacija za njih. Nije im loše imat terminal ako ganjaju ciljei turiste koji snabutno navaju aplikacije. Ne znam, možda će nekog pokupiti koji nema aplikaciju nikako. I ono samo naplati i idemo dalje. Ne znam, ne znam, imaju tu općiju. Ovo nije taksi. Al ja možda nađem neko... Hvala za imate, ja ću im prenijet pa zet, pa što manje mi je poslanjma. Nama bi bilo najmanje poslada, da ne moramo to implementirati, ali realno ovako ćemo pošteno biti s ureda i koštenima. Najepitiji da je mi na prilu plaćamo. Pa jesite. Šta oni odlučuje, ti njima slobodno već. Da, da, reći ja njima, imate opcije, imate ovu. Nama je jedna lakša, a druga i nama puno isplativija. Dobro, ja nemam više ništa, ako ti imaš nešto da... To je to, ja mislim da smo sve za sad prašli. Čemo vidjeti dalje, kako je Apsir poslati, da imamo i to, ako se treba što dodavat, mijenjati. Sa strane mobilne aplikacije i objavljivanja, vjerovatno će im Apple oduštva. Tako da im možda napomenite, vjerovatno će imat samo za Android u početku, ne zbog nas, nego zbog njih. A da, da, zbog zbog. Jer oni, ako tek otvaraju firmu, ne mogu je znajih. A da, da, zbog zbog. Jer oni, ako tek otvaraju firmu, ne mogu je, znači, otvoriti, ne mogu račun otvoriti na nju. To je i ne. Upravo. Oni moraju imat firmu da bi počeli išta to. Zato je meni bilo čudno, mislim, sad me nije čudno zašto ih i Google Play izignorso, ako se prijavljaju kao fizičko vici, kao odični user. Jesi moraš i oni podatke davati. Jednako imaju svoju neku drugu firmu, ali ne znam. To treba povjeriti s njima, Bojane, da vidimo na koji način su oni aplicirao. Da li onaj momak direktno kao on aplicirao, što je onda logično zašto ga ignorišu ili je kao neko pravno lice pristupio. Jer ja sam išao logikom da niko neće ovo kao fizičko lice prijaviti. Nemam i logike nikak prije tu. Dobro, ja sam upisao se. Na koji način se aplicira Play App Store? Nalog. Firma ili radno. Ali uglavnom je da znaju da im je to i da mi napravimo sve, mi možemo dati apkvobo začma i da oni testiraju, ali onda dok dođe do korisnika, ne zavisio od te tamo. Da, ja sam nima to već rekao prije mesi dana, daš tako da ono, ja neću dat svoje nalogue, mislim da je smisla, da imam svoje nalogue, on, imaju firme, pa onda opet moramo migraciju raditi. To je dupla glava, bolje da bi... Ma ja ne bih ulazio u te avanture. Sve kako će ona ili s aplikacija kasnije, Apple radi u valodaciju, svake aplikacije imali račun ili ne, taj proces prvi pukat se objavljaju, od krati treba je preučno. Na, da. Minimalna sedmica. Dobro, ja nijem više ništa. Nijem nija, što se mene tiče. Napadamo. Ako možda momci još sada mi koji pogovorimo Bojanje? Nije problema, mogli da smo ahirom samo minut jedan, ali ne smetati me. Samo da što ga pitam, vezavljamo naš drugi ampak. Jesi gledao možda mahe za best? Ja vas samo pozdravljam, onda čujemo se."
+}

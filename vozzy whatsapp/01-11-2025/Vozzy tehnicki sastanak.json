@@ -1,0 +1,652 @@
+{
+  "speakers": [],
+  "chunks": [
+    { "timestamp": [0.0, 3.0], "text": " Iskreno, admin bih različno ljuda." },
+    {
+      "timestamp": [4.0, 10.0],
+      "text": " Ja, li će li biti kolekcija u tabel, onovo? Nova kolekcija ili kao user sa rolom admin?"
+    },
+    {
+      "timestamp": [13.0, 18.0],
+      "text": " Ne znam, ja bi možda čuo sve da nam bude izjedna."
+    },
+    {
+      "timestamp": [19.0, 23.0],
+      "text": " Kanta možda je lakše, tako... Ma da možemo i naprav novu kolekciju."
+    },
+    { "timestamp": [24.0, 25.0], "text": " Admin i..." },
+    { "timestamp": [25.0, 30.0], "text": " Pa sva kao koj driver. Može i tu." },
+    {
+      "timestamp": [30.0, 34.0],
+      "text": " Ja, možemo daći u admin izučno ćemo tu dodati."
+    },
+    {
+      "timestamp": [34.0, 39.0],
+      "text": " Kad su s tim broje telefura neko uloguje, ti ćeš vidjeti."
+    },
+    {
+      "timestamp": [39.0, 45.0],
+      "text": " Ima ona opcija kao testne brojeve telefona."
+    },
+    { "timestamp": [45.0, 48.0], "text": " Možda možemo adminima dati." },
+    {
+      "timestamp": [48.0, 54.0],
+      "text": " Datnemo neki random broj telefonski i dobiješ onaj testni kod."
+    },
+    { "timestamp": [54.0, 58.0], "text": " Ne trebaš print SMS." },
+    { "timestamp": [58.0, 61.0], "text": " Ukućaš broj, ukućaš taj kod." },
+    {
+      "timestamp": [61.0, 66.0],
+      "text": " Ja bi admin dao dao neki ide isto. Nek admin isto ide."
+    },
+    { "timestamp": [66.0, 68.0], "text": " Preko sms-e." },
+    { "timestamp": [68.0, 70.0], "text": " Normalno, to login, to je to." },
+    { "timestamp": [70.0, 72.0], "text": " Maja." },
+    { "timestamp": [72.0, 74.0], "text": " Samo neće ono ne imat." },
+    { "timestamp": [74.0, 76.0], "text": " A dobri imaće dodatni." },
+    { "timestamp": [76.0, 78.0], "text": " Hajme reći." },
+    { "timestamp": [78.0, 80.0], "text": " Kako se zove?" },
+    { "timestamp": [80.0, 82.0], "text": " Ma ono user." },
+    {
+      "timestamp": [82.0, 87.0],
+      "text": " Ma ono više, samo ga da je permisija da ga razvijemo i to je to."
+    },
+    {
+      "timestamp": [87.0, 92.0],
+      "text": " Admin je li tako, ne može uopšte vidjeti onaj..."
+    },
+    {
+      "timestamp": [92.0, 96.0],
+      "text": " Ne može root svojni, samo ima svoje paneli."
+    },
+    {
+      "timestamp": [96.0, 101.0],
+      "text": " Znači napravit ćemo, kad uđe, naprije mapu sa svoj odlačima..."
+    },
+    {
+      "timestamp": [101.0, 113.0],
+      "text": " I management odlača dodali. Da ima neko dugmeta koje management ili ono listav vozača gdje će moć enable disable uraditi i možda čak block."
+    },
+    {
+      "timestamp": [113.0, 117.0],
+      "text": " Mada ne, hajmo za početak samo disable, neko ne sviđa se disable, može ga permanent i to je to."
+    },
+    {
+      "timestamp": [117.0, 126.0],
+      "text": " Treba će oni ove tipove vozila, hoće vam biti to posebna tabela?"
+    },
+    {
+      "timestamp": [130.0, 131.0],
+      "text": " Ja sam kontao vozilo vezat za vozaca. Da."
+    },
+    {
+      "timestamp": [131.0, 150.4],
+      "text": " Driver's kolekcija ima vozilo. Ja sam zadoo da bude Škoda Fabija, nego da bude u jednom fieldu Škoda Fabija."
+    },
+    { "timestamp": [152.6, 154.4], "text": " Jal, onaj..." },
+    { "timestamp": [155.4, 156.4], "text": " Kako ćemo to..." },
+    { "timestamp": [157.6, 159.2], "text": " Dobro, haću kako vi odlučit." },
+    {
+      "timestamp": [159.7, 164.4],
+      "text": " Jer glavamo opet ono kao kada taj posjeka bude tri tipa."
+    },
+    { "timestamp": [169.0, 172.0], "text": " Oće li biti lako to filtrirat?" },
+    {
+      "timestamp": [179.0, 187.0],
+      "text": " Hoću, ja bi isto držao tip, ne znam kako idu te kategorije, standard, premium. Eko standard li premium, tako nešto lakše?"
+    },
+    {
+      "timestamp": [187.0, 201.0],
+      "text": " Ma ja, to isto čuvat u sklopu vozača. Šta god da radimo s vozilima, mi svakako radimo i sa vozačima. Onda samo filtriramo vozača koji imaju vozlo tog tipa i to što."
+    },
+    { "timestamp": [201.0, 203.0], "text": " Tako je." },
+    {
+      "timestamp": [203.0, 208.0],
+      "text": " Mislim, ovo je na taj fazlon radi dok se ne treba zaje."
+    },
+    {
+      "timestamp": [209.0, 218.0],
+      "text": " Jel moguće da imaju vozače, ne znam, koji imaju više vozila?"
+    },
+    {
+      "timestamp": [219.0, 222.0],
+      "text": " Zavisno ko šta naruči, on se jednu u jednu ili u drugu?"
+    },
+    {
+      "timestamp": [224.0, 226.0],
+      "text": " Dobro pitanje, tu moramo vjeti sam."
+    },
+    {
+      "timestamp": [226.0, 231.0],
+      "text": " Ma da, da, škako su oni rekli, da se dodjeljuje tablica, tako da čisto sumnjam."
+    },
+    { "timestamp": [231.0, 232.0], "text": " A to u kasnje..." },
+    {
+      "timestamp": [232.0, 236.0],
+      "text": " Evala, to je naš problem. Mislim, ono, ako ti naručiš učiznom vozlov,"
+    },
+    {
+      "timestamp": [236.0, 239.0],
+      "text": " možda ti ne dođe neki Audi, ne dođe neki BMW,"
+    },
+    {
+      "timestamp": [239.0, 242.0],
+      "text": " jer bi biti da ono, učizno. E sad, od duše po zakonu,"
+    },
+    { "timestamp": [242.0, 244.0], "text": " možda tu oni trebali paziti." },
+    {
+      "timestamp": [244.0, 247.0],
+      "text": " Međutim, ugovornici ne piše ko je auto."
+    },
+    { "timestamp": [247.0, 249.0], "text": " Tako da..." },
+    {
+      "timestamp": [249.0, 254.0],
+      "text": " Ali jesem dobar ugova, kaže, ti zapravo iznanjuješ auto s vozačom."
+    },
+    { "timestamp": [254.0, 257.0], "text": " Tako da, jesu, jesu." },
+    {
+      "timestamp": [257.0, 265.0],
+      "text": " Tako da, ja ne bi to razmišljao. Znači ono što oni unesu u bazu koz admin panel, to auto će biti čao."
+    },
+    {
+      "timestamp": [265.0, 268.0],
+      "text": " Onak promijeni auto, brate, uđi u admin panel, promijenimo auto."
+    },
+    { "timestamp": [268.0, 270.0], "text": " Dobro." },
+    { "timestamp": [270.0, 272.0], "text": " Znaš, ne bi auto razmišljio." },
+    { "timestamp": [272.0, 274.0], "text": " Dobro, tako to." },
+    { "timestamp": [274.0, 275.0], "text": " Svakako." },
+    { "timestamp": [275.0, 277.0], "text": " Imamo li nešto?" },
+    {
+      "timestamp": [277.0, 281.0],
+      "text": " Sad ćemo prvo bicama od biranja."
+    },
+    {
+      "timestamp": [281.0, 288.0],
+      "text": " Pa nama bi trebala ta šema podataka, to je definitivno prvi potez."
+    },
+    {
+      "timestamp": [288.0, 293.0],
+      "text": " Sad što imamo podataka su drivers i users."
+    },
+    {
+      "timestamp": [293.0, 297.0],
+      "text": " Ja, ali generalno za cijeli, da prvo to smislite."
+    },
+    {
+      "timestamp": [297.0, 314.0],
+      "text": " Možemo lokat nere za srti? Može, može. E samo jedna stvar pre toga, što se tiče samog plova vraćanja lokacije,"
+    },
+    {
+      "timestamp": [314.0, 331.0],
+      "text": " mi smo skontrolovanili najlakše da mobilna aplikacija upisuje u real time database, svaki, 10 sekundi, možemo zagovariti lokaciju svakog, ili urađaja i usera."
+    },
+    { "timestamp": [331.0, 332.0], "text": " Dobro." },
+    {
+      "timestamp": [332.0, 334.0],
+      "text": " To je predpostavljate, mahoj ok."
+    },
+    { "timestamp": [334.0, 336.0], "text": " Pa jeste, jeste." },
+    {
+      "timestamp": [336.0, 348.32],
+      "text": " Jer onda ne moramo vjezati sa socketima i svakšto nešto, samo svaki urađaj upisuje lokaciju, onda mi tamo kupimo iste tabele, onaj, da mečeram koji je najbliže gozač."
+    },
+    { "timestamp": [349.12, 350.24], "text": " Tamo, tamo." },
+    {
+      "timestamp": [355.36, 358.2],
+      "text": " Dobra, mislim da je to to, onda."
+    },
+    {
+      "timestamp": [359.32, 366.0],
+      "text": " Mi ćemo gledat, ne znam, šta nam je sad od ovih najpreći, da li je admin, ali vidjet ćemo."
+    },
+    {
+      "timestamp": [367.0, 372.0],
+      "text": " Da li usera pravi prvo, je li ćemo onako uporada?"
+    },
+    { "timestamp": [374.0, 387.0], "text": " Što se backenda ti će to ići." },
+    { "timestamp": [387.0, 388.0], "text": " Može." },
+    {
+      "timestamp": [388.0, 391.0],
+      "text": " Vidim kako je Firebase, e-mail i to."
+    },
+    {
+      "timestamp": [391.0, 393.0],
+      "text": " To bi trebalo da nije koli problemu?"
+    },
+    { "timestamp": [393.0, 394.0], "text": " Pa ne bi trebalo." },
+    {
+      "timestamp": [394.0, 400.0],
+      "text": " To samo trebamo kad ti on popni, odnosno neće to u mobile ratu,"
+    },
+    {
+      "timestamp": [400.0, 413.12],
+      "text": " jer ti trebaš opet neka funkcija kad ono završi vožnja? No, ja naprav ćeo trigger kad se vožna kompletira da se kreira PDF i da se šigne na nil."
+    },
+    {
+      "timestamp": [413.12, 415.92],
+      "text": " To trebalo da bude oprije lično jednostavno."
+    },
+    { "timestamp": [415.92, 417.92], "text": " To ne biće bolo srašno." },
+    {
+      "timestamp": [417.92, 422.72],
+      "text": " Reci mi sad ovako, Mahe, znači, aj napraviti šem da imaš ti uglavka kak prigleda."
+    },
+    {
+      "timestamp": [422.72, 428.3],
+      "text": " Onda sada radi u dodavanje drivera i to funkcionaš je, jel to ok radi?"
+    },
+    {
+      "timestamp": [428.3, 433.1],
+      "text": " Jesi, jesam je to ovaj dodatak triggera za SMS login."
+    },
+    {
+      "timestamp": [435.24, 437.0],
+      "text": " To je ovaj bug sačo smo rekli u takvom."
+    },
+    { "timestamp": [437.0, 438.0], "text": " Maja, maj." },
+    {
+      "timestamp": [439.0, 444.0],
+      "text": " To ću ja napraviti da funkcija provjerava. Ono što da to provjerava."
+    },
+    {
+      "timestamp": [444.0, 448.0],
+      "text": " Dobro, i nakon toga šta sljedeće radite vi?"
+    },
+    {
+      "timestamp": [448.0, 454.0],
+      "text": " Pa, bez kontaču, možda to za admina, jer da mogu dodavat vozila."
+    },
+    {
+      "timestamp": [454.0, 458.0],
+      "text": " Da oni imaju nešto kao testirat, dok mi pravimo sljedeće."
+    },
+    {
+      "timestamp": [458.0, 463.0],
+      "text": " Znači da praviš i za dodavanje drajvera, jel?"
+    },
+    {
+      "timestamp": [463.0, 467.36],
+      "text": " Dodavanje vozača i dodavanje voziva. Da odmah admina riješimo."
+    },
+    { "timestamp": [468.64, 469.64], "text": " Da." },
+    {
+      "timestamp": [469.64, 473.16],
+      "text": " Jer tu je, havo reći, crado najobičniji, a onaj..."
+    },
+    {
+      "timestamp": [474.52, 480.16],
+      "text": " A može imati vizualno efekta kad im pošaljem map, kje i to igraju se."
+    },
+    {
+      "timestamp": [480.16, 482.72],
+      "text": " Slažim se. Da vidi da smo nešto dravili."
+    },
+    { "timestamp": [482.72, 483.08], "text": " Jesi." },
+    {
+      "timestamp": [483.08, 486.0],
+      "text": " Ali šta onda, što ti će bekenda, šta tebi još tu treba?"
+    },
+    {
+      "timestamp": [486.0, 490.0],
+      "text": " Ti imaš mogućnost da dodaš drivers, ti imaš mogućnost za usere, je li tako?"
+    },
+    { "timestamp": [490.0, 491.0], "text": " Da." },
+    { "timestamp": [491.0, 494.0], "text": " Tu ja niste ne mogu dodati." },
+    {
+      "timestamp": [494.0, 505.0],
+      "text": " Pa trenutno ne, ali ako imam tipov, će reštati dosta ti belaja jer ne znam, kolega je stavljio surname, ono umjesto last name, ne znam kako ste vi zamislili."
+    },
+    { "timestamp": [505.0, 508.0], "text": " To sada ću vam, da li je?" },
+    {
+      "timestamp": [508.0, 515.0],
+      "text": " Sad ću mi napraviti še imamo sa svim kolekcijama kojih sve kolekcije će biti točno poslati."
+    },
+    {
+      "timestamp": [515.0, 528.0],
+      "text": " Ete, mislim, to je to. Idemo samo uporado, da znamo, admin će biti prvi, eto njihove ckolefce isto onda za admine napraviti."
+    },
+    {
+      "timestamp": [528.0, 553.0],
+      "text": " Pitaćemo ih odmah dječi neki potest."
+    },
+    {
+      "timestamp": [555.0, 567.0],
+      "text": " Može. Znači, ovako, zaključak, trebamo da te dostavimo šijemu, da vidiš kako to sve izgleda, da ćemo sve imati. Ja trebam priksat ovaj bagajan što imam."
+    },
+    {
+      "timestamp": [567.0, 571.0],
+      "text": " Imir zaradi, da ti si nezaleko da šal u vožnju završit,"
+    },
+    { "timestamp": [571.0, 572.0], "text": " jer prestal je vožnije." },
+    {
+      "timestamp": [572.0, 576.0],
+      "text": " Hoćeš li, u to računaš i računanje cijene ili da ja to uzme?"
+    },
+    {
+      "timestamp": [576.0, 581.0],
+      "text": " Ma, kom tam računanje cijene trebalo biti jednostavno?"
+    },
+    { "timestamp": [581.0, 583.0], "text": " Nemamo mi to šta?" },
+    {
+      "timestamp": [583.0, 590.0],
+      "text": " Samo trebamo neki API koji će udaljeno se začunati iz nekih koordinata i iskoristiti formule i vratiti u cijenu."
+    },
+    {
+      "timestamp": [590.0, 596.0],
+      "text": " Tako je, tako je. Zabaravljala sam istrano što smo se mi da govorili."
+    },
+    {
+      "timestamp": [596.0, 601.0],
+      "text": " Jel user unosi adresu ili unosi pin na mapu?"
+    },
+    {
+      "timestamp": [601.0, 607.0],
+      "text": " Ja za početak, e ja dobro pitanju, stvar vidiš ja, ja, ja. U vsakom slučaju mi treba imat..."
+    },
+    {
+      "timestamp": [607.0, 610.0],
+      "text": " Je li ima to ono, meni draft slučajno, da vidim?"
+    },
+    {
+      "timestamp": [610.0, 616.0],
+      "text": " Čekaj, na dizajnu da vidim samo. Nema. I stvar na dizajnu, hajj, na dizajnu stoje dva input fielda, samo i to je to."
+    },
+    {
+      "timestamp": [616.0, 620.0],
+      "text": " Ne ima mape, tako da, ajmo reći, idemo sa osnovno adresi."
+    },
+    { "timestamp": [620.0, 626.0], "text": " Evo ti draft na WhatsApp." },
+    {
+      "timestamp": [633.0, 634.0],
+      "text": " Ima bukvalno screen, moja lokacija, i piše polazak, i upiše lokaciju."
+    },
+    {
+      "timestamp": [639.0, 643.0],
+      "text": " Znači, unese ju bukvalno bez mapi, nema pin na mapi."
+    },
+    {
+      "timestamp": [645.44, 647.42],
+      "text": " I sam pjavljeno do dugme? Imate li vi API izvati adrese?"
+    },
+    {
+      "timestamp": [647.58, 650.26],
+      "text": " Morate se uvzeti nije Carajevske adrese."
+    },
+    { "timestamp": [653.78, 655.76], "text": " Ne znam kako to išlo." },
+    {
+      "timestamp": [655.76, 660.32],
+      "text": " Ja predpostavljam čak da to nobiljna trbala"
+    },
+    {
+      "timestamp": [660.32, 667.0],
+      "text": " kroz URL Maps API da može automatski rad."
+    },
+    {
+      "timestamp": [667.0, 671.0],
+      "text": " Nisam 100% siguran, to je naša što bi trebalo projekta."
+    },
+    { "timestamp": [671.0, 673.0], "text": " Ja, u oba slučaja..." },
+    {
+      "timestamp": [673.0, 677.0],
+      "text": " Ja, generalno meni je puno lakše rad s koordinatima nego s adresama."
+    },
+    { "timestamp": [677.0, 679.0], "text": " Pa iako tamo." },
+    {
+      "timestamp": [679.0, 682.0],
+      "text": " Sad, ali to kroz Google Maps API..."
+    },
+    {
+      "timestamp": [682.0, 686.5],
+      "text": " Mislim, ja ću svakako slati koordinate. Mog ti u pozorni slati."
+    },
+    { "timestamp": [686.5, 688.5], "text": " Da odrediš." },
+    { "timestamp": [688.5, 692.5], "text": " I da mu kao suđestaš, ono..." },
+    { "timestamp": [692.5, 694.5], "text": " Ajmo reći." },
+    { "timestamp": [694.5, 696.5], "text": " Predložiš par..." },
+    { "timestamp": [696.5, 699.5], "text": " nekih adresa." },
+    {
+      "timestamp": [699.5, 703.5],
+      "text": " Hajde, to možemo vidjeti kad dođemo s mobilom."
+    },
+    {
+      "timestamp": [703.5, 707.0],
+      "text": " To ne bi trebalo što god da odabiramo, ne bi trebala biti velika izmjena."
+    },
+    {
+      "timestamp": [707.0, 715.0],
+      "text": " Pozadni sve će razgledati kornatama kako god. Možemo prikazivati ovako i onako, trebalo bi da možemo fiksati."
+    },
+    {
+      "timestamp": [715.0, 730.0],
+      "text": " Ja sam poprilično siguran da Google Map podržava kornate iz adresu jer ti kad uneseš pre aplikaciju adresres, on će te odmah pin postat. I manje srčanja, moraš kucać tekst, odres, pa..."
+    },
+    { "timestamp": [731.0, 732.0], "text": " Ma da." },
+    { "timestamp": [732.0, 734.0], "text": " Znate samo što..." },
+    {
+      "timestamp": [734.0, 751.0],
+      "text": "...zabora misače. Bila je ona jasa, ja bi mora ići przo. Ali možemo, imamo plan akcije, samo sljedeće esencije se čunijemo."
+    },
+    { "timestamp": [751.0, 754.0], "text": " Za status i za sve." },
+    {
+      "timestamp": [754.0, 758.0],
+      "text": " Može samo da spokšemo sve što sam htio od momenta."
+    },
+    { "timestamp": [758.0, 760.0], "text": " Nešto je bilo biti to." },
+    { "timestamp": [760.0, 762.0], "text": " Ima ono možda rute, mače." },
+    { "timestamp": [762.0, 764.0], "text": " Izminite, računalje cijeni." },
+    {
+      "timestamp": [764.0, 769.0],
+      "text": " Mi ovdje niti ne damo useru mogućnost da izračunati cijenu priještvo stata vožnjima."
+    },
+    {
+      "timestamp": [769.0, 774.0],
+      "text": " Mi njegu traži vožnju i tek onda ćemo mu, kad se vožnja, pripraviti reći koliko je para."
+    },
+    { "timestamp": [774.0, 776.0], "text": " A u tome se ne sviđa." },
+    {
+      "timestamp": [776.0, 778.0],
+      "text": " Ne, ne, to definitivno ne može tako."
+    },
+    {
+      "timestamp": [778.0, 783.0],
+      "text": " Mi njemu već moramo izračunati onaj cijen, to mora vidjeti."
+    },
+    {
+      "timestamp": [783.0, 787.0],
+      "text": " Znači, hajmo napraviti ovako, morat ću malo biti dizajnovati promijeniti."
+    },
+    {
+      "timestamp": [787.0, 791.0],
+      "text": " Ovdje je, kako ja vidim ovaj, aj čekaj, ne znam, ali vidite vi, gledate li imate ovaj dizajn, ne znaš širast."
+    },
+    { "timestamp": [791.0, 793.0], "text": " Imam ja ovdje." },
+    {
+      "timestamp": [793.0, 797.0],
+      "text": " Znači, ovdje ima ovaj screen moja lokacija, nakon ovoga je taj se svoje vožje,"
+    },
+    {
+      "timestamp": [797.0, 802.0],
+      "text": " moja lokacija, gdje ti uneseš svoju lokaciju, uneseš dolazak,"
+    },
+    {
+      "timestamp": [802.0, 806.4],
+      "text": " a ja bi tu natravio, prije nego što prihaš traži vozač."
+    },
+    {
+      "timestamp": [806.4, 812.0],
+      "text": " Kad se oba fielda popuni, i polazak i dolazak, da tad ti, Mahir, iskoristiš ovu funkciju"
+    },
+    {
+      "timestamp": [812.0, 815.4],
+      "text": " za začunanje cijene i da mu cijelu prikažeš negdje nad na ekranu."
+    },
+    {
+      "timestamp": [815.4, 820.0],
+      "text": " I kad on vidi cijelio, onda može traži opciju, traži vožnu prije."
+    },
+    {
+      "timestamp": [820.0, 823.0],
+      "text": " Ima opcija traži drugog vozača, ali..."
+    },
+    { "timestamp": [823.0, 825.0], "text": " Manda to je sve isto." },
+    {
+      "timestamp": [825.0, 831.0],
+      "text": " Ja isto je po vozač, za kopsnika isto."
+    },
+    { "timestamp": [831.0, 834.0], "text": " Moja, moja, dobar. Može, može." },
+    {
+      "timestamp": [834.0, 839.0],
+      "text": " Doduš evo ovdje, vidiš, on ima ovdje da bira tip, jedan tip, dva tip, tri gdje mu piše cena."
+    },
+    {
+      "timestamp": [839.0, 849.0],
+      "text": " I onda kad klikne na taj tip, onda može kliknuti tražu. Nisam ovo vidio, zbini, nisam ovaj video dole, sorry, sorry, pravsi, pravsi, nisam ovo vidio."
+    },
+    {
+      "timestamp": [849.0, 854.0],
+      "text": " Ja sam kontrolo, čim kliknem tražu, vožu, da će mi poslat zaakcije nakon što uresa lokaciju."
+    },
+    {
+      "timestamp": [854.0, 858.0],
+      "text": " Ali vidiš, ne, znači kad kliknem tražu, malo me zbunio ovaj dizajn, znači ovdje imam,"
+    },
+    {
+      "timestamp": [858.0, 862.0],
+      "text": " aj pogledaj, to ovaj screen moja lokacija, imam onda ovdje gore piše moja lokacija,"
+    },
+    {
+      "timestamp": [862.0, 866.0],
+      "text": " polazak, upiši lokaciju i dolaz. Šta se desi kad ja kliknem traži vožnju?"
+    },
+    {
+      "timestamp": [866.0, 868.0],
+      "text": " Jel bi otvrio ovaj idući skrim gdje..."
+    },
+    {
+      "timestamp": [868.0, 873.0],
+      "text": " Ma ja, mapu IPC tipove razložite."
+    },
+    {
+      "timestamp": [873.0, 887.8],
+      "text": " Ne, prvo upisujem lokaciju polazka, pa upisujem lokaciju dolazka i onda mi se ponovo pojavi traži vožnje. To mi je malo dupliji poslov. A vi vjerujem da će korigovat to."
+    },
+    {
+      "timestamp": [888.9, 891.5],
+      "text": " Znači ja bi samo ovdje... Šta bi ja uradio, Mahre?"
+    },
+    {
+      "timestamp": [891.5, 896.9],
+      "text": " Na ovom skrinu moja lokacija gdje piše velikim, nakon ovoga pratite svoje vožnje."
+    },
+    {
+      "timestamp": [896.9, 899.3],
+      "text": " Vidiš taj skrin gdje piše o pozdrav, zarez ime."
+    },
+    { "timestamp": [899.3, 900.3], "text": " Dobro." },
+    {
+      "timestamp": [900.9, 912.0],
+      "text": " Ja bi ovdje izbacio dugme traživo vožnje, samo bih stavio dugme unesam lokaciju. To klikne, on dam otvorim mapu, ovaj od ozbovo sheet, bottom sheet, sa upisivanjem lokacije, dolaska i poleska."
+    },
+    { "timestamp": [912.0, 914.0], "text": " Moja, tamo." },
+    {
+      "timestamp": [914.0, 920.0],
+      "text": " Jer ovdje traživo vožnje mi već zvuči kao da ja već gotove unio sam sve i sad ja idem čalim zahtjeb za vožnju,"
+    },
+    {
+      "timestamp": [920.0, 924.0],
+      "text": " a ni znam koje auto, ni znam koliko para, ne znam ništa, izbunio je to dal."
+    },
+    { "timestamp": [924.0, 925.96], "text": " Jesi, jesnam ništa. Po me mi." },
+    {
+      "timestamp": [927.56, 930.76],
+      "text": " Znači, samo tu izbaciti traži vožnju i gleda u nesta lokaciju."
+    },
+    {
+      "timestamp": [930.76, 935.64],
+      "text": " Onda mu otvara bottom shift mapa, ispod ide bottom shift gdje on upisuje lokaciju,"
+    },
+    {
+      "timestamp": [935.64, 939.4],
+      "text": " upisuje destinaciju i onda se pojavljuje traži vožnju."
+    },
+    { "timestamp": [940.64, 941.64], "text": " Super." },
+    {
+      "timestamp": [942.8, 950.0],
+      "text": " A čak ne bi ditad, ne bi niko napisao tražnog oložen, nego bi tu napisao, ne znam, ona vrte TIF vozla."
+    },
+    {
+      "timestamp": [950.0, 955.0],
+      "text": " I onda kad to klikne, onda mu se otvori TIF-ovi sa cijenama i onda se pojavljuje..."
+    },
+    {
+      "timestamp": [955.0, 962.0],
+      "text": " Mislim, po dizajnu, on vam, kad se biraju TIF-ovi, on nudi koliko je udaljeno koje je vozla."
+    },
+    {
+      "timestamp": [962.0, 966.0],
+      "text": " Što smo sad rekli, ono, to je skriveno korisnikom."
+    },
+    {
+      "timestamp": [967.0, 970.0],
+      "text": " Ali eto to moramo iskomunicirat sa timurom."
+    },
+    { "timestamp": [971.0, 973.0], "text": " To definitivno." },
+    {
+      "timestamp": [973.0, 979.0],
+      "text": " Da ne očekuju to, a ne možemo ili ne planiramo da to dodamo."
+    },
+    {
+      "timestamp": [982.0, 987.0],
+      "text": " Ja mislim da smo ovdje prikazani vozače, ali to svakako."
+    },
+    {
+      "timestamp": [987.0, 999.0],
+      "text": " Ali to nam nije toliko poslani, ako imamo, kako se zove, i štačima ako ima više tipa, imaju ti dva, a samo najbliže prikazujemo vozače."
+    },
+    { "timestamp": [999.0, 1001.0], "text": " Pa ovdje sve prikazujemo." },
+    {
+      "timestamp": [1001.0, 1005.64],
+      "text": " Pa vidim, možemo ih prikazivati sve, ali treba onda vidjeti s njima je li to taj algoritam što žele."
+    },
+    {
+      "timestamp": [1005.64, 1011.7],
+      "text": " Da mi svima pomtimo vožnu pa ko prvi prihvati, prihvati. Ili onaj ko je najbližnji."
+    },
+    {
+      "timestamp": [1011.7, 1015.76],
+      "text": " A i onda je možda dosta kalkulacija nam, možete li dohvatiti što..."
+    },
+    {
+      "timestamp": [1015.76, 1028.0],
+      "text": " Ja vidi, svima je bolje. I vozaču je bolje, i uzeru je bolje da mu može najbliži. Tako da ja ne bišu... I busak čititi na platu,"
+    },
+    { "timestamp": [1028.0, 1030.0], "text": " ne treba ju ubijati," },
+    {
+      "timestamp": [1030.0, 1032.0],
+      "text": " mislim, sad da on primat će sve."
+    },
+    { "timestamp": [1032.0, 1034.0], "text": " Tako da ja bišu tu," },
+    { "timestamp": [1034.0, 1036.0], "text": " mislim što ste već počinati" },
+    {
+      "timestamp": [1036.0, 1038.0],
+      "text": " s Pramalskom najbližijeg vozača,"
+    },
+    {
+      "timestamp": [1038.0, 1040.0],
+      "text": " a ako imamo najbližijeg, veoma leko"
+    },
+    { "timestamp": [1040.0, 1042.0], "text": " možemo izračunati povijek." },
+    { "timestamp": [1042.0, 1044.0], "text": " Maro." },
+    { "timestamp": [1044.0, 1048.0], "text": " Pa, momci. Ovdje je legano." },
+    { "timestamp": [1048.0, 1050.0], "text": " Mara." },
+    { "timestamp": [1050.0, 1052.0], "text": " Vidimo se onda, čujemo se." },
+    {
+      "timestamp": [1052.0, 1056.0],
+      "text": " Važim, da je to dobro, sad imamo ti onaj šentu."
+    },
+    { "timestamp": [1056.0, 1058.0], "text": " Može, i hvala. Pa se vidimo." },
+    { "timestamp": [1058.0, 1060.0], "text": " Ajde, hvala. Uvijemo seča." }
+  ],
+  "text": " Iskreno, admin bih različno ljuda. Ja, li će li biti kolekcija u tabel, onovo? Nova kolekcija ili kao user sa rolom admin? Ne znam, ja bi možda čuo sve da nam bude izjedna. Kanta možda je lakše, tako... Ma da možemo i naprav novu kolekciju. Admin i... Pa sva kao koj driver. Može i tu. Ja, možemo daći u admin izučno ćemo tu dodati. Kad su s tim broje telefura neko uloguje, ti ćeš vidjeti. Ima ona opcija kao testne brojeve telefona. Možda možemo adminima dati. Datnemo neki random broj telefonski i dobiješ onaj testni kod. Ne trebaš print SMS. Ukućaš broj, ukućaš taj kod. Ja bi admin dao dao neki ide isto. Nek admin isto ide. Preko sms-e. Normalno, to login, to je to. Maja. Samo neće ono ne imat. A dobri imaće dodatni. Hajme reći. Kako se zove? Ma ono user. Ma ono više, samo ga da je permisija da ga razvijemo i to je to. Admin je li tako, ne može uopšte vidjeti onaj... Ne može root svojni, samo ima svoje paneli. Znači napravit ćemo, kad uđe, naprije mapu sa svoj odlačima... I management odlača dodali. Da ima neko dugmeta koje management ili ono listav vozača gdje će moć enable disable uraditi i možda čak block. Mada ne, hajmo za početak samo disable, neko ne sviđa se disable, može ga permanent i to je to. Treba će oni ove tipove vozila, hoće vam biti to posebna tabela? Ja sam kontao vozilo vezat za vozaca. Da. Driver's kolekcija ima vozilo. Ja sam zadoo da bude Škoda Fabija, nego da bude u jednom fieldu Škoda Fabija. Jal, onaj... Kako ćemo to... Dobro, haću kako vi odlučit. Jer glavamo opet ono kao kada taj posjeka bude tri tipa. Oće li biti lako to filtrirat? Hoću, ja bi isto držao tip, ne znam kako idu te kategorije, standard, premium. Eko standard li premium, tako nešto lakše? Ma ja, to isto čuvat u sklopu vozača. Šta god da radimo s vozilima, mi svakako radimo i sa vozačima. Onda samo filtriramo vozača koji imaju vozlo tog tipa i to što. Tako je. Mislim, ovo je na taj fazlon radi dok se ne treba zaje. Jel moguće da imaju vozače, ne znam, koji imaju više vozila? Zavisno ko šta naruči, on se jednu u jednu ili u drugu? Dobro pitanje, tu moramo vjeti sam. Ma da, da, škako su oni rekli, da se dodjeljuje tablica, tako da čisto sumnjam. A to u kasnje... Evala, to je naš problem. Mislim, ono, ako ti naručiš učiznom vozlov, možda ti ne dođe neki Audi, ne dođe neki BMW, jer bi biti da ono, učizno. E sad, od duše po zakonu, možda tu oni trebali paziti. Međutim, ugovornici ne piše ko je auto. Tako da... Ali jesem dobar ugova, kaže, ti zapravo iznanjuješ auto s vozačom. Tako da, jesu, jesu. Tako da, ja ne bi to razmišljao. Znači ono što oni unesu u bazu koz admin panel, to auto će biti čao. Onak promijeni auto, brate, uđi u admin panel, promijenimo auto. Dobro. Znaš, ne bi auto razmišljio. Dobro, tako to. Svakako. Imamo li nešto? Sad ćemo prvo bicama od biranja. Pa nama bi trebala ta šema podataka, to je definitivno prvi potez. Sad što imamo podataka su drivers i users. Ja, ali generalno za cijeli, da prvo to smislite. Možemo lokat nere za srti? Može, može. E samo jedna stvar pre toga, što se tiče samog plova vraćanja lokacije, mi smo skontrolovanili najlakše da mobilna aplikacija upisuje u real time database, svaki, 10 sekundi, možemo zagovariti lokaciju svakog, ili urađaja i usera. Dobro. To je predpostavljate, mahoj ok. Pa jeste, jeste. Jer onda ne moramo vjezati sa socketima i svakšto nešto, samo svaki urađaj upisuje lokaciju, onda mi tamo kupimo iste tabele, onaj, da mečeram koji je najbliže gozač. Tamo, tamo. Dobra, mislim da je to to, onda. Mi ćemo gledat, ne znam, šta nam je sad od ovih najpreći, da li je admin, ali vidjet ćemo. Da li usera pravi prvo, je li ćemo onako uporada? Što se backenda ti će to ići. Može. Vidim kako je Firebase, e-mail i to. To bi trebalo da nije koli problemu? Pa ne bi trebalo. To samo trebamo kad ti on popni, odnosno neće to u mobile ratu, jer ti trebaš opet neka funkcija kad ono završi vožnja? No, ja naprav ćeo trigger kad se vožna kompletira da se kreira PDF i da se šigne na nil. To trebalo da bude oprije lično jednostavno. To ne biće bolo srašno. Reci mi sad ovako, Mahe, znači, aj napraviti šem da imaš ti uglavka kak prigleda. Onda sada radi u dodavanje drivera i to funkcionaš je, jel to ok radi? Jesi, jesam je to ovaj dodatak triggera za SMS login. To je ovaj bug sačo smo rekli u takvom. Maja, maj. To ću ja napraviti da funkcija provjerava. Ono što da to provjerava. Dobro, i nakon toga šta sljedeće radite vi? Pa, bez kontaču, možda to za admina, jer da mogu dodavat vozila. Da oni imaju nešto kao testirat, dok mi pravimo sljedeće. Znači da praviš i za dodavanje drajvera, jel? Dodavanje vozača i dodavanje voziva. Da odmah admina riješimo. Da. Jer tu je, havo reći, crado najobičniji, a onaj... A može imati vizualno efekta kad im pošaljem map, kje i to igraju se. Slažim se. Da vidi da smo nešto dravili. Jesi. Ali šta onda, što ti će bekenda, šta tebi još tu treba? Ti imaš mogućnost da dodaš drivers, ti imaš mogućnost za usere, je li tako? Da. Tu ja niste ne mogu dodati. Pa trenutno ne, ali ako imam tipov, će reštati dosta ti belaja jer ne znam, kolega je stavljio surname, ono umjesto last name, ne znam kako ste vi zamislili. To sada ću vam, da li je? Sad ću mi napraviti še imamo sa svim kolekcijama kojih sve kolekcije će biti točno poslati. Ete, mislim, to je to. Idemo samo uporado, da znamo, admin će biti prvi, eto njihove ckolefce isto onda za admine napraviti. Pitaćemo ih odmah dječi neki potest. Može. Znači, ovako, zaključak, trebamo da te dostavimo šijemu, da vidiš kako to sve izgleda, da ćemo sve imati. Ja trebam priksat ovaj bagajan što imam. Imir zaradi, da ti si nezaleko da šal u vožnju završit, jer prestal je vožnije. Hoćeš li, u to računaš i računanje cijene ili da ja to uzme? Ma, kom tam računanje cijene trebalo biti jednostavno? Nemamo mi to šta? Samo trebamo neki API koji će udaljeno se začunati iz nekih koordinata i iskoristiti formule i vratiti u cijenu. Tako je, tako je. Zabaravljala sam istrano što smo se mi da govorili. Jel user unosi adresu ili unosi pin na mapu? Ja za početak, e ja dobro pitanju, stvar vidiš ja, ja, ja. U vsakom slučaju mi treba imat... Je li ima to ono, meni draft slučajno, da vidim? Čekaj, na dizajnu da vidim samo. Nema. I stvar na dizajnu, hajj, na dizajnu stoje dva input fielda, samo i to je to. Ne ima mape, tako da, ajmo reći, idemo sa osnovno adresi. Evo ti draft na WhatsApp. Ima bukvalno screen, moja lokacija, i piše polazak, i upiše lokaciju. Znači, unese ju bukvalno bez mapi, nema pin na mapi. I sam pjavljeno do dugme? Imate li vi API izvati adrese? Morate se uvzeti nije Carajevske adrese. Ne znam kako to išlo. Ja predpostavljam čak da to nobiljna trbala kroz URL Maps API da može automatski rad. Nisam 100% siguran, to je naša što bi trebalo projekta. Ja, u oba slučaja... Ja, generalno meni je puno lakše rad s koordinatima nego s adresama. Pa iako tamo. Sad, ali to kroz Google Maps API... Mislim, ja ću svakako slati koordinate. Mog ti u pozorni slati. Da odrediš. I da mu kao suđestaš, ono... Ajmo reći. Predložiš par... nekih adresa. Hajde, to možemo vidjeti kad dođemo s mobilom. To ne bi trebalo što god da odabiramo, ne bi trebala biti velika izmjena. Pozadni sve će razgledati kornatama kako god. Možemo prikazivati ovako i onako, trebalo bi da možemo fiksati. Ja sam poprilično siguran da Google Map podržava kornate iz adresu jer ti kad uneseš pre aplikaciju adresres, on će te odmah pin postat. I manje srčanja, moraš kucać tekst, odres, pa... Ma da. Znate samo što......zabora misače. Bila je ona jasa, ja bi mora ići przo. Ali možemo, imamo plan akcije, samo sljedeće esencije se čunijemo. Za status i za sve. Može samo da spokšemo sve što sam htio od momenta. Nešto je bilo biti to. Ima ono možda rute, mače. Izminite, računalje cijeni. Mi ovdje niti ne damo useru mogućnost da izračunati cijenu priještvo stata vožnjima. Mi njegu traži vožnju i tek onda ćemo mu, kad se vožnja, pripraviti reći koliko je para. A u tome se ne sviđa. Ne, ne, to definitivno ne može tako. Mi njemu već moramo izračunati onaj cijen, to mora vidjeti. Znači, hajmo napraviti ovako, morat ću malo biti dizajnovati promijeniti. Ovdje je, kako ja vidim ovaj, aj čekaj, ne znam, ali vidite vi, gledate li imate ovaj dizajn, ne znaš širast. Imam ja ovdje. Znači, ovdje ima ovaj screen moja lokacija, nakon ovoga je taj se svoje vožje, moja lokacija, gdje ti uneseš svoju lokaciju, uneseš dolazak, a ja bi tu natravio, prije nego što prihaš traži vozač. Kad se oba fielda popuni, i polazak i dolazak, da tad ti, Mahir, iskoristiš ovu funkciju za začunanje cijene i da mu cijelu prikažeš negdje nad na ekranu. I kad on vidi cijelio, onda može traži opciju, traži vožnu prije. Ima opcija traži drugog vozača, ali... Manda to je sve isto. Ja isto je po vozač, za kopsnika isto. Moja, moja, dobar. Može, može. Doduš evo ovdje, vidiš, on ima ovdje da bira tip, jedan tip, dva tip, tri gdje mu piše cena. I onda kad klikne na taj tip, onda može kliknuti tražu. Nisam ovo vidio, zbini, nisam ovaj video dole, sorry, sorry, pravsi, pravsi, nisam ovo vidio. Ja sam kontrolo, čim kliknem tražu, vožu, da će mi poslat zaakcije nakon što uresa lokaciju. Ali vidiš, ne, znači kad kliknem tražu, malo me zbunio ovaj dizajn, znači ovdje imam, aj pogledaj, to ovaj screen moja lokacija, imam onda ovdje gore piše moja lokacija, polazak, upiši lokaciju i dolaz. Šta se desi kad ja kliknem traži vožnju? Jel bi otvrio ovaj idući skrim gdje... Ma ja, mapu IPC tipove razložite. Ne, prvo upisujem lokaciju polazka, pa upisujem lokaciju dolazka i onda mi se ponovo pojavi traži vožnje. To mi je malo dupliji poslov. A vi vjerujem da će korigovat to. Znači ja bi samo ovdje... Šta bi ja uradio, Mahre? Na ovom skrinu moja lokacija gdje piše velikim, nakon ovoga pratite svoje vožnje. Vidiš taj skrin gdje piše o pozdrav, zarez ime. Dobro. Ja bi ovdje izbacio dugme traživo vožnje, samo bih stavio dugme unesam lokaciju. To klikne, on dam otvorim mapu, ovaj od ozbovo sheet, bottom sheet, sa upisivanjem lokacije, dolaska i poleska. Moja, tamo. Jer ovdje traživo vožnje mi već zvuči kao da ja već gotove unio sam sve i sad ja idem čalim zahtjeb za vožnju, a ni znam koje auto, ni znam koliko para, ne znam ništa, izbunio je to dal. Jesi, jesnam ništa. Po me mi. Znači, samo tu izbaciti traži vožnju i gleda u nesta lokaciju. Onda mu otvara bottom shift mapa, ispod ide bottom shift gdje on upisuje lokaciju, upisuje destinaciju i onda se pojavljuje traži vožnju. Super. A čak ne bi ditad, ne bi niko napisao tražnog oložen, nego bi tu napisao, ne znam, ona vrte TIF vozla. I onda kad to klikne, onda mu se otvori TIF-ovi sa cijenama i onda se pojavljuje... Mislim, po dizajnu, on vam, kad se biraju TIF-ovi, on nudi koliko je udaljeno koje je vozla. Što smo sad rekli, ono, to je skriveno korisnikom. Ali eto to moramo iskomunicirat sa timurom. To definitivno. Da ne očekuju to, a ne možemo ili ne planiramo da to dodamo. Ja mislim da smo ovdje prikazani vozače, ali to svakako. Ali to nam nije toliko poslani, ako imamo, kako se zove, i štačima ako ima više tipa, imaju ti dva, a samo najbliže prikazujemo vozače. Pa ovdje sve prikazujemo. Pa vidim, možemo ih prikazivati sve, ali treba onda vidjeti s njima je li to taj algoritam što žele. Da mi svima pomtimo vožnu pa ko prvi prihvati, prihvati. Ili onaj ko je najbližnji. A i onda je možda dosta kalkulacija nam, možete li dohvatiti što... Ja vidi, svima je bolje. I vozaču je bolje, i uzeru je bolje da mu može najbliži. Tako da ja ne bišu... I busak čititi na platu, ne treba ju ubijati, mislim, sad da on primat će sve. Tako da ja bišu tu, mislim što ste već počinati s Pramalskom najbližijeg vozača, a ako imamo najbližijeg, veoma leko možemo izračunati povijek. Maro. Pa, momci. Ovdje je legano. Mara. Vidimo se onda, čujemo se. Važim, da je to dobro, sad imamo ti onaj šentu. Može, i hvala. Pa se vidimo. Ajde, hvala. Uvijemo seča."
+}
